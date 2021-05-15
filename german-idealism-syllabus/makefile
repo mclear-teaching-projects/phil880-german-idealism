@@ -39,10 +39,10 @@ PANDOC_PDF_OPTIONS=--template=template.tex --pdf-engine=xelatex
 # Pattern-matching Rules
 
 %.html : %.yml
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_HTML_OPTIONS) -o german_idealism_syllabus.html $<
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_HTML_OPTIONS) -o phil880-german-idealism-syllabus.html $<
 
 %.pdf : %.yml
-	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o german_idealism_syllabus.pdf $<
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o phil880-german-idealism-syllabus.pdf $<
 
 # %.tex : %.yml
 # 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $<
@@ -70,4 +70,4 @@ clean:
 	- $(RM) $(EXPORTED_DOCS)
 
 move:
-	- mv syllabus* # move to desired place
+	- mv phil880-german-idealism-syllabus.* /Users/roambot/Dropbox/Work/projects/phil880-german-idealism/static/materials/
