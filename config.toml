@@ -1,5 +1,5 @@
 baseurl         = "https://phil880.colinmclear.net/"
-title           = "PHIL 880"
+title           = "PHIL 4/880 - Classical German Idealism"
 theme           = "hugo-bootstrap-premium"
 paginate        = 10
 copyright       = "Colin McLear"
