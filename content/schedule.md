@@ -8,7 +8,7 @@ toc = false
   identifier = "schedule"
 +++
 
-This is a tentative schedule. Check the [assignments](http://phil871.colinmclear.net/assignments) page for the most current
+This is a tentative schedule. Check the [assignments](http://phil880.colinmclear.net/assignments) page for the most current
 information.
 
 | Week  | Topic                    | Readings                                                                                              |
