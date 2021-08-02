@@ -1,4 +1,5 @@
-/* @import url(/css/google-fonts.css); */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
 
 #banner {
     padding: 85px 0;
@@ -11,7 +12,7 @@ html {
 }
 
 body {
-    font-family: 'Helvetica', 'Open Sans', 'sans-serif';
+    font-family:  'Helvetica', 'Open Sans', 'sans-serif';
     font-size: 17px;
     line-height: 1.628571;
     height:100%;
@@ -31,6 +32,57 @@ h2 {
 h3 {
     font-family: Avenir Light,sans-serif;
     font-variant: small-caps;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+h4 {
+    font-family: Avenir Light,sans-serif;
+    font-variant: small-caps;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+h5 {
+    font-family: Avenir Light,sans-serif;
+    font-variant: small-caps;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+h6 {
+    font-family: Avenir Light,sans-serif;
+    font-variant: small-caps;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+h7 {
+    font-family: Avenir Light,sans-serif;
+    font-variant: small-caps;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+h8 {
+    font-family: Avenir Light,sans-serif;
+    font-variant: small-caps;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+h9 {
+    font-family: Avenir Light,sans-serif;
+    font-variant: small-caps;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+h10 {
+    font-family: Avenir Light,sans-serif;
+    font-variant: small-caps;
+    text-decoration: underline;
+    font-weight: bold;
 }
 
 /* links */
@@ -134,6 +186,12 @@ nav > ul > li {
     text-decoration: none;
 }
 
+#sidebar {
+    text-align: left;
+    width: auto;
+    height: auto;
+}
+
 #sidebar a {
     color: black;
     border-bottom: 0px;
@@ -159,6 +217,7 @@ nav.navbar.navbar-default.navbar-fixed-top {
 
 nav.navbar.navbar-default.navbar-fixed-top .active a {
     background-color: #59B16F;
+    border-color: #59B16F;
     color: #fdfcfa;
 
 }
@@ -271,49 +330,70 @@ iframe {
     max-width: 100%;
 }
 
-/* Popover */
-.modal.ng-enter {
-    transition: opacity 1.5s ease-out;
-    opacity: 0;
-}
-.modal.ng-enter.ng-enter-active {
-    opacity: 1;
-}
-.modal.ng-leave {
-    transition: opacity 1.5s ease-out;
-    opacity: 1;
-}
-.modal.ng-leave.ng-leave-active {
-    opacity: 0;
+/* See https://ox-hugo.scripter.co/doc/org-toc/ */
+.ox-hugo-toc .heading {
+    padding: 50px 0 20px 0px;
+    font-family: Avenir Light,sans-serif;
+    font-variant: small-caps;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: left;
 }
 
-#Email.fieldValid {
-    border: 1px solid #00ff00;
-}
-#Email.fieldInvalid {
-    border: 1px solid #ff0000;
-
-    code.has-jax {font: inherit;
-                  font-size: 100%;
-                  background: inherit;
-                  border: inherit;}
 
 
-    /*   nav.navbar.navbar-default.navbar-fixed-top { */
-    /*   background-color: #FF0000; */
-    /* } */
 
-    /* /\* Change navbar color *\/ */
 
-    /*     /\* light blue *\/ */
-    /*     /\* background-color: #39B3DD;  *\/ */
-    /*     /\* border-color: #39B3DD; *\/ */
 
-    /*     /\* Yellow *\/ */
-    /*     /\* background-color: #F7D708; *\/ */
-    /*     /\* border-color: #F7D708: *\/ */
 
-    /*     /\* Green *\/ */
-    /*     /\* background-color: #21B6A8; *\/ */
-    /*     /\* border-color: #21B6A8; *\/ */
-    /* } */
+
+
+
+
+/* /\* Popover *\/ */
+/* .modal.ng-enter { */
+/*     transition: opacity 1.5s ease-out; */
+/*     opacity: 0; */
+/* } */
+/* .modal.ng-enter.ng-enter-active { */
+/*     opacity: 1; */
+/* } */
+/* .modal.ng-leave { */
+/*     transition: opacity 1.5s ease-out; */
+/*     opacity: 1; */
+/* } */
+/* .modal.ng-leave.ng-leave-active { */
+/*     opacity: 0; */
+/* } */
+
+/* #Email.fieldValid { */
+/*     border: 1px solid #00ff00; */
+/* } */
+/* #Email.fieldInvalid { */
+/*     border: 1px solid #ff0000; */
+
+/*     code.has-jax {font: inherit; */
+/*                   font-size: 100%; */
+/*                   background: inherit; */
+/*                   border: inherit;} */
+
+
+/*   nav.navbar.navbar-default.navbar-fixed-top { */
+/*   background-color: #FF0000; */
+/* } */
+
+/* /\* Change navbar color *\/ */
+
+/*     /\* light blue *\/ */
+/*     /\* background-color: #39B3DD;  *\/ */
+/*     /\* border-color: #39B3DD; *\/ */
+
+/*     /\* Yellow *\/ */
+/*     /\* background-color: #F7D708; *\/ */
+/*     /\* border-color: #F7D708: *\/ */
+
+/*     /\* Green *\/ */
+/*     /\* background-color: #21B6A8; *\/ */
+/*     /\* border-color: #21B6A8; *\/ */
+/* } */

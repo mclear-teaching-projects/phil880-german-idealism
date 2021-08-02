@@ -68,3 +68,9 @@ inverse = "navbar-default"  # choose between navbar-inverse and navbar-default
   plainIDAnchors = true
   hrefTargetBlank = true
   fractions = false
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
