@@ -15,7 +15,7 @@ information.
 |------------|--------------------|-------------------------------------------------------------------------------------------------------|
 | 1 - 8/24   | Kant's Project     | A preface; B intro; CPJ excerpt                                                                       |
 | 2 - 8/31   | Kant's Assumptions | Metaphysical Deduction; Intro to the Dialectic of Pure Reason                                         |
-| 3 - 9/7    | Kant & Spinozism   | KpV 5:99-101; Orientation essay; Pölitz Religion                                                      |
+| 3 - 9/7    | Kant & Spinozism   | Pantheism dispute; Orientation essay; Pölitz Religion                                                 |
 | 4 - 9/14   | Reinhold & Schulze | The Foundation of Philosophical Knowledge; Anesidemus                                                 |
 | 5 - 9/21   | Fichte I           | Anesidemus review; 1st intro WL                                                                       |
 | 6 - 9/28   | Fichte II          | 2nd intro WL                                                                                          |
