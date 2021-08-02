@@ -15,7 +15,7 @@ toc = false
 -   [Kant on the Web](http://staffweb.hkbu.edu.hk/ppp/Kant.html)
 -   [Kant-Forschungsstelle](http://www.kant.uni-mainz.de/Welcome.html)
 -   [Kant Akademieausgabe (Courtesy of Universität Bonn)](https://korpora.zim.uni-duisburg-essen.de/Kant/verzeichnisse-gesamt.html)
--   A handy [map](http://nebula.wsimg.com/f812ac8f2593c570c9df12068d2dbd80?AccessKeyId=A9004B8B795F6CE7B9FA&disposition=0&alloworigin=1) of Kant&rsquo;s system (in PDF format) by [Andrew Stephenson](http://www.acstephenson.com/home.html)
+-   A handy [map](http://nebula.wsimg.com/f812ac8f2593c570c9df12068d2dbd80?AccessKeyId=A9004B8B795F6CE7B9FA&disposition=0&alloworigin=1) of Kant's system (in PDF format) by [Andrew Stephenson](http://www.acstephenson.com/home.html)
 
 
 ## Sources for online German texts {#sources-for-online-german-texts}
@@ -36,7 +36,7 @@ toc = false
 
 ## Reading & Writing Philosophy {#reading-and-writing-philosophy}
 
--   [Jim Pryor&rsquo;s](http://www.jimpryor.net) guides to [reading](http://www.jimpryor.net/teaching/guidelines/reading.html) and [writing](http://www.jimpryor.net/teaching/guidelines/writing.html) philosophy
+-   [Jim Pryor's](http://www.jimpryor.net) guides to [reading](http://www.jimpryor.net/teaching/guidelines/reading.html) and [writing](http://www.jimpryor.net/teaching/guidelines/writing.html) philosophy
 -   [Purdue Online Writing Lab](http://owl.english.purdue.edu/owl/)
 -   [A Guide to Philosophical Writing](http://writingproject.fas.harvard.edu/files/hwp/files/philosophical%5Fwriting.pdf)
 -   [Writing a Thesis Statement](https://www.dropbox.com/s/lyods0bt22x8u6l/ThesisOverview.pdf?dl=0)

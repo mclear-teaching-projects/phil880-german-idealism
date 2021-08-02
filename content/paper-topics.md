@@ -8,4 +8,7 @@ toc = false
   identifier = "paper-topics"
 +++
 
-Here are some possible topics for papers. You are welcome to write on something else (or on some modified topic related to one of the options below), but please discuss this with me first. The first draft of the paper is due **Friday, November 12th**. The final draft is due **Friday, December 12th**.
+Here are some possible topics for papers. You are welcome to write on something else
+(or on some modified topic related to one of the options below), but please discuss
+this with me first. The first draft of the paper is due **Friday, November 12th**. The
+final draft is due **Friday, December 12th**.
