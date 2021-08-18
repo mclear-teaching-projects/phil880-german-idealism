@@ -10,7 +10,7 @@ toc = false
 
 Dr. Colin McLear<br />
 Office: _Working Remotely_ <br />
-Office Hours: [Via Zoom](https://unl.zoom.us/j/94199866851) T 1:00-3:00 and by appointment<br />
+Office Hours: [Via Zoom](https://unl.zoom.us/j/94199866851) T/Th 1:00-2:00 CST and by appointment<br />
 Email: [mclear@unl.edu](mailto:mclear@unl.edu)
 
 Email is the best way to reach me. I answer emails as soon as I can, but primarily

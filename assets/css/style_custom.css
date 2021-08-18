@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+/* @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap'); */
 
 #banner {
     padding: 85px 0;
@@ -18,6 +18,14 @@ body {
     height:100%;
     color:black;
 }
+
+p {
+    text-align: left;
+    max-width: 100%;
+    margin: auto;
+    padding-bottom: calc(10px + (15 - 10) * ((100vw - 300px) / (1600 - 300)));
+}
+
 
 h1 {
     font-family: Avenir Light,sans-serif;
@@ -223,6 +231,7 @@ nav.navbar.navbar-default.navbar-fixed-top .active a {
 }
 
 nav.navbar.navbar-default.navbar-fixed-top a:hover {
+    border-color: #A5CBAE;
     background-color: #A5CBAE;
 }
 
@@ -321,9 +330,6 @@ img {
     margin-right: 10px;
 }
 
-p {
-    text-align: justify;
-}
 
 /* Responsive video? */
 iframe {
@@ -332,7 +338,7 @@ iframe {
 
 /* See https://ox-hugo.scripter.co/doc/org-toc/ */
 .ox-hugo-toc .heading {
-    padding: 50px 0 20px 0px;
+    padding: 20px 0 20px 0px;
     font-family: Avenir Light,sans-serif;
     font-variant: small-caps;
     font-size: 1.2em;

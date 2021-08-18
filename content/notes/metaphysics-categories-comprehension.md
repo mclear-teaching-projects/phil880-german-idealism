@@ -1,10 +1,10 @@
 ---
 title: "Metaphysics, Categories, and the Scope of Comprehension"
 publishDate: 2021-08-31T00:00:00-04:00
-lastmod: 2021-08-02T14:43:11-04:00
+lastmod: 2021-08-18T00:34:53-04:00
 slug: "metaphysics-categories-and-comprehension"
 tags: ["a priori", "categories", "comprehension", "metaphysics", "science"]
-draft: true
+draft: false
 weight: 0
 author: false
 type: "post"
@@ -18,6 +18,26 @@ one or more synthetic a priori cognitions. Kant argues that such cognition requi
 two elements, a set of sensible "forms"---the sensible representations of space and
 time---and a set of intellectual forms---the conceptual representations Kant calls
 the categories.
+
+<div class="ox-hugo-toc toc">
+<div></div>
+
+<div class="heading">Table of Contents</div>
+
+- [1. What are "categories"?](#1-dot-what-are-categories)
+- [2. How does Kant understand the relationship between categories and metaphysics?](#2-dot-how-does-kant-understand-the-relationship-between-categories-and-metaphysics)
+- [3. How does Kant derive the categories?](#3-dot-how-does-kant-derive-the-categories)
+    - [The Pre-Critical Strategy](#the-pre-critical-strategy)
+    - [The Critical Strategy](#the-critical-strategy)
+- [4. How does Kant justify their application (or applicability)?](#4-dot-how-does-kant-justify-their-application--or-applicability)
+    - [What Is a Transcendental Deduction?](#what-is-a-transcendental-deduction)
+    - [Experience & Cognition](#experience-and-cognition)
+    - [Structure of the Deduction](#structure-of-the-deduction)
+- [5. What is the relation between rational comprehension & categories?](#5-dot-what-is-the-relation-between-rational-comprehension-and-categories)
+- [References](#references)
+
+</div>
+<!--endtoc-->
 
 
 # 1. What are "categories"? {#1-dot-what-are-categories}
@@ -115,13 +135,6 @@ fundamental _about_ objects.
 
 # 3. How does Kant derive the categories? {#3-dot-how-does-kant-derive-the-categories}
 
--   What is a "discursive" understanding?
--   What is an "intuitive" understanding?
--   What are forms of judgment?
--   What is the relation between the categories and the forms of judgment?
--   What is the import of Kant's conception of the nature and derivation of the
-    categories for his conception of metaphysics (and metaphysical knowledge)?
-
 Sections 9-12 of the first chapter of the Analytic of Concepts in the _Critique of
 Pure Reason_ form what is typically called the "Metaphysical Deduction"---a name which
 Kant applies to it, though only later in the _Critique_ (see B159). The purpose of
@@ -138,17 +151,18 @@ introduction where the notion of a "logical use" of the faculty of concepts or t
 "understanding" is set out; (ii) an elaboration of the different logical forms of
 judgment and a corresponding table of those forms; (iii) an explication of the
 categories as a priori concepts that correspond to the various logical forms of the
-table as set out in (ii).
+table as set out in (ii) by being "reflected" from them.
 
 Kant's strategy in the MD is to argue that the categories are the most fundamental
 concepts in our thought of objects because they are the concepts that are directly
-linked to the various basic operations of which the understanding (the faculty of
-concepts) is capable. Such operations are all forms of "judgment", and Kant construes
-such forms as providing the basis for determining which concepts are fundamental
-(i.e. the categories) and how those concepts get their non-empirical content. In
-order that we properly appreciate why Kant chooses this strategy for defending his
-choice of categories it helps to look at a prior attempt Kant makes for determining
-the basic concepts of metaphysics.
+linked to (indeed, at times he says "identical with") the various basic operations of
+which the understanding (the faculty of concepts) is capable. Kant appeals to these
+forms of judgment to answer two questions: (i) which a priori concepts are
+fundamental (i.e. the categories); (ii) how do those fundamental concepts get their
+(non-empirical) content. In order that we properly appreciate why Kant chooses this
+strategy of appealing to judgment for defending his choice and explanation of
+categories it helps to look at a prior attempt Kant makes for determining the basic
+concepts of metaphysics.
 
 
 ## The Pre-Critical Strategy {#the-pre-critical-strategy}
@@ -208,97 +222,93 @@ opposed to empirical (for even the "pure" concepts of space and time, though
 free of sensation, are nevertheless _sensitive_ on account of being derived from
 intuition (see, e.g., ID §5, 2:393)).
 
-Perhaps Kant thinks we have a special _intellectual_ intuition of the mind and
-its acts? One recent commentator [@dyck2016] has argued that Kant is committed
-in the _Dissertation_ to our having intellectual intuitions of our own minds and
-that he only subsequently, in the later 70s, rejects this position in favor of
-one according to which it is inner _sense_---and thus empirical
-psychology---that provides the requisite basis for acquiring metaphysical
-concepts. Dyck's argument concerning Kant's position in the _Dissertation_
-hinges on two claims. First, that there are clear texts showing that Kant
-denies that sensible laws (i.e. of time and space) apply to immaterial
-substances, including the mind/soul [see @dyck2016, 330]. Second, that Kant's
-conception of the acquisition of the pure concepts of metaphysics depends on
-the existence of intellectual intuition of the mind or soul itself
-[see @dyck2016, 330-1]. However, neither of these interpretive points are
-particularly compelling. Against the first, it is relatively clear from the
-context of Kant's statements regarding immaterial substance that he denies
-that the principles of the _corporeal_ world apply to such substances (ID §27,
-2:414). That would mean that principles belonging to substances understood as
-_bodies_ do not apply to the mind. But this is compatible with the conception of
-the mind as nevertheless governed by other sensible principles, and in
-particular, by time. Against Dyck's second point, in the _Dissertation_ Kant
-explicitly states that finite beings lack intellectual intuition (ID §10,
-2:396-7) and that "the accidents which are not included in the relations of
-space, such as the thoughts of the mind" are in time (ID Corollary, 2:406). It
-thus seems unlikely that Kant holds in the _Dissertation_ that metaphysical
-concepts are acquired via intellectual intuition, on pain of explicitly
-contradicting himself at multiple points.[^fn:5]
+Perhaps Kant thinks we have a special _intellectual_ intuition of the mind and its
+acts? One recent commentator (<a href="#citeproc_bib_item_8">Dyck 2016</a>) has argued that Kant is committed in
+the _Dissertation_ to our having intellectual intuitions of our own minds and that he
+only subsequently, in the later 70s, rejects this position in favor of one according
+to which it is inner _sense_---and thus empirical psychology---that provides the
+requisite basis for acquiring metaphysical concepts. Dyck's argument concerning
+Kant's position in the _Dissertation_ hinges on two claims. First, that there are clear
+texts showing that Kant denies that sensible laws (i.e. of time and space) apply to
+immaterial substances, including the mind/soul (see , <a href="#citeproc_bib_item_8">Dyck 2016, 330</a>). Second, that
+Kant's conception of the acquisition of the pure concepts of metaphysics depends on
+the existence of intellectual intuition of the mind or soul itself [see @dyck2016,
+330-1]. However, neither of these interpretive points are particularly compelling.
+Against the first, it is relatively clear from the context of Kant's statements
+regarding immaterial substance that he denies that the principles of the _corporeal_
+world apply to such substances (ID §27, 2:414). That would mean that principles
+belonging to substances understood as _bodies_ do not apply to the mind. But this is
+compatible with the conception of the mind as nevertheless governed by other sensible
+principles, and in particular, by time. Against Dyck's second point, in the
+_Dissertation_ Kant explicitly states that finite beings lack intellectual intuition
+(ID §10, 2:396-7) and that "the accidents which are not included in the relations of
+space, such as the thoughts of the mind" are in time (ID Corollary, 2:406). It thus
+seems unlikely that Kant holds in the _Dissertation_ that metaphysical concepts are
+acquired via intellectual intuition, on pain of explicitly contradicting himself at
+multiple points.[^fn:5]
 
-But even if Kant does not directly contradict himself in the _Dissertation_,
-Dyck's discussion helps point us to a clear tension and perhaps fatal
-ambiguity in Kant's pre-critical view. One might, therefore, have hope that
-Kant's remarks in lectures and notes subsequent to the publication of the
-_Dissertation_ clarify his position. However, the lecture texts we have from the
-1770s only make matters more complicated. For example, in lectures shortly
-after the _Dissertation_ Kant says, "We have no intuition in the whole world
-except the intuition of our self; all other things are appearances"
-(_Anthropologie Collins_ 25:15 (1772-3)). Kant's point here is _not_ that we have
-only one intuition---viz. of ourselves. Rather, it is that all of our _outer_
-intuitions are of appearances, while our inner (and non-intellectual!)
-intuitions present ourselves as _substantial subjects_. In a reflexion also from
-the early-to-mid 1770s Kant says that "The I is the intuition of a substance"
-(R4493, 17:571 (1772-5)). In the _Metaphysics L<sub>1</sub>_ lectures, from roughly the
-same period, Kant contrasts consciousness of external objects with
-consciousness of the self. One intuits oneself immediately, but the same is
-not true of external objects (28:206-7, 224). The self (as intelligence) so
-intuited is substantial, simple, and immaterial (28:224-5).
+But even if Kant does not directly contradict himself in the _Dissertation_, Dyck's
+discussion helps point us to a clear tension, and perhaps fatal ambiguity, in Kant's
+pre-critical view. One might, therefore, have hope that Kant's remarks in lectures
+and notes subsequent to the publication of the _Dissertation_ clarify his position.
+However, the lecture texts we have from the 1770s only make matters more complicated.
+For example, in lectures shortly after the _Dissertation_ Kant says, "We have no
+intuition in the whole world except the intuition of our self; all other things are
+appearances" (_Anthropologie Collins_ 25:15 (1772-3)). Kant's point here is _not_ that we
+have only one intuition---viz. of ourselves. Rather, it is that all of our _outer_
+intuitions are of appearances, while our inner (and non-intellectual!) intuitions
+present ourselves as we really are (and not merely as we appear). In a reflexion also
+from the early-to-mid 1770s Kant says that "The I is the intuition of a substance"
+(R4493, 17:571 (1772-5)). In the _Metaphysics L\_1_ lectures, from roughly the same
+period, Kant contrasts consciousness of external objects with consciousness of the
+self. One intuits oneself immediately, but the same is not true of external objects
+(28:206-7, 224). The self (as intelligence) so intuited is substantial, simple, and
+immaterial (28:224-5).
 
-In a note (R4674) from the _Duisberg Nachlass_ of 1775-6, Kant writes that an
-(external) object may be represented only "according to its relations", i.e.,
-only according to the properties, and relations between those properties, that
-are presented in sense experience.[^fn:6] And, as he does in the
-lecture material cited above, Kant _contrasts_ our position with respect to
-intuition of external objects with the special access we have to ourselves.
-The inner intuition of oneself is of an object whose properties are not
-presented, as outer things are, merely in terms of relations.[^fn:7]
-The language Kant uses in R4674 is also echoed in other texts from the
-mid-70s, For example, Kant states that the 'I' is the "original concept" of
+In a note (R4674) from the _Duisberg Nachlass_ of 1775-6, which is Kant's first attempt
+at what will become his deduction of the categories, he writes that an (external)
+object may be represented only "according to its relations", i.e., only according to
+the properties, and relations between those properties, that are presented in sense
+experience.[^fn:6] And, as he does in the lecture material cited above, Kant
+_contrasts_ our position with respect to intuition of external objects with the special
+access we have to ourselves. The inner intuition of oneself is of an object whose
+properties are not presented, as outer things are, merely in terms of
+relations.[^fn:7] The language Kant uses in R4674 is also echoed in other texts from
+the mid-70s, For example, Kant states that the 'I' is the "original concept" of
 substance which we "borrow" for use in our conception of other substances
 (_Metaphysics L<sub>1</sub>_, 28:225-6). Relatedly, he remarks that "the I expresses the
-substantial; for that substrate in which all accidents inhere is the
-substantial. This is the only case where we can immediately intuit the
-substance" (_Pölitz Metaphysik_ 28:226 (1777-80)).
+substantial; for that substrate in which all accidents inhere is the substantial.
+This is the only case where we can immediately intuit the substance" (_Pölitz
+Metaphysik_ 28:226 (1777-80)).
 
-The view that emerges from these texts, and that may in fact already be
-present in Kant's _Dissertation_, is one according to which inner sense provides
-a privileged epistemic relation to oneself. In inner sense one is presented
-not merely as a set of relations, as in outer sense, but as a _subject_ of
-properties, as what Kant sometimes describes as an intelligence or "thinking
-substance" (e.g. _Metaphysics L<sub>1</sub>_ 28:224-5). The self is thus the "original
-of all objects" in the sense that, as Allison Laywine puts it, "we somehow
-transfer our representations of the one true subject and apply it derivatively
-or by analogy to our thought of anything else."[^fn:8]
+The view that emerges from these texts, and that may in fact already be present in
+Kant's _Dissertation_, is one according to which inner sense provides a privileged
+epistemic relation to oneself. In inner sense one is presented not merely as a set of
+relations, as in outer sense, but as a _subject_ of properties, as what Kant sometimes
+describes as an intelligence or "thinking substance" (e.g. _Metaphysics L<sub>1</sub>_
+28:224-5). The self is thus the "original of all objects" in the sense that, as
+Allison Laywine puts it, "we somehow transfer our representations of the one true
+subject and apply it derivatively or by analogy to our thought of anything
+else."[^fn:8]
 
-Unfortunately, Kant never clarifies how this position concerning the
-privileged and peculiar role of inner sense is consistent with his general
-doctrine of sensible intuition, or how it is consistent with the
-_Dissertation's_ position that no pure intellectual concept can be derived from
-the content of sensible intuition. The overall impression of Kant's position
-based on his remarks in the Dissertation, and subsequently in the lectures, is
-that of a steadfast commitment to roughly the following position.
-Introspection provides a form of intuitive acquaintance with the self as a
-metaphysical subject, and it is via this acquaintance that we can then form by
-analogy the representations of objects (construed as metaphysical subjects of
-properties) distinct from us. But how this position is ultimately supposed to
-cohere with Kant's other commitments in the 70s is, at best, unclear. It in
-facts seems a reasonable suspicion that Kant's various commitments in the 70s
-_don't_ cohere, and that this resulting tension in his view is part of what
-pushes him towards the critical distinction between inner intuition and pure
-apperception. We'll talk about this distinction further when we discuss the
-argument of the Transcendental Deduction. In the next section I talk about
-Kant's revision of his _Dissertation_ strategy in the _Critique_ for the argument
-of the MD.
+Unfortunately, Kant never clarifies how this position concerning the epistemically
+and representationally privileged and peculiar role of inner intuition is consistent
+with his general doctrine of sensible intuition, or how it is consistent with the
+_Dissertation's_ position that no pure intellectual concept can be derived from the
+content of sensible intuition. Instead, the overall impression of Kant's position
+based on his remarks in the Dissertation, and subsequently in the lectures, is that
+of a steadfast commitment to roughly the following position. Introspection (via inner
+intuition) provides a form of acquaintance with the self as a metaphysical subject,
+and it is via this acquaintance that we can then form by analogy the representations
+of objects (construed as metaphysical subjects of properties) distinct from us. But
+how this position is ultimately supposed to cohere with Kant's other commitments in
+the 70s is, at best, unclear. It in fact seems reasonable to suspect that Kant's
+various commitments in the 70s _don't_ cohere, and that this resulting tension in his
+view is part of what pushes him towards the critical distinction between inner
+intuition and pure apperception. We'll talk about this distinction further when we
+discuss the argument of the Transcendental Deduction. In the next section I talk
+about Kant's revision of his _Dissertation_ strategy for the argument of the MD in the
+first _Critique_ .
 
 
 ## The Critical Strategy {#the-critical-strategy}
@@ -312,13 +322,14 @@ the "real" uses of the understanding (ID §23, 2:410–11). He says,
 > fashion by the pure understanding itself; and, since they are not intuitions,
 > they are not immune to error.
 
-In the first _Critique_ Kant maintains the view that the concepts of metaphysics
-come from the understanding. However, he significantly alters the method by
-which these concepts are derived. Specifically he now closely links the
-categories with the logical forms of judgment. The latter are not just a
-"clue" to the organization of the table of categories, they _are_ the
-categories, at least in their "logical" use. The central texts making this
-plain are as follows.
+In the first _Critique_ Kant maintains the view that the concepts of metaphysics come
+from the understanding. In this sense the understanding has a "real use". However,
+Kant significantly alters the method by which these concepts are derived from that
+which he used in the _Dissertation_. Specifically he now closely links the categories
+with the logical forms of judgment. Indeed, Kant often goes so far as to say that the
+latter are not just a "clue" to the organization of the table of categories (as the
+title of the section indicates), they _are_ the categories, at least in their "logical"
+use. The central texts making this plain are as follows.
 
 > The same understanding, therefore, and indeed by means of the very same
 > actions through which it brings the logical form of a judgment into
@@ -357,32 +368,30 @@ categories are "pure" in the sense of being traceable only to the intellect,
 without thereby implicating either intellectual intuition, which he denies, or
 sensible (inner) intuition, which would undermine their claim to purity.
 
-Pursuit of this strategy means that, second, the very logical functions for
-combining representations (concepts) in judgment, and which constitute the
-basis of study in what Kant calls "pure general logic", are also the functions
-for combining representations (intuitions) in our experience of objects. Thus
-for the understanding as a faculty of judging (A69/B94), each logical function
-of thinking (e.g. categorical judgment), when applied to a multiplicity of
-intuitions, results in a distinctive way of relating to, or "experiencing" in
-Kant's technical sense, an object e.g. a substance.
+Pursuit of this strategy means that, second, the very logical functions for combining
+representations (concepts) in judgment, and which constitute the basis of study in
+what Kant calls "pure general logic", are also the functions for combining
+representations (intuitions) in our experience of objects. Thus for the understanding
+as a faculty of judging (A69/B94), each logical function of thinking
+(e.g. categorical judgment), when applied to a multiplicity (or "manifold") of
+intuitions, results in a distinctive way of relating to, or "experiencing" in Kant's
+technical sense, an object e.g. a substance.
 
-Thus, Kant has a much more coherent strategy than he did in the _Dissertation_
-for explaining how we come to grasp the a priori concepts necessary for doing
-metaphysics. The notion that we can analyze our logic and determine which are
-the basic logical forms is plausible and does not require appealing to some
-privileged access we might have to ourselves in introspection (i.e. inner
-sense).
+Thus, Kant has a much more coherent strategy than he did in the _Dissertation_ for
+explaining how we come to grasp the a priori concepts necessary for doing
+metaphysics. The notion that we can analyze our logic and determine which are the
+basic logical forms is plausible and does not require appealing to some privileged
+access we might have to ourselves in introspection (i.e. inner sense).
 
-However, for this strategy to ultimately succeed, Kant must provide
-substantial arguments for several controversial claims. First, he must show
-that he has successfully given a complete analysis of the logical forms of
-judgment; second, he must show that the metaphysical concepts derived from
-these logical forms (i.e. the categories) really provide the complete basis
-for doing metaphysics; third, he must show that the content of the categories
-does not include material absent from the purely logical forms---if there
-were such "extra" content in the categories, then it is not clear how they are
-supposed to be "identical" with the logical forms, as Kant sometimes indicates
-that they are.
+However, for this strategy to ultimately succeed, Kant must provide substantial
+arguments for several controversial claims. First, he must show that he has
+successfully given a complete analysis of the logical forms of judgment; second, he
+must show that the metaphysical concepts derived from these logical forms (i.e. the
+categories) really provide the complete basis for doing metaphysics; third, he must
+show that the content of the categories does not include material absent from the
+purely logical forms---if there were such "extra" content in the categories, then it
+is not clear how they are supposed to be "identical" with the logical forms, as Kant
+sometimes indicates that they are.
 
 Unfortunately Kant fails to meet any of these requirements in the MD. There is
 no formal demonstration of the completeness of either the table of judgment
@@ -391,47 +400,52 @@ provided that shows that all and only these categories provide the basic
 materials for metaphysics. Finally, it is not obvious that the content of the
 categories is simply "identical" with that of the forms of judgment.
 
-To take just one example, Kant construes the category of substance as related
-to the form of categorical (i.e. subject/predicate) judgment. The purely
-logical or grammatical notion is thus of a term or concept that can only
-occupy subject position and never predicate position. However, this notion
-does not adequately capture central ways in which Kant uses the concept
-<substance>. More specifically, Kant construes a substance as substanding and
-subsisting. This means that (i) substance is a being in which things "_inhere_"
-and (ii) substance does not itself inhere in anything else (in this
-circumscribed sense substance is an independent being). Kant construes
-inherence as a real (that is, non-logical) asymmetric dependence relation
-between a subject of inherence (the substance) and its properties or modes
-(i.e. the way or ways in which the subject exists). The purely logical or
-grammatical conception of substance as a subject term that is never a
-predicate term fails to properly capture this dependence relation, for it
-fails to show how a predicate term might asymmetrically depend on a subject
-term in a manner that models the metaphysical relation between substance and
-mode.
+To take just one example, Kant construes the category of substance---more precisely,
+<subsistence-inherence>---as related to the form of categorical (i.e.
+subject/predicate) judgment. The purely logical or grammatical notion is thus of a
+term or concept that can only occupy subject position and never predicate position.
+However, this notion does not adequately capture central ways in which Kant uses the
+concept <substance>. More specifically, Kant construes a substance as substanding and
+subsisting. This means that (i) substance is a being in which things "_inhere_" and
+(ii) substance does not itself inhere in anything else (in this circumscribed sense
+substance is an independent being). Kant construes inherence as a real (that is,
+non-logical) asymmetric dependence relation between a subject of inherence (the
+substance) and its properties or modes (i.e. the way or ways in which the subject
+exists). The purely logical or grammatical conception of substance as a subject term
+that is never a predicate term fails to properly capture this dependence relation,
+for it fails to show how a predicate term might asymmetrically depend on a subject
+term in a manner that models the metaphysical relation between substance and mode.
 
-In the end then, while Kant's strategy in the MD is a clear improvement over
-his prior attempt in the _Dissertation_, it is not at all clear that he
-successfully defends his claim to have provided a principled and a priori
-basis for exhaustively determining which are the fundamental concepts. Kant
-wants an argument that,
+In the end then, while Kant's strategy in the MD is a clear improvement over his
+prior attempt in the _Dissertation_, it is not at all clear that he successfully
+defends his claim to have provided a principled and a priori basis for exhaustively
+determining which are the fundamental concepts, nor how they get their content. Kant
+says categorialism in metaphysics requires a formulation of the categories that,
 
 > has not arisen rhapsodically from a haphazard search for pure concepts, of the completeness of which one could never be certain, since one would only infer it through induction, without reﬂecting that in this way one would never see why just these and not other concepts should inhabit the pure understanding. (A81/B106-7)
 
-Kant does not provide convincing proof of this position in the MD. Whether such a proof could be given is, perhaps, another story.[^fn:9]
+Kant does not provide convincing proof of this position in the MD. Whether such a
+proof could be given in Kant's terms is, perhaps, another story.[^fn:9] In any case,
+we shall see that the issues with which the MD is concerned become a central point of
+contention and revision in subsequent post-Kantian German Idealism. Fichte and Hegel,
+in particular, present alternative ways to think about the derivation of categories
+and their content, as well as the ways in which Kant's "reflective" method itself may
+beg important questions concerning the possibility of metaphysics. We'll talk about
+these issues in subsequent weeks.
 
 
 # 4. How does Kant justify their application (or applicability)? {#4-dot-how-does-kant-justify-their-application--or-applicability}
 
-Kant thinks that possession of a particular privileged set of a priori
+Kant thinks that possession of a particular privileged set of "pure" a priori
 concepts---i.e. the categories---is necessary for knowledge of the empirical world.
 But this raises a problem. How could an a priori concept, which is not itself derived
 from any experience, be nevertheless legitimately applicable to objects of
 experience? To make things even more difficult, it is not the mere possibility of the
 application of a priori concepts to objects of experience that worries Kant, for this
-could just be a matter of pure luck. Kant requires more than the mere possibility of
-application, for he wants to show that with regard to a privileged set of a priori
-concepts, they apply necessarily and universally to all objects of experience and do
-so in a way that we are in a position to know a priori.
+could just be a matter of pure luck. Kant requires more than the sheer possibility of
+their application, for he wants to show that with regard to a privileged set of a
+priori concepts, they apply necessarily and universally to all objects of experience
+and do so in a way that we are in a position to know a priori.
 
 Kant's strategy for demonstrating how this is possible hinges on showing that the experience of objects that he thinks all would agree that we have nevertheless depends on the application of a priori concepts---the categories. Kant makes this clear in his elaboration of his ‘Copernican Turn' in philosophy:
 
@@ -439,23 +453,22 @@ Kant's strategy for demonstrating how this is possible hinges on showing that th
 
 Kant's strategy is thus to show how a priori concepts legitimately apply to their objects in virtue of being partly constitutive of the objects of experience, rather than the traditional view in which the objects of experience are the ground of our concepts. Now, what exactly this means is deeply contested, at least partly because it is rather unclear what Kant intends us to understand by his Transcendental Idealism. For example, does Kant intend that the objects of experience are _themselves_ nothing other than representations? This would be a form of phenomenalism similar to that offered by [Berkeley](https://plato.stanford.edu/entries/berkeley/). Kant, however, seems to want to deny that his view is similar to Berkeley's, asserting instead that the objects of experience really exist independently of the mind, and that it is only the _way_ that they are experienced that is mind-dependent.
 
-> the fact that I have myself given to this theory of mine the name of
-> transcendental idealism cannot justify anyone in confusing it with the
-> empirical idealism of _Descartes_ (although this idealism was only a problem,
-> whose insolubility left everyone free, in _Descartes_' opinion, to deny the
-> existence of the corporeal world, since the problem could never be answered
-> satisfactorily) or with the mystical and visionary idealism of _Berkeley_
-> (against which, along with other similar fantasies, our _Critique_, on the
-> contrary, contains the proper antidote). For what I called idealism did not
-> concern the existence of things (the doubting of which, however, properly
-> constitutes idealism according to the received meaning), for it never came
-> into my mind to doubt that, but only the sensory representation of things, to
-> which space and time above all belong; and about these last, hence in general
-> about all _appearances_, I have only shown: that they are not things (but mere
-> ways of representing), nor are they determinations that belong to things in
-> themselves. (_Prolegomena_ §13, Note III; 4:293)
+> the fact that I have myself given to this theory of mine the name of transcendental
+> idealism cannot justify anyone in confusing it with the empirical idealism of
+> _Descartes_ (although this idealism was only a problem, whose insolubility left
+> everyone free, in _Descartes_' opinion, to deny the existence of the corporeal world,
+> since the problem could never be answered satisfactorily) or with the mystical and
+> visionary idealism of _Berkeley_ (against which, along with other similar fantasies,
+> our _Critique_, on the contrary, contains the proper antidote). For what I called
+> idealism did not concern the existence of things (the doubting of which, however,
+> properly constitutes idealism according to the received meaning), for it never came
+> into my mind to doubt that, but only the sensory representation of things, to which
+> space and time above all belong; and about these last, hence in general about all
+> _appearances_, I have only shown: that they are not things (but mere ways of
+> representing), nor are they determinations that belong to things in themselves.
+> (_Prolegomena_ §13, Note III; 4:293)
 
-I'm mostly going to set this issue to the side in what follows. But the issue of
+I'm mostly going to set Kant's idealism to the side in what follows. But the issue of
 idealism is important to consider, insofar as Kant takes himself to be replying to
 the arguments of Descartes, Locke, Berkeley, and Hume about the nature of the
 empirical world and the nature and extent of our knowledge of it.
@@ -463,11 +476,37 @@ empirical world and the nature and extent of our knowledge of it.
 
 ## What Is a Transcendental Deduction? {#what-is-a-transcendental-deduction}
 
-In order to prove that there are a priori concepts which legitimately apply to the objects of experience, Kant articulates [a special sort of argument](http://plato.stanford.edu/entries/kant-transcendental/), which he calls a 'transcendental deduction'. As cite:@henrich1989 points out, the notion of a 'deduction' that Kant uses, is a legal one intended to provide a historical justification for the legitimacy of a property claim. In Kant's case however, it is transformed into a justification of the applicability (in the sense discussed above) of the a priori concepts Kant calls the 'categories'. These are the concepts given in Kant's 'Table of Categories' (A80/B106); they are Unity, Plurality, and Totality (the Categories of Quantity); Reality, Negation, and Limitation (the Categories of Quality); Inherence and Subsistence, Causality and Dependence, and Community (the Categories of Relation), and Possibility-Impossibility, Existence-Nonexistence, Necessity-Contingency (the Categories of Modality).
+In order to prove that there are pure a priori concepts which legitimately apply to
+the objects of experience, Kant articulates [a special sort of argument](http://plato.stanford.edu/entries/kant-transcendental/), which he
+calls a 'transcendental deduction'. As (<a href="#citeproc_bib_item_12">Henrich 1989</a>) points out, the notion of
+a 'deduction' that Kant uses, is a legal one intended to provide a historical
+justification for the legitimacy of a property claim. In Kant's case however, it is
+transformed into a justification of the applicability (in the sense discussed above)
+of the a priori concepts Kant calls the 'categories'. These are the concepts given in
+Kant's 'Table of Categories' (A80/B106): <Unity>, <Plurality>, and <Totality> (the
+Categories of Quantity); <Reality>, <Negation>, and <Limitation> (the Categories of
+Quality); <Inherence and Subsistence>, <Causality and Effect> and <Community> (the
+Categories of Relation), and <Possibility-Impossibility>, <Existence-Nonexistence>,
+<Necessity-Contingency> (the Categories of Modality).
 
-With regard to each category, Kant's aim is to show that it has 'objective validity'---i.e. legitimate applicability to the objects of experience. Disputes concerning various members of the table should be familiar. Hume famously disputes the legitimacy of our concept _cause_. Hume thinks (in Kant's terms) that no 'empirical deduction' of the concept is possible---i.e. that the concept cannot be traced to the occurrence of a corresponding impression. Kant concurs with Hume on this point---that there can be no empirical deduction---but argues that this doesn't show that the concept is illegitimate, for it may be both a priori and legitimately applied in virtue of being a necessary condition of experience.
+With regard to each category, Kant's aim is to show that it has 'objective
+validity'---i.e. legitimate applicability to the objects of experience. Disputes
+concerning various members of the table should be familiar. Hume famously disputes
+the legitimacy of our concept of <cause-effect>. Hume thinks (in Kant's terms) that
+no 'empirical deduction' of the concept is possible---i.e. that the concept cannot be
+traced to the occurrence of a corresponding impression. Kant concurs with Hume on
+this point---that there can be no empirical deduction---but argues that this doesn't
+show that the concept is illegitimate, for it may be both a priori and legitimately
+applied in virtue of being a necessary condition of experience.
 
-For Kant then a 'transcendental deduction' starts from a premise concerning some feature of human experience, a premise which reasonable interlocutors might be expected to endorse, and then argues to a substantive philosophical conclusion concerning the presuppositions or necessary conditions of the truth of that premise. Since Kant's concern here is the a priori categories, his aim is to show that a presupposition or necessary condition of some relatively uncontroversial feature of experience is the applicability (or successful application) of the a priori concept(s) in question to the objects of experience. Below we'll concern ourselves with Kant's answer to Hume regarding the objective legitimacy of the concept _cause_.
+For Kant then a 'transcendental deduction' starts from a premise concerning some
+feature of human experience, a premise which reasonable interlocutors might be
+expected to endorse, and then argues to a substantive philosophical conclusion
+concerning the presuppositions or necessary conditions of the truth of that premise.
+Since Kant's concern here is the a priori categories, his aim is to show that a
+presupposition or necessary condition of some relatively uncontroversial feature of
+experience is the applicability (or successful application) of the a priori
+concept(s) in question to the objects of experience.
 
 
 ## Experience & Cognition {#experience-and-cognition}
@@ -490,7 +529,7 @@ Here we see Kant saying that the _source_ of empirical cognition is experience. 
 
 These passages all identify experience with empirical cognition. But if they are
 synonymous notions then how could experience be the _source_ of empirical cognition, as
-is said in B2? A relatively simple resolution of this problem is to distinguish two
+he says in B2? A relatively simple resolution of this problem is to distinguish two
 notions of "experience"---between "experience" as the sensory result of affection by
 external objects (via outer sense) and oneself (via inner sense) and "experience" as
 the result of structuring sense perceptions via the categories. Call the latter,
@@ -506,44 +545,160 @@ This also helps us make sense of B1, where Kant says,
 
 All cognition begins with _simple_ experience, which is "worked up" into cognition of objects (i.e. empirical cognition) or (as I've called it) complex experience.
 
-In §17 of the B-deduction Kant specifies that a cognition consists in the "determinate relation of given representations to an object" (B137). I take this to mean that S-experience---the contents of a sensory intuition---provides consciousness of 'appearances' [_Erscheinungen_] or 'undetermined objects' [_unbestimmte Gegestande_] (A20/B34)---which is then made 'determinate' via the activity of the intellect. The result is _empirical_ cognition of an object. And it is this empirical cognition of objects (and ultimately all cognition of objects whatsoever) that it is the aim of Kant's Deduction to legitimate, for it is this cognition that depends on the categories.
+In §17 of the B-deduction Kant specifies that a cognition consists in the
+"determinate relation of given representations to an object" (B137). I take this to
+mean that S-experience---the contents of a sensory intuition---provides consciousness
+of 'appearances' [_Erscheinungen_] or 'undetermined objects' [_unbestimmte Gegestande_]
+(A20/B34)---which is then made 'determinate' via the activity of the intellect. The
+result is _empirical_ cognition of an object. And it is this empirical cognition of
+objects (and ultimately all cognition of objects whatsoever) that it is the aim of
+Kant's Deduction to legitimate, for it is this cognition that depends on the
+categories.
 
 > all empirical cognition of objects necessarily conforms to such concepts [i.e. the categories], because nothing is possible as object of experience unless these concepts are presupposed A93/B126).
 
 Hence, to show that the categories are "objectively valid" or legitimate in their application to any and all objects of possible experience, is for Kant to show that the categories are necessary for empirical cognition of objects, or complex experience. One thing to think about as we move through the argument of the Deduction is whether Kant's conception of C-experience corresponds to anything in the positions of empiricists like Locke and Hume. Do empiricists need to concede the existence of the kind of experience for which Kant thinks the categories are necessary?[^fn:11]
 
 Kant's demonstration of the validity of the categories attempts to wind its way
-between two poles which he terms the _enthusiasm_ of Locke and the _skepticism_
-of Hume (A94/B127). Locke's enthusiasm lay in the attempted derivation of all
-our concepts from the structure of appearances (whether we interpret these
-appearances as objects or merely as ideas). But this derivation is, according
-to Kant, inconsistent with the conditions for the manifestation of appearances
-and led us to improperly apply our concepts beyond their sphere.
+between two poles which he terms the _enthusiasm_ of Locke and the _skepticism_ of Hume
+(A94/B127). Locke's enthusiasm lies in his attempted derivation of all our concepts
+from the structure of appearances (whether we interpret these appearances as objects
+or merely as subjective representations or "ideas" in Locke's terminology). But this
+derivation is, according to Kant, inconsistent with the conditions for the
+manifestation of appearances and leads us to improperly apply our concepts beyond their
+sphere.
 
-In contrast to Locke, Hume denies that the a priori concepts have any
-application whatsoever, and thus Hume presents a sort of skeptical alternative
-to Locke. Kant's third way argues that the structure of C-experience and the
-structure of our concepts are interconnected. His strategy for showing this is
-to show that the structure of C-experience and the structure of propositional
-judgment have a common root---viz. the unifying activity of the understanding.
-The Transcendental Deduction is thus an attempt "to try to find out whether we
-cannot provide for human reason safe passage between these two cliffs, assign
-to it determinate bounds, and yet keep open for it the entire realm of its
-appropriate activity" (A95/B128). How exactly Kant does this requires
-explication of the first step of the Deduction, to which we'll now turn.
+In contrast to Locke, Hume denies that the a priori concepts have any application
+whatsoever, and thus Hume presents a sort of skeptical alternative to Locke. Kant's
+third way argues that the structure of C-experience and the structure of our concepts
+are interconnected. His strategy for showing this is to show that the structure of
+C-experience and the structure of propositional judgment have a common root---viz.
+the unifying activity of the understanding. The Transcendental Deduction is thus an
+attempt "to try to find out whether we cannot provide for human reason safe passage
+between these two cliffs, assign to it determinate bounds, and yet keep open for it
+the entire realm of its appropriate activity" (A95/B128). How exactly Kant does this
+requires explication of the argumentative structure of the Transcendental Deduction,
+to which we'll now turn.
 
 
 ## Structure of the Deduction {#structure-of-the-deduction}
 
-I take the structure of the deduction to consist of two steps; the first starts at §15 and concludes with §20 (§21 being essentially a recap of the preceding argument). The second step begins with §22 and concludes with §26 (with §27 also being a recapitulation). This "two-step" interpretation is not new, though interpretation of the content of each step and their relations to one another differs widely.[^fn:12]
+I take the structure of the (B or second edition) Transcendental Deduction to consist
+of two steps; the first starts at §15 and concludes with §20 (§21 being essentially a
+recap of the preceding argument). The second step begins with §22 and concludes with
+§26 (with §27 also being a recapitulation). This "two-step" interpretation is not
+new, though interpretations of the content of each step and their relation(s) to one
+another differ widely.[^fn:12]
 
-The first step of the Deduction (§§15-21) argues that _combination_ of representations
-cannot be given to the subject via the senses, but is rather something that the
-subject does. In order that the combination of representations result in cognition,
-Kant then argues that there must be a unitary subject, or _combiner_ of those
-representations. The unity condition is satisfied by what Kant calls, in §16, the "original synthetic unity of apperception." In the next three sections (§§17-19) Kant argues that this unity of apperception requires a kind of activity, and that this activity is fundamentally that of the functions of the understanding or the "categories."  He concludes in §20 that (i) since all complex unities require combination; (ii) combination requires the original synthetic unity of apperception; and (iii) the unity of apperception is or essentially requires a kind of categorial activity; that (iv) all (complex) unity, including intuition, depends on, or "stands under" (B143) the categories.
+The first step of the Deduction (§§15-21) argues that what Kant calls the _combination_
+of representations cannot be given to the subject via the senses, but is rather
+something that the subject does. In order that the combination of representations
+result in cognition, Kant then argues that there must be a unitary subject, or
+_combiner_ of those representations. The unity condition is satisfied by what Kant
+calls, in §16, the "original synthetic unity of apperception." In the next three
+sections (§§17-19) Kant argues that this unity of apperception requires a kind of
+activity, and that this activity is fundamentally that of the functions of the
+understanding or the "categories." He concludes in §20 that (i) since all complex
+unities require combination; (ii) combination requires the original synthetic unity
+of apperception; and (iii) the unity of apperception is or essentially requires a
+kind of categorial activity; that (iv) all (complex) unity, including intuition of
+determinate objects, depends on, or "stands under" (B143) the categories.
 
 The second step of the Deduction (§§22-7) discusses both positive and negative points raised by the first step. Negatively, Kant argues that the categories are limited to _empirical cognition_ -- i.e. to the cognition of appearances, not things in themselves. This importantly includes even our cognition of _ourselves_ as subjects of consciousness. Positively, Kant argues in §26 that not only does all cognition rest on the application of the categories, but that one and all, appearances _are necessarily_ categorial. He does this be showing that (i) we have a priori cognition of space and time themselves as objects, (ii) that this is only possible via the categories, (iii) and that since all appearances are governed by space and time, any appearance in space and time must also be categorially structured. This means that there is no possibility of an object's appearing (i.e. being "given) that is not susceptible to determination by the categories. If this argument is successful then Kant will have demonstrated both that if we have cognition ("experience" in Kant's technical sense) then it depends on the categories, and that we _do_ have such cognition, since mathematical cognition preuspposes that we cognize space and time as objects.
+
+
+# 5. What is the relation between rational comprehension & categories? {#5-dot-what-is-the-relation-between-rational-comprehension-and-categories}
+
+We've seen from the discussion of Kant's critical project that he conceives of reason as a
+capacity for comprehending something from its ground(s). Metaphysics (both special
+and general) concerns just such comprehension. We've also seen that Kant construes
+such comprehension, and thus metaphysics, as limited to what may be possibly
+experienced.
+
+An important question for this position---which I won't pursue very far here, but
+that will rearise in the context of discussion of Fichte and Hegel---concerns
+whether the structure of Kant's "reflective" method of deriving the categories ends
+up begging important questions for the possibility of a metaphysics of the "in
+itself", or reality as such (and not simply as it appears to us).
+
+There are two issues of concern here: one is the derivation of the categories, and
+the other is the conception of the discursive intellect with which this derivation is
+connected. We've seen that Kant construes the categories as linked to, or perhaps
+even identical with, forms of judgment, and that comprehension of reality is the
+linking together of such judgments in rational inference, so as to cognize the
+grounds of some actuality or fact.
+
+But Kant _also_ thinks that the concept of a discursive intellect (i.e. our kind of
+mind) brings with it a contrast case, that of a _non-discursive_ intellect, or as Kant
+calls it, an intuitive intellect or intuitive understanding. For this kind of mind,
+in contrast with ours, intellectual intuitions _are_ possible. This is Kant's
+conception of the intuitive intellect.[^fn:13] Kant construes the intuitive intellect
+as a non-discursive intellectual faculty---"an understanding which should cognize
+[_erkennen_] its object, not discursively through categories, but intuitively in a
+non-sensible intuition" (A256/B312). There are four key features of the intuitive
+intellect---viz. it is (i) intellectual, (ii) comprehensive, (iii) productive, and
+(iv) non-discursive. Let's examine what each of these means.
+
+Let me say a few things about the nature of an intuitive intellect, as Kant conceives
+of it. First, a non-sensible intuition, as _intellectual_, would be entirely actively
+produced, its intellectual representations a product of its "absolutely spontaneous"
+pure "self-activity" (_Selbststätigkeit_). This means that the intuitions of an
+intuitive intellect would be self-produced rather than derived from affection by
+independent beings (or distinct faculties of onself, as with affection in inner
+sense; see B72).
+
+Second, being perfectly active in this manner the intuitive intellect would also
+thereby be perfectly _comprehensive_, in cognizing all things from their grounds or
+causes rather than their effects, for only a receptive faculty would cognize
+something from its effect(s) (_Religion Pölitz_ 28:1111 (1783/84); JL 9:65).[^fn:1]
+
+Third, the intuitive intellect is _productive_ of its objects. The productivity of the
+intuitive intellect is a correlate of the two features just discussed. Since the
+intellectual intuitions of the intuitive intellect are purely a function of its
+spontaneous self-activity, and intuition is defined by Kant as a relation to an
+actuality (Pr 4:481-2),[^fn:2] the intuitive intellect must be able to produce the
+very beings it intuits. And since this intuitive intellect would be completely
+comprehensive and creative, the things (actualities) it represents would be
+represented entirely from their grounds rather than their effects, and indeed as
+being grounded in the intuitive intellect itself. As Kant reportedly puts it,
+
+> God cognizes all things by cognizing himself as the ground of all possibility
+> (_Religion Pölitz_ (1783/4), 28:1052; cf. /Metaphysik L<sub>1</sub>/ (mid-1770's), 28:328-9;
+> _Metaphysik L<sub>2</sub>_ (1790/1), 28:606).[^fn:3]
+
+In cognizing things from their very grounds of possibility, the intuitive intellect
+would represent what is essential to any thing---i.e. in terms of that essence or
+nature that grounds all of a thing's other possible properties. Moreover, in
+representing created things from their essences, the intuitive intellect represents
+those things as they are in themselves. Kant therefore plausibly thinks that the only
+being that might have such an intellect is God. God would thus intuit reality as it
+is in itself. Indeed, Kant often characterizes God's intuition in this manner in his
+lectures---e.g., "God cognizes things in themselves" (29:833; cf. B71-2;
+A256/B311--312; A279--280/B335--336).
+
+Finally, an intellect capable of non-sensible intuition would also be _non-discursive_.
+What does this mean? Kant characterizes intellectual activity as 'discursive' to
+denote the manner in which our discursive understanding acts---viz. moving to and
+fro, from part to part, in building a whole---rather than merely as a synonym for
+'conceptual', 'linguistic', or 'rational'.[^fn:14] It is this notion he means to
+indicate in his characterization of the discursive intellect's activity as that of
+"running through" and "gathering together" (A99) representations. A non-discursive
+intellect, in contrast, exhibits a whole-to-part grasp of its representations.[^fn:15]
+This means that in an intellectual intuition the content of any representational
+component is determined by the content of the whole, which the intuitive intellect
+apprehends "all at once" (_Religion Pölitz_ (1783/4), 28:1051) via grasp of what Kant
+sometimes calls a "synthetic universal" (CPJ 5:407; cf. RP 28:1267; _Metaphysik L<sub>1</sub>_
+28:328; R 4270, 17:489 (1769--76); R6174 18:478 (1780s)). So the intuitive intellect
+is non-discursive because it would not engage in the manner of part-to-whole
+unification characteristic of discursive activity, instead representing all things
+via its holistic comprehension of the synthetic universal.
+
+The upshot is that such a radically different kind of mind _would_ comprehend reality as it
+genuinely is and not merely as it appears. Moreover, it would do it in a way that is
+entirely independent of the categories. This raises a serious question for Kant: does
+his conception of the discursive nature of our mind foreclose the very possibility of
+the kind of comprehension that a genuine metaphysics requires? This will a central
+issue, especially for Hegel.
 
 
 # References {#references}
@@ -551,40 +706,50 @@ The second step of the Deduction (§§22-7) discusses both positive and negative
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Allais, Lucy. 2009. <a href="https://doi.org/">“Kant, Non-Conceptual Content and the Representation of Space.</a>” <i>Journal of the History of Philosophy</i> 47 (3): 383–413.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Allison, Henry E. 2015. <i><a href="https://doi.org/">Kant’s Transcendental Deduction: An Analytical-Historical Commentary</a></i>. New York: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Beck, Lewis White. 1978. <a href="https://doi.org/">“Did the Sage of Königsberg Have No Dreams.</a>” In <i>Essays on Kant and Hume</i>, edited by  , 38–60. New Haven: Yale University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Brandt, Reinhard. 1995. <i><a href="https://doi.org/">The Table of Judgments: Critique of Pure Reason A67-76; B92-101</a></i>. Atascadero, CA: Ridgeview.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>Carl, Wolfgang. 1989a. <i><a href="https://doi.org/">Der Schweigende Kant: Die Entwürfe Zu Einer Deduktion Der Kategorien Vor 1781</a></i>. Göttingen: Vandenhoeck &#38; Ruprecht.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>———. 1989b. <a href="https://doi.org/">“Kant’s First Drafts of the Deduction of the Categories.</a>” In <i>Kant’s Transcendental Deductions</i>, edited by Eckart Förster, 3–20. Stanford: Stanford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>Dyck, Corey W. 2016. <a href="https://doi.org/">“The Scope of Inner Sense: The Development of Kant’s Psychology in the Silent Decade.</a>” <i>Con-Textos Kantianos</i> 3: 1–19.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_8"></a>Ginsborg, Hannah. 2006. <a href="https://doi.org/">“Kant and the Problem of Experience.</a>” <i>Philosophical Topics</i> 34 (1&#38;2): 59–106.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_9"></a>Guyer, Paul. 1987. <i><a href="https://doi.org/">Kant and the Claims of Knowledge</a></i>. Cambridge: Cambridge University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_10"></a>Henrich, Dieter. 1969. <a href="https://doi.org/">“The Proof-Structure of Kant’s Transcendental Deduction.</a>” <i>The Review of Metaphysics</i> 22 (4): 640–59.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_11"></a>Kitcher, Patricia. 2011. <i><a href="https://doi.org/">Kant’s Thinker</a></i>. New York: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_12"></a>Klemme, Heiner F. 1996. <i><a href="https://doi.org/">Kants Philosophie Des Subjekts: Systematische Und Entwicklungsgeschichtliche Untersuchungen Zum Verhältnis Von Selbstbewusstsein Und Selbsterkenntnis</a></i>. Hamburg: Felix Meiner Verlag.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>Langton, Rae. 1998. <i><a href="https://doi.org/">Kantian Humility: Our Ignorance of Things in Themselves</a></i>. Oxford: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>———. 2006. <a href="https://doi.org/">“Kant’s Phenomena: Extrinsic or Relational Properties? a Reply to Allais.</a>” <i>Philosophy and Phenomenological Research</i> 73 (1): 170–85.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_15"></a>Laywine, Alison. 2005. <a href="https://doi.org/">“Kant on the Self as Model of Experience.</a>” <i>Kantian Review</i> 9 (1): 1–29.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_16"></a>———. 2006. <a href="https://doi.org/">“Kant’s Metaphysical Reflections in the Duisburg Nachlass.</a>” <i>Kant Studien</i> 97 (1): 79–113.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_17"></a>Longuenesse, Béatrice. 1998. <i><a href="https://doi.org/">Kant and the Capacity to Judge</a></i>. Princeton: Princeton University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_18"></a>McLear, Colin. 2018. “Motion and the Affection Argument.” <i>Synthese</i> 195 (11): 4979–95. doi:<a href="https://doi.org/10.1007/s11229-017-1438-4">10.1007/s11229-017-1438-4</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_19"></a>Mohr, Georg. 1995. <a href="https://doi.org/">“Freedom and the Self: From Introspection to Intersubjectivity: Wolff, Kant, and Fichte.</a>” In <i>The Modern Subject: Conceptions of the Self in Classical German Philosophy</i>, edited by Karl Ameriks and Dieter Sturma, 31–45. Albany, NY: SUNY Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_20"></a>Pereboom, Derk. 1991. <a href="https://doi.org/">“Kant’s Amphiboly.</a>” <i>Archiv Für Geschichte Der Philosophie</i> 73 (1): 50–70.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_21"></a>Reich, Klaus. 1992. <i><a href="https://doi.org/">The Completeness of Kant’s Table of Judgments</a></i>. Stanford: Stanford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_22"></a>Serck-Hanssen, Camilla. 2001. <a href="https://doi.org/">“Apperception and Deduction in the Duisburgischer Nachlass.</a>” <i>Kant Und Die Berliner Aufklärung: Akten Des IX. Internationalen Kant-Kongresses</i> 2: 59–68.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_23"></a>Van Cleve, James. 1999. <i><a href="https://doi.org/">Problems from Kant</a></i>. Oxford: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_24"></a>Wolff, Michael. 1995. <i><a href="https://doi.org/">Die Vollständigkeit Der Kantischen Urteilstafel: Mit Einem Essay Über Freges Begriffsschrift</a></i>. Vittorio Klostermann.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_25"></a>Wuerth, Julian. 2014. <i><a href="https://doi.org/">Kant on Mind, Action, and Ethics</a></i>. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Aquila, Richard E. 2001. <a href="https://doi.org/">“Infinitude, Whole-Part Priority, and the Ambiguity of Kantian `Space’ and `Time.</a>” In <i>Kant Und Die Berliner Aufklärung: Akten Des IX. Internationalen Kant-Kongresses</i>, edited by Rolf-Peter Horstmann Volker Gerhardt and Ralph Schumacher, 99–109. Berlin: Walter de Gruyter.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Beck, Lewis White. 1978. <a href="https://doi.org/">“Did the Sage of Königsberg Have No Dreams.</a>” In <i>Essays on Kant and Hume</i>, edited by  , 38–60. New Haven: Yale University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>Brandt, Reinhard. 1995. <i><a href="https://doi.org/">The Table of Judgments: Critique of Pure Reason A67-76; B92-101</a></i>. Atascadero, CA: Ridgeview.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>Carl, Wolfgang. 1989a. <i><a href="https://doi.org/">Der Schweigende Kant: Die Entwürfe Zu Einer Deduktion Der Kategorien Vor 1781</a></i>. Göttingen: Vandenhoeck &#38; Ruprecht.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>———. 1989b. <a href="https://doi.org/">“Kant’s First Drafts of the Deduction of the Categories.</a>” In <i>Kant’s Transcendental Deductions</i>, edited by Eckart Förster, 3–20. Stanford: Stanford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_8"></a>Dyck, Corey W. 2016. <a href="https://doi.org/">“The Scope of Inner Sense: The Development of Kant’s Psychology in the Silent Decade.</a>” <i>Con-Textos Kantianos</i> 3: 1–19.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_9"></a>Ginsborg, Hannah. 2006. <a href="https://doi.org/">“Kant and the Problem of Experience.</a>” <i>Philosophical Topics</i> 34 (1&#38;2): 59–106.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_10"></a>Guyer, Paul. 1987. <i><a href="https://doi.org/">Kant and the Claims of Knowledge</a></i>. Cambridge: Cambridge University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_11"></a>Henrich, Dieter. 1969. <a href="https://doi.org/">“The Proof-Structure of Kant’s Transcendental Deduction.</a>” <i>The Review of Metaphysics</i> 22 (4): 640–59.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_12"></a>———. 1989. <a href="https://doi.org/">“Kant’s Notion of a Deduction and the Methodological Background of the First Critique.</a>” In <i>Kant’s Transcendental Deductions: The Three Critiques and the Opus Postumum</i>, edited by Eckart Förster, 29–46. Stanford: Stanford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>Kitcher, Patricia. 2011. <i><a href="https://doi.org/">Kant’s Thinker</a></i>. New York: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>Klemme, Heiner F. 1996. <i><a href="https://doi.org/">Kants Philosophie Des Subjekts: Systematische Und Entwicklungsgeschichtliche Untersuchungen Zum Verhältnis Von Selbstbewusstsein Und Selbsterkenntnis</a></i>. Hamburg: Felix Meiner Verlag.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_15"></a>Langton, Rae. 1998. <i><a href="https://doi.org/">Kantian Humility: Our Ignorance of Things in Themselves</a></i>. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_16"></a>———. 2006. <a href="https://doi.org/">“Kant’s Phenomena: Extrinsic or Relational Properties? a Reply to Allais.</a>” <i>Philosophy and Phenomenological Research</i> 73 (1): 170–85.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_17"></a>Laywine, Alison. 2005. <a href="https://doi.org/">“Kant on the Self as Model of Experience.</a>” <i>Kantian Review</i> 9 (1): 1–29.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_18"></a>———. 2006. <a href="https://doi.org/">“Kant’s Metaphysical Reflections in the Duisburg Nachlass.</a>” <i>Kant Studien</i> 97 (1): 79–113.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_19"></a>Longuenesse, Béatrice. 1998. <i><a href="https://doi.org/">Kant and the Capacity to Judge</a></i>. Princeton: Princeton University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_20"></a>McLear, Colin. 2015. <a href="https://doi.org/">“Two Kinds of Unity in the Critique of Pure Reason.</a>” <i>Journal of the History of Philosophy</i> 53 (1): 79–110.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_21"></a>———. 2018. “Motion and the Affection Argument.” <i>Synthese</i> 195 (11): 4979–95. doi:<a href="https://doi.org/10.1007/s11229-017-1438-4">10.1007/s11229-017-1438-4</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_22"></a>McLear, Colin, and Derk Pereboom. 0BC. <a href="https://doi.org/">“Kant on Transcendental Freedom, Priority Monism, &#38; the Structure of Intuition.</a>” In <i>The Idea of Freedom: New Essays on the Kantian Theory of Freedom</i>, edited by Evan Tiffany and Dai Heide. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_23"></a>Mohr, Georg. 1995. <a href="https://doi.org/">“Freedom and the Self: From Introspection to Intersubjectivity: Wolff, Kant, and Fichte.</a>” In <i>The Modern Subject: Conceptions of the Self in Classical German Philosophy</i>, edited by Karl Ameriks and Dieter Sturma, 31–45. Albany, NY: SUNY Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_24"></a>Onof, Christian, and Dennis Schulting. 2015. <a href="https://doi.org/">“Space as Form of Intuition and as Formal Intuition. On the Note to B160 in Kant’s Critique of Pure Reason.</a>” <i>The Philosophical Review</i> 124 (1): 1–58.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_25"></a>Pereboom, Derk. 1991. <a href="https://doi.org/">“Kant’s Amphiboly.</a>” <i>Archiv Für Geschichte Der Philosophie</i> 73 (1): 50–70.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_26"></a>Reich, Klaus. 1992. <i><a href="https://doi.org/">The Completeness of Kant’s Table of Judgments</a></i>. Stanford: Stanford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_27"></a>Serck-Hanssen, Camilla. 2001. <a href="https://doi.org/">“Apperception and Deduction in the Duisburgischer Nachlass.</a>” <i>Kant Und Die Berliner Aufklärung: Akten Des IX. Internationalen Kant-Kongresses</i> 2: 59–68.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_28"></a>Van Cleve, James. 1999. <i><a href="https://doi.org/">Problems from Kant</a></i>. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_29"></a>Westphal, Kenneth R. 2000. <a href="https://doi.org/">“Kant, Hegel, and the Fate of ‘the’ Intuitive Intellect.</a>” In <i>The Reception of Kant’s Critical Philosophy: Fichte, Schelling, and Hegel</i>, edited by Sally Sedgwick, 283–305. Cambridge: Cambridge University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_30"></a>Winegar, Reed. 2017. “Kant on God’s Intuitive Understanding: Interpreting CJ §76’s Modal Claims.” <i>Kantian Review</i> 22 (2): 305–29. doi:<a href="https://doi.org/10.1017/S1369415417000061">10.1017/S1369415417000061</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_31"></a>Wolff, Michael. 1995. <i><a href="https://doi.org/">Die Vollständigkeit Der Kantischen Urteilstafel: Mit Einem Essay Über Freges Begriffsschrift</a></i>. Vittorio Klostermann.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_32"></a>Wuerth, Julian. 2014. <i><a href="https://doi.org/">Kant on Mind, Action, and Ethics</a></i>. Oxford: Oxford University Press.</div>
 </div>
 
 [^fn:1]: (<a href="#citeproc_bib_item_1">Allais 2009, 405</a>).
 [^fn:2]: Kant is reported to have said that `<substance>` is the "most preeminent" of the categories and "thus the basis of all other cognition" (_Metaphysik Mrongovius_, 29:769--70).
 [^fn:3]: The modal categories are the exception since, as Kant indicates, they are "merely subjectively valid for the human understanding" and "are not valid of objects in general" (CPJ 5:402); see also [@stang2016, ch. 10; @kohl2015c].
 [^fn:4]: What are the "concepts of metaphysics" for Kant? Certainly they include the concept `<God>`, as well as `<soul>` and `<world>`. These all presuppose possession of the concept `<substance>`. Presumably also on the list are other concepts one would find in, e.g., Baumgarten's _Metaphysica_, such as `<possibility>`, `<necessity>`, `<accident>`, and so forth.
-[^fn:5]: For consideration of the problem of self-consciousness in the 1770s more broadly, as well as Kant's rejection of intellectual intuition, see (<a href="#citeproc_bib_item_12">Klemme 1996, 118–26</a>). As (<a href="#citeproc_bib_item_19">Mohr 1995, 32–36</a>) points out, Kant does speak of an intellectual (not inner) intuition of freedom in _reflexionen_ from the early-to-mid-1770s (e.g. R4336 17:509 (1769-75)) But Kant also speaks of apperception as opposed to intuition in the mid-1770s (e.g. R4723 17:688 (1773-5); R6860 19:183 (1776?-91?)). It is clear that he is struggling to express the nature of the awareness we can have, as rational beings, of our own activity (e.g. R4220 17:462 (1769-70)).
-[^fn:6]: For discussion of Kant's view that the objects of sense consist entirely of relations, or relational properties, see (<a href="#citeproc_bib_item_20">Pereboom 1991</a>; <a href="#citeproc_bib_item_13">Langton 1998</a>, <a href="#citeproc_bib_item_14">2006</a>; <a href="#citeproc_bib_item_18">McLear 2018</a>).
-[^fn:7]: There is also indication in the _Duisburg Nachlaß_, as there was in Kant's lectures, of his endorsement of the rational psychology he would later come to criticize. For example, in the _Nachlaß_ Kant says that "I would not represent anything as outside of me and thus make appearance into experience (objectively) if the representations did not relate to something _that is parallel to my I_, through which I refer them from myself to another subject" (R4675, 17:648 (1775); my emphasis). For discussion see (<a href="#citeproc_bib_item_9">Guyer 1987</a>; <a href="#citeproc_bib_item_6">Carl 1989b</a>, <a href="#citeproc_bib_item_5">1989a</a>; <a href="#citeproc_bib_item_22">Serck-Hanssen 2001</a>; <a href="#citeproc_bib_item_15">Laywine 2005</a>, <a href="#citeproc_bib_item_16">2006</a>; <a href="#citeproc_bib_item_11">Kitcher 2011</a>).
-[^fn:8]: (<a href="#citeproc_bib_item_15">Laywine 2005, 9</a>); see also (<a href="#citeproc_bib_item_5">Carl 1989a, 91–92, 97</a>; <a href="#citeproc_bib_item_11">Kitcher 2011, 73–74</a>; <a href="#citeproc_bib_item_25">Wuerth 2014, 104</a>; <a href="#citeproc_bib_item_7">Dyck 2016, 335–38</a>). For criticism of Carl's, and to a lesser degree Laywine's, position see (<a href="#citeproc_bib_item_2">Allison 2015, 121–30</a>).
-[^fn:9]: There are a variety of prominent attempts to defend Kant's position here. See (<a href="#citeproc_bib_item_21">Reich 1992</a>; <a href="#citeproc_bib_item_4">Brandt 1995</a>; <a href="#citeproc_bib_item_24">Wolff 1995</a>; <a href="#citeproc_bib_item_17">Longuenesse 1998</a>).
-[^fn:10]: For a helpful discussion of different ways "experience" might be interpreted see (Pp. <a href="#citeproc_bib_item_23">Van Cleve 1999, 73–76</a>). See also the discussion of kinds of experience in (<a href="#citeproc_bib_item_3">Beck 1978</a>) and the sources cited therein.
-[^fn:11]: For a related worry about triviality see (<a href="#citeproc_bib_item_8">Ginsborg 2006</a>).
-[^fn:12]: The _locus classicus_ for the two-step interpretation is (<a href="#citeproc_bib_item_10">Henrich 1969</a>). Note that I am not endorsing any of the specifics of Henrich's account, e.g., that the second step of the Deduction consists in the comparatively trivial reminder that since human forms of intuition are spatio-temporal, the categories must be know to apply only to spatio-temporal objects.
+[^fn:5]: For consideration of the problem of self-consciousness in the 1770s more broadly, as well as Kant's rejection of intellectual intuition, see (<a href="#citeproc_bib_item_14">Klemme 1996, 118–26</a>). As (<a href="#citeproc_bib_item_23">Mohr 1995, 32–36</a>) points out, Kant does speak of an intellectual (not inner) intuition of freedom in _reflexionen_ from the early-to-mid-1770s (e.g. R4336 17:509 (1769-75)) But Kant also speaks of apperception as opposed to intuition in the mid-1770s (e.g. R4723 17:688 (1773-5); R6860 19:183 (1776?-91?)). It is clear that he is struggling to express the nature of the awareness we can have, as rational beings, of our own activity (e.g. R4220 17:462 (1769-70)).
+[^fn:6]: For discussion of Kant's view that the objects of sense consist entirely of relations, or relational properties, see (<a href="#citeproc_bib_item_25">Pereboom 1991</a>; <a href="#citeproc_bib_item_15">Langton 1998</a>, <a href="#citeproc_bib_item_16">2006</a>; <a href="#citeproc_bib_item_21">McLear 2018</a>).
+[^fn:7]: There is also indication in the _Duisburg Nachlaß_, as there was in Kant's lectures, of his endorsement of the rational psychology he would later come to criticize. For example, in the _Nachlaß_ Kant says that "I would not represent anything as outside of me and thus make appearance into experience (objectively) if the representations did not relate to something _that is parallel to my I_, through which I refer them from myself to another subject" (R4675, 17:648 (1775); my emphasis). For discussion see (<a href="#citeproc_bib_item_10">Guyer 1987</a>; <a href="#citeproc_bib_item_7">Carl 1989b</a>, <a href="#citeproc_bib_item_6">1989a</a>; <a href="#citeproc_bib_item_27">Serck-Hanssen 2001</a>; <a href="#citeproc_bib_item_17">Laywine 2005</a>, <a href="#citeproc_bib_item_18">2006</a>; <a href="#citeproc_bib_item_13">Kitcher 2011</a>).
+[^fn:8]: (<a href="#citeproc_bib_item_17">Laywine 2005, 9</a>); see also (<a href="#citeproc_bib_item_6">Carl 1989a, 91–92, 97</a>; <a href="#citeproc_bib_item_13">Kitcher 2011, 73–74</a>; <a href="#citeproc_bib_item_32">Wuerth 2014, 104</a>; <a href="#citeproc_bib_item_8">Dyck 2016, 335–38</a>). For criticism of Carl's, and to a lesser degree Laywine's, position see (<a href="#citeproc_bib_item_2">Allison 2015, 121–30</a>).
+[^fn:9]: There are a variety of prominent attempts to defend Kant's position here. See (<a href="#citeproc_bib_item_26">Reich 1992</a>; <a href="#citeproc_bib_item_5">Brandt 1995</a>; <a href="#citeproc_bib_item_31">Wolff 1995</a>; <a href="#citeproc_bib_item_19">Longuenesse 1998</a>).
+[^fn:10]: For a helpful discussion of different ways "experience" might be interpreted see (Pp. <a href="#citeproc_bib_item_28">Van Cleve 1999, 73–76</a>). See also the discussion of kinds of experience in (<a href="#citeproc_bib_item_4">Beck 1978</a>) and the sources cited therein.
+[^fn:11]: For a related worry about triviality see (<a href="#citeproc_bib_item_9">Ginsborg 2006</a>).
+[^fn:12]: The _locus classicus_ for the two-step interpretation is (<a href="#citeproc_bib_item_11">Henrich 1969</a>). Note that I am not endorsing any of the specifics of Henrich's account, e.g., that the second step of the Deduction consists in the comparatively trivial reminder that since human forms of intuition are spatio-temporal, the categories must be know to apply only to spatio-temporal objects.
+[^fn:13]: For discussion of the German rationalist conception of an intuitive intellect see (<a href="#citeproc_bib_item_30">Winegar 2017</a>).
+[^fn:14]: So, _pace_ (<a href="#citeproc_bib_item_29">Westphal 2000</a>), Kant's conception of the intellect (or the understanding in particular) does not require conceiving of it as a faculty for _concept_ generation. Only discursive faculties are faculties for concept generation (and, correspondingly, for judgment and inference); cf. JL 9:36; CPJ 5:406.
+[^fn:15]: Kant understands the whole-to-part merelogical structure of representation as a distinguishing feature of intuition as opposed to conceptual representation, which is part-to-whole. See (<a href="#citeproc_bib_item_3">Aquila 2001</a>; <a href="#citeproc_bib_item_20">McLear 2015</a>; <a href="#citeproc_bib_item_24">Onof and Schulting 2015</a>; <a href="#citeproc_bib_item_22">McLear and Pereboom 0BC</a>) for discussion. As we'll see, I take the intuitive understanding, or intellect, as a faculty for generating intellectual intuitions. For an alternative reading of Kant that sees these as two distinct faculties see [@forster2012, ch. 6]. While I give reasons for thinking of these as a single faculty, it won't matter for the purposes of understanding Hegel's objection.
