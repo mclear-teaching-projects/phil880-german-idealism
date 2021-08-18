@@ -1,7 +1,7 @@
 ---
 title: "Kant's Critical Project"
 publishDate: 2021-08-24T00:00:00-04:00
-lastmod: 2021-08-02T14:42:42-04:00
+lastmod: 2021-08-18T15:02:03-04:00
 slug: "kants-critical-project"
 tags: ["judgment", "analytic/synthetic", "metaphysics", "science", "truth", "a priori"]
 draft: false
@@ -113,15 +113,19 @@ for knowledge of the world.
 Kant's aims with the Critical philosophy are relatively easy to state, but
 require a fair bit of unpacking/explanation. They are:
 
-1.  To set metaphysics on the "secure path of a science" (Bix-x).
-2.  To explain how propositions making claims of universality and necessity about the
-    empirical world (e.g. _Necessarily, all events have a cause_), what Kant calls
-    "synthetic a priori cognitions" could be both true and known to be such.
-3.  To articulate the limits of rational inquiry and explanation.
-4.  To explain why metaphysics (and inquiry in general) tends to overstep these limits.
-5.  To articulate rational bases for faith (though not necessarily _knowledge_) in an
-    immortal soul, God, the kind of freedom required for moral responsibility, and
-    other "ideas of reason".
+<ol type="A">
+  <li> To set metaphysics on the "secure path of a science" (Bix-x)</li>
+  <li> To explain how propositions making claims of universality and necessity about
+    the empirical world (e.g. Necessarily, all events have a cause), what Kant
+    calls "synthetic a priori cognitions" could be both true and known to be
+    such</li>
+  <li> To articulate the limits of rational inquiry and explanation</li>
+  <li> To explain why metaphysics (and inquiry in general) tends to overstep these
+    limits</li>
+  <li> To articulate rational bases for faith (though not necessarily knowledge) in
+    an immortal soul, God, the kind of freedom required for moral responsibility, and
+    other "ideas of reason"</li>
+</ol>
 
 Let's look more closely at each of (A)-(E) in turn.
 
@@ -168,8 +172,7 @@ going back to [Aristotle's natural philosophy](http://plato.stanford.edu/entries
 knowledge, known in Latin as '_Scientia_' (Greek:'_Epistêmê_'), concerned _any_ body of
 knowledge organized according to some principle or set of principles that exemplify
 the explanatory relations of what is best known and explanatorily basic as the basis
-of what is least known and explanatorily derivative (see also cite:@jardine1988;
-cite:@randall1961; cite:@dejong2010). A 'science' was thus distinguished from a mere
+of what is least known and explanatorily derivative (see also (<a href="#citeproc_bib_item_11">Jardine 1988</a>; <a href="#citeproc_bib_item_20">Randall 1961</a>; <a href="#citeproc_bib_item_6">De Jong and Betti 2010</a>)). A 'science' was thus distinguished from a mere
 aggregate of known facts in virtue of the presence of such explanatory connections
 between facts.
 
@@ -247,7 +250,7 @@ a useful summary of the history of the word:
 > now call Aristotle's _Physics_. The title was probably meant to warn students of
 > Aristotle's philosophy that they should attempt Metaphysics only after they had
 > mastered “the physical ones”, the books about nature or the natural world—that is
-> to say, about change, for change is the defining feature of the natural world. (<a href="#citeproc_bib_item_7">Inwagen and Sullivan 2020</a>)
+> to say, about change, for change is the defining feature of the natural world. (<a href="#citeproc_bib_item_10">Inwagen and Sullivan 2020</a>)
 
 In Kant's time, while metaphysics is still considered "first philosophy", it has a
 more well-defined scope. Kant makes a distinction, which would have been very
@@ -376,8 +379,7 @@ conceptual representation (A68/B93; JL 9:91). Kant’s distinction between these
 sorts of representation might at ﬁrst pass be taken as a kind of phenomenological
 distinction between how things seem to a perceiving subject independently of thought
 about what is so experienced, and this is indeed how at least some interpreters have
-construed Kant (e.g., cite:@prichard1909; cite:@russell1913; cite:@broad1978;
-cite:@parsons1992). However, as others have noted (e.g., cite:@paton1936a: 98), Kant’s
+construed Kant (e.g., (<a href="#citeproc_bib_item_18">Prichard 1909</a>; <a href="#citeproc_bib_item_21">Russell 1913</a>; <a href="#citeproc_bib_item_3">Broad 1978</a>; <a href="#citeproc_bib_item_14">Parsons 1992</a>)). However, as others have noted (e.g., (<a href="#citeproc_bib_item_17">Paton 1936, 98</a>)), Kant’s
 method for distinguishing the various contributions made by our cognitive faculties
 proceeds not by appeal to phenomenology but rather philosophical abstraction (e.g.,
 A20-1/B34-5). Moreover, Kant at least sometimes seems to deny that a representation
@@ -419,10 +421,11 @@ of truth, namely that it is the agreement of cognition with its object, is here
 granted and presupposed” (A58/B82). Since Kant allows for false cognition, his view
 must be that representations that are cognitions are such as to be able to agree or
 conform with their objects, and Kant construes such agreement as truth. Kant regards
-judgment (i.e., a specific sort of non-associative unity of concepts) as the bearer of
-truth, while denying that intuition is the sort of thing that can be true or false.[^fn:5] Finally, Kant construes cognition as always
-needing to be of a really—i.e., _metaphysically_ —possible subject matter. As Kant
-states in a famous footnote in the B-preface of the ﬁrst _Critique_:
+judgment (i.e., a specific sort of non-associative unity of concepts) as the bearer
+of truth, while denying that intuition is the sort of thing that can be true or
+false.[^fn:5] Finally, Kant construes cognition as always needing to be of a
+really—i.e., _metaphysically_ —possible subject matter. As Kant states in a famous
+footnote in the B-preface of the ﬁrst _Critique_:
 
 > To _cognize_ an object, it is required that I be able to prove its possibility (whether
 > by the testimony of experience from its actuality or a priori through reason).
@@ -482,7 +485,7 @@ only mark or indicator that some bit of knowledge is a priori. In
 addition, Kant argues, any bit of knowledge that is necessary and/or
 universal in scope is itself a priori.
 
-> Necessity and strict universality are therefore secure indications" of
+> Necessity and strict universality are therefore secure indications of
 > an a priori cognition, and also belong together inseparably. But since
 > in their use it is sometimes easier to show the empirical limitation
 > in judgments than the contingency in them, or is often more plausible
@@ -543,8 +546,7 @@ predicate is
     principle of non-contradiction
 
 Which, if any of these markers is best thought of as the main characteristic of an
-analytic judgment? This is a disputed issue (cf. (<a href="#citeproc_bib_item_2">Anderson 2005</a>); (<a href="#citeproc_bib_item_11">Proops 2005</a>)), though certainly, in all cases Kant is thinking of 'atomic'
-judgments of subject-predicate form.
+analytic judgment? This is a disputed issue (cf. (<a href="#citeproc_bib_item_2">Anderson 2005</a>; <a href="#citeproc_bib_item_19">Proops 2005</a>)), though certainly, in all cases Kant is thinking of 'atomic' judgments of subject-predicate form.
 
 
 #### I.iv The Synthetic A Priori {#i-dot-iv-the-synthetic-a-priori}
@@ -892,25 +894,41 @@ explanations.
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ameriks, Karl. 1982. “Recent Work on Kant’s Theoretical Philosophy.” <i>American Philosophical Quarterly</i> 19 (1): 1–24. doi:<a href="https://doi.org/10.2307/20013938">10.2307/20013938</a>.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Anderson, R Lanier. 2005. <a href="https://doi.org/">“Neo-Kantianism and the Roots of Anti-Psychologism.</a>” <i>British Journal for the History of Philosophy</i> 13 (2): 287–323.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Chignell, Andrew. 2007a. <a href="https://doi.org/">“Belief in Kant.</a>” <i>The Philosophical Review</i> 116 (3): 323–60.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>———. 2007b. <a href="https://doi.org/">“Kant’s Concepts of Justification.</a>” <i>Noûs</i> 41 (1): 33–63.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>Gardner, Sebastian. 1999. <i><a href="https://doi.org/">Kant and the Critique of Pure Reason</a></i>. London: Routledge.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>Heis, Jeremy. 2013. <a href="https://doi.org/">“The Priority Principle from Kant to Frege.</a>” <i>Noûs</i> 48 (2): 268–97.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>Inwagen, Peter van, and Sullivan. 2020. <a href="https://doi.org/">“Metaphysics.</a>” In <i>The Stanford Encyclopedia of Philosophy</i>, edited by N. Zalta Edward. Metaphysics Research Lab, Stanford University.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_8"></a>Kitcher, Patricia. 2011. <i><a href="https://doi.org/">Kant’s Thinker</a></i>. New York: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_9"></a>McLear, Colin. 2016. <a href="https://doi.org/">“Getting Acquainted with Kant.</a>” In <i>Kantian Nonconceptualism</i>, edited by Dennis Schulting, 171–97. London: Palgrave Macmillan.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_10"></a>Pasnau, Robert. 2014. <a href="https://doi.org/">“Epistemology Idealized.</a>” <i>Mind</i> 122 (488): 987–1021.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_11"></a>Proops, Ian. 2005. <a href="https://doi.org/">“Kant’s Conception of Analytic Judgment.</a>” <i>Philosophy and Phenomenological Research</i> 70 (3): 588–612.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_12"></a>Smit, Houston. 2000. <a href="https://doi.org/">“Kant on Marks and the Immediacy of Intuition.</a>” <i>The Philosophical Review</i> 109 (2): 235–66.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>Stang, Nicholas F. 2016. <a href="https://doi.org/">“Kant’s Transcendental Idealism.</a>” In <i>The Stanford Encyclopedia of Philosophy</i>, edited by N. Zalta Edward.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>Stang, Nicholas F. 2021. “Kant and the Concept of an Object.” <i>European Journal of Philosophy</i> 29 (2): 299–322. doi:<a href="https://doi.org/10.1111/ejop.12570">10.1111/ejop.12570</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Broad, Charlie Dunbar. 1978. <i><a href="https://doi.org/">Kant: An Introduction</a></i>. Cambridge: Cambridge University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Chignell, Andrew. 2007a. <a href="https://doi.org/">“Belief in Kant.</a>” <i>The Philosophical Review</i> 116 (3): 323–60.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>———. 2007b. <a href="https://doi.org/">“Kant’s Concepts of Justification.</a>” <i>Noûs</i> 41 (1): 33–63.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>De Jong, Willem R, and Arianna Betti. 2010. <a href="https://doi.org/">“The Classical Model of Science: A Millennia-Old Model of Scientific Rationality.</a>” <i>Synthese</i> 174 (2): 185–203.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>Gardner, Sebastian. 1999. <i><a href="https://doi.org/">Kant and the Critique of Pure Reason</a></i>. London: Routledge.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_8"></a>Gomes, Anil, and Andrew Stephenson. 2016. <a href="https://doi.org/">“On the Relation of Intuition to Cognition.</a>” In <i>Kantian Nonconceptualism</i>, edited by Dennis Schulting, 53–79. London: Palgrave MacMillan.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_9"></a>Heis, Jeremy. 2013. <a href="https://doi.org/">“The Priority Principle from Kant to Frege.</a>” <i>Noûs</i> 48 (2): 268–97.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_10"></a>Inwagen, Peter van, and Sullivan. 2020. <a href="https://doi.org/">“Metaphysics.</a>” In <i>The Stanford Encyclopedia of Philosophy</i>, edited by N. Zalta Edward. Metaphysics Research Lab, Stanford University.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_11"></a>Jardine, Nicholas. 1988. <a href="https://doi.org/">“Epistemology of the Sciences.</a>” In <i>The Cambridge History of Renaissance Philosophy</i>, edited by Charles B. Schmitt, Quentin Skinner, Eckhard Kessler, and Jill Kraye, 685–711. Cambridge: Cambridge University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_12"></a>Kitcher, Patricia. 2011. <i><a href="https://doi.org/">Kant’s Thinker</a></i>. New York: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>McLear, Colin. 2016. <a href="https://doi.org/">“Getting Acquainted with Kant.</a>” In <i>Kantian Nonconceptualism</i>, edited by Dennis Schulting, 171–97. London: Palgrave Macmillan.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>Parsons, Charles. 1992. <a href="https://doi.org/">“The Transcendental Aesthetic.</a>” In <i>The Cambridge Companion to Kant</i>, edited by Paul Guyer, 62–100. Cambridge: Cambridge University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_15"></a>Pasnau, Robert. 2014. <a href="https://doi.org/">“Epistemology Idealized.</a>” <i>Mind</i> 122 (488): 987–1021.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_16"></a>———. 2018. <i><a href="https://doi.org/">After Certainty</a></i>. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_17"></a>Paton, Herbert J. 1936. <i><a href="https://doi.org/">Kant’s Metaphysic of Experience</a></i>. London: G. Allen &#38; Unwin, Ltd.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_18"></a>Prichard, Harold Arthur. 1909. <i><a href="https://doi.org/">Kant’s Theory of Knowledge</a></i>. Oxford: Clarendon Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_19"></a>Proops, Ian. 2005. <a href="https://doi.org/">“Kant’s Conception of Analytic Judgment.</a>” <i>Philosophy and Phenomenological Research</i> 70 (3): 588–612.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_20"></a>Randall, John Herman. 1961. <i><a href="https://doi.org/">The School of Padua and the Emergence of Modern Science</a></i>. Padova: Editrice Antenore.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_21"></a>Russell, Bertrand. 1913. <i><a href="https://doi.org/">The Problems of Philosophy</a></i>. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_22"></a>Schafer, Karl. 0BCa. <a href="https://doi.org/">“Constitutivism About Reasons.</a>” In , edited by K Jones and François Schroeter. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_23"></a>———. 0BCb. <a href="https://doi.org/">“Kant’s Conception of Cognition and Our Knowledge of Things-in-Themselves.</a>” In <i>The Sensible and Intelligible Worlds: New Essays on Kant’s Metaphysics and Epistemology</i>, edited by Karl Schafer and Nicholas Stang. New York: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_24"></a>Smit, Houston. 2000. <a href="https://doi.org/">“Kant on Marks and the Immediacy of Intuition.</a>” <i>The Philosophical Review</i> 109 (2): 235–66.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_25"></a>———. 2009. <a href="https://doi.org/">“Kant on Apriority and the Spontaneity of Cognition.</a>” In <i>Metaphysics and the Good: Themes from the Philosophy of Robert Adams</i>, edited by Samuel Newlands and Larry M. Jorgensen, 188–251. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_26"></a>Stang, Nicholas F. 2016. <a href="https://doi.org/">“Kant’s Transcendental Idealism.</a>” In <i>The Stanford Encyclopedia of Philosophy</i>, edited by N. Zalta Edward.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_27"></a>Stang, Nicholas F. 2021. “Kant and the Concept of an Object.” <i>European Journal of Philosophy</i> 29 (2): 299–322. doi:<a href="https://doi.org/10.1111/ejop.12570">10.1111/ejop.12570</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_28"></a>Tolley, Clinton. 2017. “Kant on the Place of Cognition in the Progression of Our Representations.” <i>Synthese</i>: 1–30. doi:<a href="https://doi.org/10.1007/s11229-017-1625-3">10.1007/s11229-017-1625-3</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_29"></a>Watkins, Eric, and Marcus Willaschek. 2017a. “Givenness and Cognition: Reply to Grüne and Chignell.” <i>Journal of the History of Philosophy</i> 55 (1): 143–52. doi:<a href="https://doi.org/10.1353/hph.2017.0006">10.1353/hph.2017.0006</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_30"></a>———. 2017b. “Kant’s Account of Cognition.” <i>Journal of the History of Philosophy</i> 55 (1): 83–112. doi:<a href="https://doi.org/10.1353/hph.2017.0003">10.1353/hph.2017.0003</a>.</div>
 </div>
 
-[^fn:1]: See (,@Pasnau <a href="#citeproc_bib_item_10">Pasnau 2014, 2018</a>).
-[^fn:2]: See (<a href="#citeproc_bib_item_14">Stang 2021</a>) for helpful discussion. Note that I use angle brackets to refer to the concepts that would normally be expressed by the term within; for example, <substance> is the concept of substance. I use italics to denote propositions; the sentence “Gold is a yellow metal” expresses the proposition _Gold is a yellow metal_. I refer to the relation between an object and a concept whose extension includes that object as “instantiation,” for example, particular substances instantiate <substance>.
-[^fn:3]: For an explicit reading of Kant as engaged in such a revisionary project see (, <a href="#citeproc_bib_item_8">Kitcher 2011, 5–6</a>)
-[^fn:4]: The issue of how to characterize cognition is becoming its own cottage industry. See (,Cite:@smit <a href="#citeproc_bib_item_12">Smit 2000, 2009</a>); cite:@schafer2013-ms; cite:@schaferforthcominga; cite:@gomes2016; cite:@tolley2017c; cite:@watkins2017a; cite:@watkins2017].
-[^fn:5]: See (, <a href="#citeproc_bib_item_6">Heis 2013, 277–78</a>); (<a href="#citeproc_bib_item_9">McLear 2016</a>). Finally, there is Kant's conception of "knowledge" (_Wissen_), which is the relation of acceptance or "holding for true" (_Fürwahrhalten_) that a cognizing subject takes to a judgment. Such a "holding" of a judgment is a kind of activity performed by the cognizer subject, with respect to a true judgment, on the basis of evidence or "grounds" to which the subject has access. Such holdings are the closest Kant comes to discussing what we would now call "doxastic propositional attitudes". In contemporary epistemology it is relatively common to treat the notion of belief as being the most general doxastic propositional attitude, and attitudes like knowledge to consist of belief, plus some further set of features (e.g. truth, indefeasibility, reliability, safety, etc.). This is not the case for Kant. Instead he takes knowledge to be that towards which all cases of acceptance or holding aim. Such acts of holding can fall short of knowledge for various reasons, and the ways in which they fall short correspond to what Kant calls "belief" or "faith" (_Glaube_) and "opinion" (_Meinung_).[^fn:6]
-[^fn:6]: See (<a href="#citeproc_bib_item_3">Chignell 2007a</a>, <a href="#citeproc_bib_item_4">2007b</a>) for discussion. So a representation is the effect of a mind's receptive capacity being causally affected by something or by spontaneously generating its own representations. Such representations count as cognitions if they satisfy the three conditions of being conscious, truth-apt, and of really possible objects. Such cognitions are in a position to be _known_ when the knower possesses sufficient evidence or "grounds" for accepting that the cognition is true. Insofar as such knowledge is systematically connected in a manner demonstrating the necessity of its various elements it is "science" (_Wissenschaft_), properly so called.
-[^fn:7]: See (<a href="#citeproc_bib_item_1">Ameriks 1982</a>; cite: <a href="#citeproc_bib_item_13">Stang 2016</a>).
-[^fn:8]: For this way of putting it see (, <a href="#citeproc_bib_item_5">Gardner 1999, 144</a>). Kant ultimately thinks that a variety of ideas admit of some sort or another of rational acceptance. Perhaps most famously, he argues in the _Critque of Practical Reason_ that we are rationally required to believe in the existence of God and of our own immortal souls in order to fulfill the requirements of practical rationality, namely, striving to achieve the "highest good"---the unity of virtue apportioned to happiness (more colloquaially, the world in which everyone gets their "just desserts"). In Kant's view, we may not truly _know_ that there is a God or that we have souls in the relevant sense, but it is rational to believe so. As Kant famously puts it, > Thus I cannot even **assume God, freedom and immortality** for the sake of the > neeessary practical use of my reason unless I simultaneously **deprive** speculative > reason of its pretension to extravagant insights; because in order to attain to > such insights, speculative reason would have to help itself to principles that in > fact reach only to objects of possible experience, and which, if they were to be > applied to what cannot be an object of experience, then they would always actually > transform it into an appearance, and thus declare all **practical extension** of pure > reason to be impossible. Thus I had to deny **knowledge** in order to make room for > **faith**; and the dogmatism of metaphysics, i.e., the prejudice that without criticism > reason can make progress in metaphysics, is the true source of all unbelief > conflicting with morality, which unbelief is always very dogmatic. (Bxxix-xxx) It is Kant's hope that the Critical philosophy not only sets metaphysics on the path of science, but that it also shows how faith and reason can coexist together and are ultimately even mutually supporting. This connection between faith and reason will continue to exert its influence in German philosophy, even by those who ultimately reject many of Kant's other doctrines.
+[^fn:1]: See (<a href="#citeproc_bib_item_15">Pasnau 2014</a>, <a href="#citeproc_bib_item_16">2018</a>).
+[^fn:2]: See (<a href="#citeproc_bib_item_27">Stang 2021</a>) for helpful discussion. Note that I use angle brackets to refer to the concepts that would normally be expressed by the term within; for example, <substance> is the concept of substance. I use italics to denote propositions; the sentence “Gold is a yellow metal” expresses the proposition _Gold is a yellow metal_. I refer to the relation between an object and a concept whose extension includes that object as “instantiation,” for example, particular substances instantiate <substance>.
+[^fn:3]: For an explicit reading of Kant as engaged in such a revisionary project and epistemologically focussed project see (, <a href="#citeproc_bib_item_12">Kitcher 2011, 5–6</a>)
+[^fn:4]: The issue of how to characterize cognition is becoming its own cottage industry. See (<a href="#citeproc_bib_item_24">Smit 2000</a>, <a href="#citeproc_bib_item_25">2009</a>; <a href="#citeproc_bib_item_23">Schafer 0BCb</a>, <a href="#citeproc_bib_item_22">0BCa</a>; <a href="#citeproc_bib_item_8">Gomes and Stephenson 2016</a>; <a href="#citeproc_bib_item_28">Tolley 2017</a>; <a href="#citeproc_bib_item_29">Watkins and Willaschek 2017a</a>, <a href="#citeproc_bib_item_30">2017b</a>).
+[^fn:5]: See (, <a href="#citeproc_bib_item_9">Heis 2013, 277–78</a>; <a href="#citeproc_bib_item_13">McLear 2016</a>). Finally, there is Kant's conception of "knowledge" (_Wissen_), which is the relation of acceptance or "holding for true" (_Fürwahrhalten_) that a cognizing subject takes to a judgment. Such a "holding" of a judgment is a kind of activity performed by the cognizer subject, with respect to a true judgment, on the basis of evidence or "grounds" to which the subject has access. Such holdings are the closest Kant comes to discussing what we would now call "doxastic propositional attitudes". In contemporary epistemology it is relatively common to treat the notion of belief as being the most general doxastic propositional attitude, and attitudes like knowledge to consist of belief, plus some further set of features (e.g. truth, indefeasibility, reliability, safety, etc.). This is not the case for Kant. Instead he takes knowledge to be that towards which all cases of acceptance or holding aim. Such acts of holding can fall short of knowledge for various reasons, and the ways in which they fall short correspond to what Kant calls "belief" or "faith" (_Glaube_) and "opinion" (_Meinung_).[^fn:6]
+[^fn:6]: See (<a href="#citeproc_bib_item_4">Chignell 2007a</a>, <a href="#citeproc_bib_item_5">2007b</a>) for discussion. So a representation is the effect of a mind's receptive capacity being causally affected by something or by spontaneously generating its own representations. Such representations count as cognitions if they satisfy the three conditions of being conscious, truth-apt, and of really possible objects. Such cognitions are in a position to be _known_ when the knower possesses sufficient evidence or "grounds" for accepting that the cognition is true. Insofar as such knowledge is systematically connected in a manner demonstrating the necessity of its various elements it is "science" (_Wissenschaft_), properly so called.
+[^fn:7]: See (<a href="#citeproc_bib_item_1">Ameriks 1982</a>; cite: <a href="#citeproc_bib_item_26">Stang 2016</a>).
+[^fn:8]: For this way of putting it see (, <a href="#citeproc_bib_item_7">Gardner 1999, 144</a>). Kant ultimately thinks that a variety of ideas admit of some sort or another of rational acceptance. Perhaps most famously, he argues in the _Critque of Practical Reason_ that we are rationally required to believe in the existence of God and of our own immortal souls in order to fulfill the requirements of practical rationality, namely, striving to achieve the "highest good"---the unity of virtue apportioned to happiness (more colloquaially, the world in which everyone gets their "just desserts"). In Kant's view, we may not truly _know_ that there is a God or that we have souls in the relevant sense, but it is rational to believe so. As Kant famously puts it, > Thus I cannot even **assume God, freedom and immortality** for the sake of the > neeessary practical use of my reason unless I simultaneously **deprive** speculative > reason of its pretension to extravagant insights; because in order to attain to > such insights, speculative reason would have to help itself to principles that in > fact reach only to objects of possible experience, and which, if they were to be > applied to what cannot be an object of experience, then they would always actually > transform it into an appearance, and thus declare all **practical extension** of pure > reason to be impossible. Thus I had to deny **knowledge** in order to make room for > **faith**; and the dogmatism of metaphysics, i.e., the prejudice that without criticism > reason can make progress in metaphysics, is the true source of all unbelief > conflicting with morality, which unbelief is always very dogmatic. (Bxxix-xxx) It is Kant's hope that the Critical philosophy not only sets metaphysics on the path of science, but that it also shows how faith and reason can coexist together and are ultimately even mutually supporting. This connection between faith and reason will continue to exert its influence in German philosophy, even by those who ultimately reject many of Kant's other doctrines.
