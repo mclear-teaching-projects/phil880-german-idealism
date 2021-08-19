@@ -58,7 +58,7 @@ evaluation:
     - title: |
         Four Passage Analyses: 20%
       description: |
-        Analyze and explain the point of a particular passage in plain language and in no more than 300 words. Topics will be provided.
+        Analyze and explain the point of a particular passage in plain language. 3-500 words. Passages will be provided.
 
   essay:
     - title: |
@@ -76,20 +76,20 @@ evaluation:
       description: |
         Submit a weekly reading response of roughly 100-150 words (500 max) to the
         course listserv via email on Mondays by 8pm. Your reading responses should
-        detail your observations about a primary text (though one can also relate
-        this to seconary readings). The responses are not summaries. Move to delimit
-        1-2 major points or ideas from the reading and discuss them. What do you find
-        interesting or compelling? What do you find logically or philosophically problematic?
+        detail your observations and questions for week's assigned reading. The
+        responses should not be summaries. Move to delimit 1-2 major points or ideas
+        from the reading and discuss them. What do you find interesting or
+        compelling? What do you find logically or philosophically problematic?
 
   responses:
     - title: |
         Weekly reading précis: 5%
       description: | 
         Write a précis addressing a particular primary or secondary text assigned for
-        the week (this does not include my notes). A précis is a rhetorical exercise
-        that asks you to summarize a text, including the claim/argument, supporting
-        evidence, purpose, and audience in 4 sentences. For a helpful example of the
-        form, see:
+        the week (this does not include my notes). These must be submitted (via
+        email) by class time each week. A précis is a rhetorical exercise that asks
+        you to summarize a text, including the claim/argument, supporting evidence,
+        purpose, and audience in 4 sentences. For a helpful example of the form, see:
         <http://oregonstate.edu/instruct/phl201/modules/rhetorical-precis/sample/peirce_sample_precis_click.html>
 
   participation:
@@ -97,7 +97,7 @@ evaluation:
         Participation: 15%
       description: |
         The participation grade takes into account your attendance in class as well
-        as the quantity and quality of your participation.
+        as the quantity and quality of your participation in discussion.
 policies:
 - integrity: 'All the work you turn in (including papers, drafts, and discussion board posts) must be written by you specifically for this course. It must originate with you in form and content with all contributory sources fully and specifically acknowledged. Make yourself familiar with UNL’s Student Code of Conduct and Academic Integrity Code, available online. **In this course, the normal penalty for any violation of the code is an “F” for the semester**. Violations may have additional consequences including expulsion from the university. Don’t plagiarize – It just isn’t worth it.'
   university: 'This instructor respects and upholds University policies and regulations pertaining to the observation of religious holidays; assistance available to physically handicapped, visually and/or hearing impaired students; plagiarism; sexual harassment; and racial or ethnic discrimination. All students are advised to become familiar with the respective University regulations and are encouraged to bring any questions or concerns to the attention of the instructor.'
