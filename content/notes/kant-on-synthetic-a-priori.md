@@ -1,7 +1,7 @@
 ---
 title: "Kant's Critical Project"
 publishDate: 2021-08-24T00:00:00-04:00
-lastmod: 2021-08-23T11:42:03-04:00
+lastmod: 2021-08-23T14:17:46-04:00
 slug: "kants-critical-project"
 tags: ["analytic/synthetic", "judgment", "kant", "metaphysics", "science", "truth", "a priori"]
 draft: false
@@ -294,7 +294,7 @@ _possible_, _actual_, and _necessary_ objects.[^fn:2] This departure is also the
 further break from the German tradition. Kant considers the question with which a
 properly "critical" or reflective metaphysics should be concerned is not "what is it
 to be possible or impossible?", but rather "what is it to be an object?", where the
-concept <object> is really that of <object-represented-by-an-intellect>. Thus, Kant's
+concept `<object>` is really that of `<object-represented-by-an-intellect>`. Thus, Kant's
 conception of General metaphysics or ontology is that of the study of the relation
 between the intellect or "understanding" (_Verstand_) and what is understood (object;
 _Objekt_; _Gegenstand_). As Kant puts it in a passage later in the _Critique of Pure
@@ -475,8 +475,8 @@ knowledge can be acquired purely through the activity of thinking, and that this
 knowledge is universal and necessary in scope. Hume's conception of knowledge of the
 "relation of ideas" provides an especially clear example. According to Hume,
 knowledge of necessary and universal truths is a function purely of knowledge of the
-relations of ideas (e.g. of the ideas or concepts <bachelor> and <unmarried man> or
-or <triangle> and <three-sided plane figure>.
+relations of ideas (e.g. of the ideas or concepts `<bachelor>` and `<unmarried man>` or
+or `<triangle>` and `<three-sided plane figure>`.
 
 Kant agrees with Hume that a priori knowledge is independent of experience. In fact,
 he sees it as definitive of "pure" a priori knowledge that it be completely
@@ -484,7 +484,7 @@ independent of experience. He contrasts such knowledge with "empirical" knowledg
 knowledge _a posteriori_. A priori knowledge may be more or less 'pure' according to
 whether or not the concepts which make it up are themselves a priori knowable. Kant
 uses the example 'every alteration has a cause' as an example of _impure_ a priori
-knowledge, since the concept <alteration> is empirical.
+knowledge, since the concept `<alteration>` is empirical.
 
 We should note one important point about Kant's use of "independence" in describing
 the a priori. Kant does not think that a priori knowledge is "independent" of
@@ -500,7 +500,7 @@ judgments are ultimately _justified_ by experience. This is way Kant says that
 There seems to be two reasons for Kant's thinking this. First, we need experience in
 order for our cognitive faculties to function and develop. Second, we need particular
 experiences in order to acquire empirical concepts (e.g. red experiences in order to
-acquire the concept <red>). This is what distinguishes pure from impure a priori
+acquire the concept `<red>`). This is what distinguishes pure from impure a priori
 judgment. Impure a priori judgments are partially constituted by concepts that
 themselves must come from experience.
 
@@ -555,8 +555,8 @@ An analytic judgment is one in which the predicate is "contained" in the concept
 way of understanding this notion of "containment" is via a claim about meaning.
 Accordingly, analytic judgments are those whose truth is known merely in virtue of
 knowing the meaning of the concepts constituting the judgment. For example, in the
-judgment "All bachelors are unmarried" the concept <unmarried> is part of the meaning
-of <bachelor> and so the truth of the judgment is grasped just by knowing the
+judgment "All bachelors are unmarried" the concept `<unmarried>` is part of the meaning
+of `<bachelor>` and so the truth of the judgment is grasped just by knowing the
 relevant meanings of its component concepts.
 
 Kant also introduces several other markers of analyticity. In total Kant provides us
@@ -872,7 +872,7 @@ special metaphysics, the soul, the cosmos, and God.
 
 Thus, Kant thinks philosophers have been mistaken that we can have any (theoretical
 or speculative) cognition through reason alone, but only the illusion thereof. This
-also means that the objects to which the ideas <God>, <soul>, and <cosmos> refer can
+also means that the objects to which the ideas `<God>`, `<soul>`, and `<cosmos>` refer can
 never be subjects of cognition. The ideas thereby lack any "constitutive use" for
 experience, and thus cannot be part of science proper.
 
@@ -978,7 +978,7 @@ reject many of Kant's other doctrines.
 </div>
 
 [^fn:1]: See (<a href="#citeproc_bib_item_15">Pasnau 2014</a>, <a href="#citeproc_bib_item_16">2018</a>).
-[^fn:2]: See (<a href="#citeproc_bib_item_27">Stang 2021</a>) for helpful discussion. Note that I use angle brackets to refer to the concepts that would normally be expressed by the term within; for example, <substance> is the concept of substance. I use italics to denote propositions; the sentence “Gold is a yellow metal” expresses the proposition _Gold is a yellow metal_. I refer to the relation between an object and a concept whose extension includes that object as “instantiation,” for example, particular substances instantiate <substance>.
+[^fn:2]: See (<a href="#citeproc_bib_item_27">Stang 2021</a>) for helpful discussion. Note that I use angle brackets to refer to the concepts that would normally be expressed by the term within; for example, `<substance>` is the concept of substance. I use italics to denote propositions; the sentence “Gold is a yellow metal” expresses the proposition _Gold is a yellow metal_. I refer to the relation between an object and a concept whose extension includes that object as “instantiation,” for example, particular substances instantiate `<substance>`.
 [^fn:3]: For an explicit reading of Kant as engaged in such a revisionary project and epistemologically focussed project see (, <a href="#citeproc_bib_item_12">Kitcher 2011, 5–6</a>)
 [^fn:4]: The issue of how to characterize cognition is becoming its own cottage industry. See (<a href="#citeproc_bib_item_24">Smit 2000</a>, <a href="#citeproc_bib_item_25">2009</a>; <a href="#citeproc_bib_item_23">Schafer 0BCb</a>, <a href="#citeproc_bib_item_22">0BCa</a>; <a href="#citeproc_bib_item_8">Gomes and Stephenson 2016</a>; <a href="#citeproc_bib_item_28">Tolley 2017</a>; <a href="#citeproc_bib_item_29">Watkins and Willaschek 2017a</a>, <a href="#citeproc_bib_item_30">2017b</a>).
 [^fn:5]: See (<a href="#citeproc_bib_item_9">Heis 2013, 277–78</a>; <a href="#citeproc_bib_item_13">McLear 2016</a>).
