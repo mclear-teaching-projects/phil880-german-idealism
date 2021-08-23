@@ -1,7 +1,7 @@
 ---
 title: "Kant's Critical Project"
 publishDate: 2021-08-24T00:00:00-04:00
-lastmod: 2021-08-22T14:17:44-04:00
+lastmod: 2021-08-23T11:14:35-04:00
 slug: "kants-critical-project"
 tags: ["analytic/synthetic", "judgment", "kant", "metaphysics", "science", "truth", "a priori"]
 draft: false
@@ -289,9 +289,9 @@ This remark is mirrored by a short passage in the _Critique of Pure Reason_:
 
 Kant thus departs from his German contemporaries in construing General
 Metaphysics---which he here calls "transcendental philosophy"---as beginning from the
-study of the concept of an _object_ rather than with the modal _concepts_ of possible,
-actual, and necessary objects.[^fn:2] This departure is the basis of a further
-departure from the German tradition. Kant considers the question with which a
+study of the concept of an _object_ as such rather than with the modal concepts of
+_possible_, _actual_, and _necessary_ objects.[^fn:2] This departure is also the basis of a
+further break from the German tradition. Kant considers the question with which a
 properly "critical" or reflective metaphysics should be concerned is not "what is it
 to be possible or impossible?", but rather "what is it to be an object?", where the
 concept <object> is really that of <object-represented-by-an-intellect>. Thus, Kant's
