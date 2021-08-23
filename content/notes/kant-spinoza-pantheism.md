@@ -4,7 +4,7 @@ publishDate: 2021-09-07T00:00:00-04:00
 lastmod: 2021-08-22T14:18:31-04:00
 slug: "kant_and_spinoza"
 tags: ["explanation", "kant", "nihilism", "pantheism", "spinoza"]
-draft: false
+draft: true
 weight: 0
 author: false
 type: "post"

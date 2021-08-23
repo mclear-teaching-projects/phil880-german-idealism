@@ -1,10 +1,10 @@
 ---
 title: "Metaphysics, Categories, and the Scope of Comprehension"
 publishDate: 2021-08-31T00:00:00-04:00
-lastmod: 2021-08-22T14:18:08-04:00
+lastmod: 2021-08-23T00:44:09-04:00
 slug: "metaphysics-categories-and-comprehension"
 tags: ["a priori", "categories", "comprehension", "kant", "metaphysics", "science"]
-draft: false
+draft: true
 weight: 0
 author: false
 type: "post"
