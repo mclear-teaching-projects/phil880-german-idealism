@@ -2,7 +2,7 @@
 title = "First Passage Analysis – Due 9/7"
 publishDate = 2021-09-07T00:00:00-04:00
 tags = ["kant", "passage-analysis"]
-draft = false
+draft = true
 weight = -100
 author = false
 toc = false
