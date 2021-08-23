@@ -1,7 +1,7 @@
 ---
 title: "Kant's Critical Project"
 publishDate: 2021-08-24T00:00:00-04:00
-lastmod: 2021-08-23T14:17:46-04:00
+lastmod: 2021-08-23T14:20:13-04:00
 slug: "kants-critical-project"
 tags: ["analytic/synthetic", "judgment", "kant", "metaphysics", "science", "truth", "a priori"]
 draft: false
@@ -979,7 +979,7 @@ reject many of Kant's other doctrines.
 
 [^fn:1]: See (<a href="#citeproc_bib_item_15">Pasnau 2014</a>, <a href="#citeproc_bib_item_16">2018</a>).
 [^fn:2]: See (<a href="#citeproc_bib_item_27">Stang 2021</a>) for helpful discussion. Note that I use angle brackets to refer to the concepts that would normally be expressed by the term within; for example, `<substance>` is the concept of substance. I use italics to denote propositions; the sentence “Gold is a yellow metal” expresses the proposition _Gold is a yellow metal_. I refer to the relation between an object and a concept whose extension includes that object as “instantiation,” for example, particular substances instantiate `<substance>`.
-[^fn:3]: For an explicit reading of Kant as engaged in such a revisionary project and epistemologically focussed project see (, <a href="#citeproc_bib_item_12">Kitcher 2011, 5–6</a>)
+[^fn:3]: For an explicit reading of Kant as engaged in such a revisionary project and epistemologically focussed project see (<a href="#citeproc_bib_item_12">Kitcher 2011, 5–6</a>)
 [^fn:4]: The issue of how to characterize cognition is becoming its own cottage industry. See (<a href="#citeproc_bib_item_24">Smit 2000</a>, <a href="#citeproc_bib_item_25">2009</a>; <a href="#citeproc_bib_item_23">Schafer 0BCb</a>, <a href="#citeproc_bib_item_22">0BCa</a>; <a href="#citeproc_bib_item_8">Gomes and Stephenson 2016</a>; <a href="#citeproc_bib_item_28">Tolley 2017</a>; <a href="#citeproc_bib_item_29">Watkins and Willaschek 2017a</a>, <a href="#citeproc_bib_item_30">2017b</a>).
 [^fn:5]: See (<a href="#citeproc_bib_item_9">Heis 2013, 277–78</a>; <a href="#citeproc_bib_item_13">McLear 2016</a>).
 [^fn:6]: See (<a href="#citeproc_bib_item_4">Chignell 2007a</a>, <a href="#citeproc_bib_item_5">2007b</a>) for discussion.
