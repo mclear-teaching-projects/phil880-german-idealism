@@ -1,7 +1,7 @@
 ---
 title: "Kant's Critical Project"
 publishDate: 2021-08-24T00:00:00-04:00
-lastmod: 2021-08-23T14:20:13-04:00
+lastmod: 2021-08-23T17:44:03-04:00
 slug: "kants-critical-project"
 tags: ["analytic/synthetic", "judgment", "kant", "metaphysics", "science", "truth", "a priori"]
 draft: false
@@ -172,7 +172,7 @@ going back to [Aristotle's natural philosophy](http://plato.stanford.edu/entries
 knowledge, known in Latin as '_Scientia_' (Greek:'_Epistêmê_'), concerned _any_ body of
 knowledge organized according to some principle or set of principles that exemplify
 the explanatory relations of what is best known and explanatorily basic as the basis
-of what is least known and explanatorily derivative (see also (<a href="#citeproc_bib_item_11">Jardine 1988</a>; <a href="#citeproc_bib_item_20">Randall 1961</a>; <a href="#citeproc_bib_item_6">De Jong and Betti 2010</a>)). A 'science' was thus distinguished from a mere
+of what is least known and explanatorily derivative (see also (<a href="#citeproc_bib_item_11">Jardine 1988</a>; <a href="#citeproc_bib_item_21">Randall 1961</a>; <a href="#citeproc_bib_item_6">De Jong and Betti 2010</a>)). A 'science' was thus distinguished from a mere
 aggregate of known facts in virtue of the presence of such explanatory connections
 between facts.
 
@@ -379,8 +379,8 @@ conceptual representation (A68/B93; JL 9:91). Kant’s distinction between these
 sorts of representation might at ﬁrst pass be taken as a kind of phenomenological
 distinction between how things seem to a perceiving subject independently of thought
 about what is so experienced, and this is indeed how at least some interpreters have
-construed Kant (e.g., (<a href="#citeproc_bib_item_18">Prichard 1909</a>; <a href="#citeproc_bib_item_21">Russell 1913</a>; <a href="#citeproc_bib_item_3">Broad 1978</a>; <a href="#citeproc_bib_item_14">Parsons 1992</a>)).
-However, as others have noted (e.g., (<a href="#citeproc_bib_item_17">Paton 1936, 98</a>)), Kant’s method for
+construed Kant (e.g., (<a href="#citeproc_bib_item_19">Prichard 1909</a>; <a href="#citeproc_bib_item_22">Russell 1913</a>; <a href="#citeproc_bib_item_3">Broad 1978</a>; <a href="#citeproc_bib_item_15">Parsons 1992</a>)).
+However, as others have noted (e.g., (<a href="#citeproc_bib_item_18">Paton 1936, 98</a>)), Kant’s method for
 distinguishing the various contributions made by our cognitive faculties proceeds not
 by appeal to phenomenology but rather philosophical abstraction (e.g., A20-1/B34-5).
 Moreover, Kant at least sometimes seems to deny that a representation (or its
@@ -476,7 +476,9 @@ knowledge is universal and necessary in scope. Hume's conception of knowledge of
 "relation of ideas" provides an especially clear example. According to Hume,
 knowledge of necessary and universal truths is a function purely of knowledge of the
 relations of ideas (e.g. of the ideas or concepts `<bachelor>` and `<unmarried man>` or
-or `<triangle>` and `<three-sided plane figure>`.
+or `<triangle>` and `<three-sided plane figure>` (though even here there is some question
+as to whether Hume can articulate a genuine, as opposed to merely subjective, sense
+of "universal" and "necessary").
 
 Kant agrees with Hume that a priori knowledge is independent of experience. In fact,
 he sees it as definitive of "pure" a priori knowledge that it be completely
@@ -492,7 +494,7 @@ experience in the sense that one need not have _any_ experience in order to have
 knowledge. On the contrary, Kant thinks that _all_ of our knowledge depends on our
 having experience of some kind or another---i.e. of the mind's being affected in one
 way or another---though he doesn't think this dependence entails that all our
-judgments are ultimately _justified_ by experience. This is way Kant says that
+judgments are ultimately _justified_ by experience. This is why Kant says that
 
 > But although all our cognition commences with experience, yet it does
 > not on that account all arise from experience. (CPR B1)
@@ -504,11 +506,42 @@ acquire the concept `<red>`). This is what distinguishes pure from impure a prio
 judgment. Impure a priori judgments are partially constituted by concepts that
 themselves must come from experience.
 
-If a priori knowledge is, for Kant, knowledge that is (in some sense to
-be further specified) independent of experience, that fact is not the
-only mark or indicator that some bit of knowledge is a priori. In
-addition, Kant argues, any bit of knowledge that is necessary and/or
-universal in scope is itself a priori.
+Kant's conception of a priori judgment as judgment that is independent of experience
+has long been taken by scholars writing in English to be a purely epistemological
+notion (e.g. (<a href="#citeproc_bib_item_13">Kitcher 2006</a>)). But Kant's conception of a priori cognition also
+plausibly has a metaphysical aspect related to the Aristotelian conception of
+understanding something from its ground or cause rather than from its effect (as
+discussed above). A priori cognition would then be cognition that facilitates or
+otherwise constitutes an understanding of _why_ something exists, or is the way that it
+is. So, for example, the axioms and postulates of Euclid's geometry allow us a priori
+knowledge of the properties of plane figures, not merely in the sense that such
+knowledge is independent of our experience of any particular bit of spatial
+extension, but because it allows us to understand _why_ plane figures have the
+properties that they do. To proceed through Euclid's _Elements_ is to proceed through a
+systematic explanation of why plane figures have the properties that they have, from
+the very natures of those planes figures, as constituted by the properties of space
+laid out in the axioms and postulates (or "common notions").
+
+Kant contends that a priori cognition is possible for us only if it derives in part
+from our various rational capacities. As he puts it, "reason has insight only into
+what it itself produces according to its own design" (Bxiii). In other words, it is
+only if our rational capacities play a metaphysically explanatory role in
+constituting the objects of cognition and knowledge that we can say that we have a
+priori knowledge of those objects. Why does Kant think that we can know the extent to
+which these capacities make an explanatory contribution? As he says,
+
+> it [viz. metaphysics] is nothing but the **inventory** of all we possess through **pure
+> reason**, ordered systematically. Nothing here can escape us, because what reason
+> brings forth entirely out of itself cannot be hidden, but is brought to light by
+> reason itself as soon as reason's common principle has been discovered. (Axx)
+
+Much of the rest of our discussion of both Kant and his German Idealist successors
+aims at explaining this obscure claim.
+
+If a priori knowledge is, for Kant, knowledge that is (in some sense or other)
+independent of experience, that fact is not the only mark or indicator that some bit
+of knowledge is a priori. In addition, Kant argues, any bit of knowledge that is
+necessary and/or universal in scope is itself a priori.
 
 > Necessity and strict universality are therefore secure indications of
 > an a priori cognition, and also belong together inseparably. But since
@@ -571,7 +604,7 @@ predicate is
     principle of non-contradiction
 
 Which, if any of these markers is best thought of as the main characteristic of an
-analytic judgment? This is a disputed issue (cf. (<a href="#citeproc_bib_item_2">Anderson 2005</a>; <a href="#citeproc_bib_item_19">Proops 2005</a>)), though certainly, in all cases Kant is thinking of 'atomic' judgments of subject-predicate form.
+analytic judgment? This is a disputed issue (cf. (<a href="#citeproc_bib_item_2">Anderson 2005</a>; <a href="#citeproc_bib_item_20">Proops 2005</a>)), though certainly, in all cases Kant is thinking of 'atomic' judgments of subject-predicate form.
 
 
 #### I.iv The Synthetic A Priori {#i-dot-iv-the-synthetic-a-priori}
@@ -957,31 +990,32 @@ reject many of Kant's other doctrines.
   <div class="csl-entry"><a id="citeproc_bib_item_10"></a>Inwagen, Peter van, and Sullivan. 2020. <a href="https://doi.org/">“Metaphysics.</a>” In <i>The Stanford Encyclopedia of Philosophy</i>, edited by N. Zalta Edward. Metaphysics Research Lab, Stanford University.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_11"></a>Jardine, Nicholas. 1988. <a href="https://doi.org/">“Epistemology of the Sciences.</a>” In <i>The Cambridge History of Renaissance Philosophy</i>, edited by Charles B. Schmitt, Quentin Skinner, Eckhard Kessler, and Jill Kraye, 685–711. Cambridge: Cambridge University Press.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_12"></a>Kitcher, Patricia. 2011. <i><a href="https://doi.org/">Kant’s Thinker</a></i>. New York: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>McLear, Colin. 2016. <a href="https://doi.org/">“Getting Acquainted with Kant.</a>” In <i>Kantian Nonconceptualism</i>, edited by Dennis Schulting, 171–97. London: Palgrave Macmillan.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>Parsons, Charles. 1992. <a href="https://doi.org/">“The Transcendental Aesthetic.</a>” In <i>The Cambridge Companion to Kant</i>, edited by Paul Guyer, 62–100. Cambridge: Cambridge University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_15"></a>Pasnau, Robert. 2014. <a href="https://doi.org/">“Epistemology Idealized.</a>” <i>Mind</i> 122 (488): 987–1021.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_16"></a>———. 2018. <i><a href="https://doi.org/">After Certainty</a></i>. Oxford: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_17"></a>Paton, Herbert J. 1936. <i><a href="https://doi.org/">Kant’s Metaphysic of Experience</a></i>. London: G. Allen &#38; Unwin, Ltd.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_18"></a>Prichard, Harold Arthur. 1909. <i><a href="https://doi.org/">Kant’s Theory of Knowledge</a></i>. Oxford: Clarendon Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_19"></a>Proops, Ian. 2005. <a href="https://doi.org/">“Kant’s Conception of Analytic Judgment.</a>” <i>Philosophy and Phenomenological Research</i> 70 (3): 588–612.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_20"></a>Randall, John Herman. 1961. <i><a href="https://doi.org/">The School of Padua and the Emergence of Modern Science</a></i>. Padova: Editrice Antenore.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_21"></a>Russell, Bertrand. 1913. <i><a href="https://doi.org/">The Problems of Philosophy</a></i>. Oxford: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_22"></a>Schafer, Karl. 0BCa. <a href="https://doi.org/">“Constitutivism About Reasons.</a>” In , edited by K Jones and François Schroeter. Oxford: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_23"></a>———. 0BCb. <a href="https://doi.org/">“Kant’s Conception of Cognition and Our Knowledge of Things-in-Themselves.</a>” In <i>The Sensible and Intelligible Worlds: New Essays on Kant’s Metaphysics and Epistemology</i>, edited by Karl Schafer and Nicholas Stang. New York: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_24"></a>Smit, Houston. 2000. <a href="https://doi.org/">“Kant on Marks and the Immediacy of Intuition.</a>” <i>The Philosophical Review</i> 109 (2): 235–66.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_25"></a>———. 2009. <a href="https://doi.org/">“Kant on Apriority and the Spontaneity of Cognition.</a>” In <i>Metaphysics and the Good: Themes from the Philosophy of Robert Adams</i>, edited by Samuel Newlands and Larry M. Jorgensen, 188–251. Oxford: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_26"></a>Stang, Nicholas F. 2016. <a href="https://doi.org/">“Kant’s Transcendental Idealism.</a>” In <i>The Stanford Encyclopedia of Philosophy</i>, edited by N. Zalta Edward.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_27"></a>Stang, Nicholas F. 2021. “Kant and the Concept of an Object.” <i>European Journal of Philosophy</i> 29 (2): 299–322. doi:<a href="https://doi.org/10.1111/ejop.12570">10.1111/ejop.12570</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_28"></a>Tolley, Clinton. 2017. “Kant on the Place of Cognition in the Progression of Our Representations.” <i>Synthese</i>: 1–30. doi:<a href="https://doi.org/10.1007/s11229-017-1625-3">10.1007/s11229-017-1625-3</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_29"></a>Watkins, Eric, and Marcus Willaschek. 2017a. “Givenness and Cognition: Reply to Grüne and Chignell.” <i>Journal of the History of Philosophy</i> 55 (1): 143–52. doi:<a href="https://doi.org/10.1353/hph.2017.0006">10.1353/hph.2017.0006</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_30"></a>———. 2017b. “Kant’s Account of Cognition.” <i>Journal of the History of Philosophy</i> 55 (1): 83–112. doi:<a href="https://doi.org/10.1353/hph.2017.0003">10.1353/hph.2017.0003</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>Kitcher, Philip. 2006. <a href="https://doi.org/">“A Priori.</a>” In <i>The Cambridge Companion to Kant and Modern Philosophy</i>, edited by Paul Guyer, 28–60. Cambridge: Cambridge University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>McLear, Colin. 2016. <a href="https://doi.org/">“Getting Acquainted with Kant.</a>” In <i>Kantian Nonconceptualism</i>, edited by Dennis Schulting, 171–97. London: Palgrave Macmillan.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_15"></a>Parsons, Charles. 1992. <a href="https://doi.org/">“The Transcendental Aesthetic.</a>” In <i>The Cambridge Companion to Kant</i>, edited by Paul Guyer, 62–100. Cambridge: Cambridge University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_16"></a>Pasnau, Robert. 2014. <a href="https://doi.org/">“Epistemology Idealized.</a>” <i>Mind</i> 122 (488): 987–1021.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_17"></a>———. 2018. <i><a href="https://doi.org/">After Certainty</a></i>. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_18"></a>Paton, Herbert J. 1936. <i><a href="https://doi.org/">Kant’s Metaphysic of Experience</a></i>. London: G. Allen &#38; Unwin, Ltd.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_19"></a>Prichard, Harold Arthur. 1909. <i><a href="https://doi.org/">Kant’s Theory of Knowledge</a></i>. Oxford: Clarendon Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_20"></a>Proops, Ian. 2005. <a href="https://doi.org/">“Kant’s Conception of Analytic Judgment.</a>” <i>Philosophy and Phenomenological Research</i> 70 (3): 588–612.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_21"></a>Randall, John Herman. 1961. <i><a href="https://doi.org/">The School of Padua and the Emergence of Modern Science</a></i>. Padova: Editrice Antenore.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_22"></a>Russell, Bertrand. 1913. <i><a href="https://doi.org/">The Problems of Philosophy</a></i>. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_23"></a>Schafer, Karl. 0BCa. <a href="https://doi.org/">“Constitutivism About Reasons.</a>” In , edited by K Jones and François Schroeter. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_24"></a>———. 0BCb. <a href="https://doi.org/">“Kant’s Conception of Cognition and Our Knowledge of Things-in-Themselves.</a>” In <i>The Sensible and Intelligible Worlds: New Essays on Kant’s Metaphysics and Epistemology</i>, edited by Karl Schafer and Nicholas Stang. New York: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_25"></a>Smit, Houston. 2000. <a href="https://doi.org/">“Kant on Marks and the Immediacy of Intuition.</a>” <i>The Philosophical Review</i> 109 (2): 235–66.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_26"></a>———. 2009. <a href="https://doi.org/">“Kant on Apriority and the Spontaneity of Cognition.</a>” In <i>Metaphysics and the Good: Themes from the Philosophy of Robert Adams</i>, edited by Samuel Newlands and Larry M. Jorgensen, 188–251. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_27"></a>Stang, Nicholas F. 2016. <a href="https://doi.org/">“Kant’s Transcendental Idealism.</a>” In <i>The Stanford Encyclopedia of Philosophy</i>, edited by N. Zalta Edward.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_28"></a>Stang, Nicholas F. 2021. “Kant and the Concept of an Object.” <i>European Journal of Philosophy</i> 29 (2): 299–322. doi:<a href="https://doi.org/10.1111/ejop.12570">10.1111/ejop.12570</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_29"></a>Tolley, Clinton. 2017. “Kant on the Place of Cognition in the Progression of Our Representations.” <i>Synthese</i>: 1–30. doi:<a href="https://doi.org/10.1007/s11229-017-1625-3">10.1007/s11229-017-1625-3</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_30"></a>Watkins, Eric, and Marcus Willaschek. 2017a. “Givenness and Cognition: Reply to Grüne and Chignell.” <i>Journal of the History of Philosophy</i> 55 (1): 143–52. doi:<a href="https://doi.org/10.1353/hph.2017.0006">10.1353/hph.2017.0006</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_31"></a>———. 2017b. “Kant’s Account of Cognition.” <i>Journal of the History of Philosophy</i> 55 (1): 83–112. doi:<a href="https://doi.org/10.1353/hph.2017.0003">10.1353/hph.2017.0003</a>.</div>
 </div>
 
-[^fn:1]: See (<a href="#citeproc_bib_item_15">Pasnau 2014</a>, <a href="#citeproc_bib_item_16">2018</a>).
-[^fn:2]: See (<a href="#citeproc_bib_item_27">Stang 2021</a>) for helpful discussion. Note that I use angle brackets to refer to the concepts that would normally be expressed by the term within; for example, `<substance>` is the concept of substance. I use italics to denote propositions; the sentence “Gold is a yellow metal” expresses the proposition _Gold is a yellow metal_. I refer to the relation between an object and a concept whose extension includes that object as “instantiation,” for example, particular substances instantiate `<substance>`.
+[^fn:1]: See (<a href="#citeproc_bib_item_16">Pasnau 2014</a>, <a href="#citeproc_bib_item_17">2018</a>).
+[^fn:2]: See (<a href="#citeproc_bib_item_28">Stang 2021</a>) for helpful discussion. Note that I use angle brackets to refer to the concepts that would normally be expressed by the term within; for example, `<substance>` is the concept of substance. I use italics to denote propositions; the sentence “Gold is a yellow metal” expresses the proposition _Gold is a yellow metal_. I refer to the relation between an object and a concept whose extension includes that object as “instantiation,” for example, particular substances instantiate `<substance>`.
 [^fn:3]: For an explicit reading of Kant as engaged in such a revisionary project and epistemologically focussed project see (<a href="#citeproc_bib_item_12">Kitcher 2011, 5–6</a>)
-[^fn:4]: The issue of how to characterize cognition is becoming its own cottage industry. See (<a href="#citeproc_bib_item_24">Smit 2000</a>, <a href="#citeproc_bib_item_25">2009</a>; <a href="#citeproc_bib_item_23">Schafer 0BCb</a>, <a href="#citeproc_bib_item_22">0BCa</a>; <a href="#citeproc_bib_item_8">Gomes and Stephenson 2016</a>; <a href="#citeproc_bib_item_28">Tolley 2017</a>; <a href="#citeproc_bib_item_29">Watkins and Willaschek 2017a</a>, <a href="#citeproc_bib_item_30">2017b</a>).
-[^fn:5]: See (<a href="#citeproc_bib_item_9">Heis 2013, 277–78</a>; <a href="#citeproc_bib_item_13">McLear 2016</a>).
-[^fn:6]: See (<a href="#citeproc_bib_item_4">Chignell 2007a</a>, <a href="#citeproc_bib_item_5">2007b</a>) for discussion.
-[^fn:7]: See (<a href="#citeproc_bib_item_1">Ameriks 1982</a>; <a href="#citeproc_bib_item_26">Stang 2016</a>).
+[^fn:4]: The issue of how to characterize cognition is becoming its own cottage industry. See (<a href="#citeproc_bib_item_25">Smit 2000</a>, <a href="#citeproc_bib_item_26">2009</a>; <a href="#citeproc_bib_item_24">Schafer 0BCb</a>, <a href="#citeproc_bib_item_23">0BCa</a>; <a href="#citeproc_bib_item_8">Gomes and Stephenson 2016</a>; <a href="#citeproc_bib_item_29">Tolley 2017</a>; <a href="#citeproc_bib_item_30">Watkins and Willaschek 2017a</a>, <a href="#citeproc_bib_item_31">2017b</a>).
+[^fn:5]: See (<a href="#citeproc_bib_item_9">Heis 2013, 277–78</a>; <a href="#citeproc_bib_item_14">McLear 2016</a>).
+[^fn:6]: See (<a href="#citeproc_bib_item_4">Chignell 2007a</a>, <a href="#citeproc_bib_item_5">2007b</a>) for discussion, though Chignell ends up retaining, mistakenly I think, much of the "belief-first" conception of knowledge in his account of _Fürwahrhalten_.
+[^fn:7]: See (<a href="#citeproc_bib_item_1">Ameriks 1982</a>; <a href="#citeproc_bib_item_27">Stang 2016</a>).
 [^fn:8]: For this way of putting it see (<a href="#citeproc_bib_item_7">Gardner 1999, 144</a>).
