@@ -1,9 +1,9 @@
 ---
 title: "Metaphysics, Categories, and the Scope of Comprehension"
 publishDate: 2021-08-31T00:00:00-04:00
-lastmod: 2021-08-18T00:34:53-04:00
+lastmod: 2021-08-22T14:18:08-04:00
 slug: "metaphysics-categories-and-comprehension"
-tags: ["a priori", "categories", "comprehension", "metaphysics", "science"]
+tags: ["a priori", "categories", "comprehension", "kant", "metaphysics", "science"]
 draft: false
 weight: 0
 author: false
@@ -42,7 +42,7 @@ the categories.
 
 # 1. What are "categories"? {#1-dot-what-are-categories}
 
-The notion of a "category" largely springs from Aristotle, and laregly from three
+The notion of a "category" largely springs from Aristotle, and mainly from three
 texts: _Categories_, _Topics_ I, and _Metaphysics_ V. Exactly how Aristotle thinks of a
 category is controversial (for overviews see [here](https://plato.stanford.edu/entries/aristotle-categories/) and [here](https://plato.stanford.edu/entries/categories/); for the medieval
 development of his views see [here](https://plato.stanford.edu/entries/medieval-categories/)). Perhaps the least controversial thing to say is

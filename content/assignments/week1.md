@@ -1,7 +1,7 @@
 +++
 title = "Week 1 – Kant's Critical Project"
 publishDate = 2021-08-24T00:00:00-04:00
-tags = ["judgment", "a priori", "analytic/synthetic", "metaphysics"]
+tags = ["a priori", "analytic/synthetic", "judgment", "kant", "metaphysics"]
 draft = false
 weight = -100
 author = false
@@ -19,7 +19,7 @@ the limits of rational inquiry.
 
 -   Preface (First Edition), Avii-xxii (Guyer & Wood, 99-105), Preface (Second
     Edition), Bxii-xliv (Guyer & Wood, 106-124), & Introduction (Second Edition), B1-30
-    (Guyer & Wood, 136-52) to the _[Critique of Pure Reason](static/materials/readings/kant1998-preface-and-introduction.pdf)_
+    (Guyer & Wood, 136-52) to the _[Critique of Pure Reason](/materials/readings/kant1998-preface-and-introduction.pdf)_
 -   Schechter, "[The Theoretical Significance of the A Priori/A Posteriori Distinction](/materials/readings/schechter-apriori.pdf)", §§1-2
 -   Melamedoff-Vosters, "[Kant’s Argument for Transcendental Idealism in the
     Transcendental Aesthetic Revisited](/materials/readings/melamedoff-ground.pdf)", §§2-3

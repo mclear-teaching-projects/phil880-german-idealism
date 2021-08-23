@@ -1,9 +1,9 @@
 ---
 title: "Kant's Critical Project"
 publishDate: 2021-08-24T00:00:00-04:00
-lastmod: 2021-08-18T15:02:03-04:00
+lastmod: 2021-08-22T14:17:44-04:00
 slug: "kants-critical-project"
-tags: ["judgment", "analytic/synthetic", "metaphysics", "science", "truth", "a priori"]
+tags: ["analytic/synthetic", "judgment", "kant", "metaphysics", "science", "truth", "a priori"]
 draft: false
 weight: 0
 author: false
