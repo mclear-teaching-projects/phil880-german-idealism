@@ -1,7 +1,7 @@
 ---
 title: "Kant's Critical Project"
 publishDate: 2021-08-24T00:00:00-04:00
-lastmod: 2021-08-23T11:14:35-04:00
+lastmod: 2021-08-23T11:38:59-04:00
 slug: "kants-critical-project"
 tags: ["analytic/synthetic", "judgment", "kant", "metaphysics", "science", "truth", "a priori"]
 draft: false
@@ -379,14 +379,15 @@ conceptual representation (A68/B93; JL 9:91). Kant’s distinction between these
 sorts of representation might at ﬁrst pass be taken as a kind of phenomenological
 distinction between how things seem to a perceiving subject independently of thought
 about what is so experienced, and this is indeed how at least some interpreters have
-construed Kant (e.g., (<a href="#citeproc_bib_item_18">Prichard 1909</a>; <a href="#citeproc_bib_item_21">Russell 1913</a>; <a href="#citeproc_bib_item_3">Broad 1978</a>; <a href="#citeproc_bib_item_14">Parsons 1992</a>)). However, as others have noted (e.g., (<a href="#citeproc_bib_item_17">Paton 1936, 98</a>)), Kant’s
-method for distinguishing the various contributions made by our cognitive faculties
-proceeds not by appeal to phenomenology but rather philosophical abstraction (e.g.,
-A20-1/B34-5). Moreover, Kant at least sometimes seems to deny that a representation
-(or its content) could be present to consciousness at all—i.e., be something “for”
-the subject, without conceptualization (e.g., A116-17, B132). Hence Kant seems
-concerned not so much with the phenomenology of experience as he is with the role
-sense experience plays in facilitating cognition and knowledge.
+construed Kant (e.g., (<a href="#citeproc_bib_item_18">Prichard 1909</a>; <a href="#citeproc_bib_item_21">Russell 1913</a>; <a href="#citeproc_bib_item_3">Broad 1978</a>; <a href="#citeproc_bib_item_14">Parsons 1992</a>)).
+However, as others have noted (e.g., (<a href="#citeproc_bib_item_17">Paton 1936, 98</a>)), Kant’s method for
+distinguishing the various contributions made by our cognitive faculties proceeds not
+by appeal to phenomenology but rather philosophical abstraction (e.g., A20-1/B34-5).
+Moreover, Kant at least sometimes seems to deny that a representation (or its
+content) could be present to consciousness at all—i.e., be something “for” the
+subject, without conceptualization (e.g., A116-17, B132). Hence Kant seems concerned
+not so much with the phenomenology of experience as he is with the role sense
+experience plays in facilitating cognition and knowledge.
 
 Let's turn to cognition. In discursive rational beings such as ourselves, intuition
 and concept cooperate in the generation of what Kant calls “cognition”. Kant employs
@@ -441,6 +442,30 @@ empirical intuition and concepts are also related in what Kant calls “percepti
 (_Wahrnehmung_). In any case we shouldn't confuse Kant's use of "cognition", "empirical
 cognition", or "experience" with our less restrictive (or exact) contemporary usages
 of thee terms.
+
+Finally, there is Kant's conception of "knowledge" (_Wissen_), which is the relation of
+acceptance or "holding for true" (_Fürwahrhalten_) that a cognizing subject takes to a
+judgment. Such a "holding" of a judgment is a kind of activity performed by the
+cognizer subject, with respect to a true judgment, on the basis of evidence or
+"grounds" to which the subject has access. Such holdings are the closest Kant comes
+to discussing what we would now call "doxastic propositional attitudes". In
+contemporary epistemology it is relatively common to treat the notion of belief as
+being the most general doxastic propositional attitude, and attitudes like knowledge
+to consist of belief, plus some further set of features (e.g. truth, indefeasibility,
+reliability, safety, etc.). This is not the case for Kant. Instead he takes knowledge
+to be that towards which all cases of acceptance or holding aim. Such acts of holding
+can fall short of knowledge for various reasons, and the ways in which they fall
+short correspond to what Kant calls "belief" or "faith" (_Glaube_) and "opinion"
+(_Meinung_).[^fn:6]
+
+So a representation is the effect of a mind's receptive capacity being causally
+affected by something or by spontaneously generating its own representations. Such
+representations count as cognitions if they satisfy the three conditions of being
+conscious, truth-apt, and of really possible objects. Such cognitions are in a
+position to be _known_ when the knower possesses sufficient evidence or "grounds" for
+accepting that the cognition is true. Insofar as such knowledge is systematically
+connected in a manner demonstrating the necessity of its various elements it is
+"science" (_Wissenschaft_), properly so called.
 
 
 #### I.ii A priori & A posteriori {#i-dot-ii-a-priori-and-a-posteriori}
@@ -888,6 +913,34 @@ The error of traditional metaphysics is thus to construe the ideas of reason as
 "constitutive" rather than merely "regulative" principles for constructing complete
 explanations.
 
+Kant ultimately thinks that a variety of ideas admit of some sort or another of
+rational acceptance. Perhaps most famously, he argues in the _Critque of Practical
+Reason_ that we are rationally required to believe in the existence of God and of our
+own immortal souls in order to fulfill the requirements of practical rationality,
+namely, striving to achieve the "highest good"---the unity of virtue apportioned to
+happiness (more colloquaially, the world in which everyone gets their "just
+desserts"). In Kant's view, we may not truly _know_ that there is a God or that we have
+souls in the relevant sense, but it is rational to believe so. As Kant famously puts
+it,
+
+> Thus I cannot even **assume God, freedom and immortality** for the sake of the
+> neeessary practical use of my reason unless I simultaneously **deprive** speculative
+> reason of its pretension to extravagant insights; because in order to attain to
+> such insights, speculative reason would have to help itself to principles that in
+> fact reach only to objects of possible experience, and which, if they were to be
+> applied to what cannot be an object of experience, then they would always actually
+> transform it into an appearance, and thus declare all **practical extension** of pure
+> reason to be impossible. Thus I had to deny **knowledge** in order to make room for
+> **faith**; and the dogmatism of metaphysics, i.e., the prejudice that without criticism
+> reason can make progress in metaphysics, is the true source of all unbelief
+> conflicting with morality, which unbelief is always very dogmatic. (Bxxix-xxx)
+
+It is Kant's hope that the Critical philosophy not only sets metaphysics on the path
+of science, but that it also shows how faith and reason can coexist together and are
+ultimately even mutually supporting. This connection between faith and reason will
+continue to exert its influence in German philosophy, even by those who ultimately
+reject many of Kant's other doctrines.
+
 
 # References {#references}
 
@@ -928,7 +981,7 @@ explanations.
 [^fn:2]: See (<a href="#citeproc_bib_item_27">Stang 2021</a>) for helpful discussion. Note that I use angle brackets to refer to the concepts that would normally be expressed by the term within; for example, <substance> is the concept of substance. I use italics to denote propositions; the sentence “Gold is a yellow metal” expresses the proposition _Gold is a yellow metal_. I refer to the relation between an object and a concept whose extension includes that object as “instantiation,” for example, particular substances instantiate <substance>.
 [^fn:3]: For an explicit reading of Kant as engaged in such a revisionary project and epistemologically focussed project see (, <a href="#citeproc_bib_item_12">Kitcher 2011, 5–6</a>)
 [^fn:4]: The issue of how to characterize cognition is becoming its own cottage industry. See (<a href="#citeproc_bib_item_24">Smit 2000</a>, <a href="#citeproc_bib_item_25">2009</a>; <a href="#citeproc_bib_item_23">Schafer 0BCb</a>, <a href="#citeproc_bib_item_22">0BCa</a>; <a href="#citeproc_bib_item_8">Gomes and Stephenson 2016</a>; <a href="#citeproc_bib_item_28">Tolley 2017</a>; <a href="#citeproc_bib_item_29">Watkins and Willaschek 2017a</a>, <a href="#citeproc_bib_item_30">2017b</a>).
-[^fn:5]: See (, <a href="#citeproc_bib_item_9">Heis 2013, 277–78</a>; <a href="#citeproc_bib_item_13">McLear 2016</a>). Finally, there is Kant's conception of "knowledge" (_Wissen_), which is the relation of acceptance or "holding for true" (_Fürwahrhalten_) that a cognizing subject takes to a judgment. Such a "holding" of a judgment is a kind of activity performed by the cognizer subject, with respect to a true judgment, on the basis of evidence or "grounds" to which the subject has access. Such holdings are the closest Kant comes to discussing what we would now call "doxastic propositional attitudes". In contemporary epistemology it is relatively common to treat the notion of belief as being the most general doxastic propositional attitude, and attitudes like knowledge to consist of belief, plus some further set of features (e.g. truth, indefeasibility, reliability, safety, etc.). This is not the case for Kant. Instead he takes knowledge to be that towards which all cases of acceptance or holding aim. Such acts of holding can fall short of knowledge for various reasons, and the ways in which they fall short correspond to what Kant calls "belief" or "faith" (_Glaube_) and "opinion" (_Meinung_).[^fn:6]
-[^fn:6]: See (<a href="#citeproc_bib_item_4">Chignell 2007a</a>, <a href="#citeproc_bib_item_5">2007b</a>) for discussion. So a representation is the effect of a mind's receptive capacity being causally affected by something or by spontaneously generating its own representations. Such representations count as cognitions if they satisfy the three conditions of being conscious, truth-apt, and of really possible objects. Such cognitions are in a position to be _known_ when the knower possesses sufficient evidence or "grounds" for accepting that the cognition is true. Insofar as such knowledge is systematically connected in a manner demonstrating the necessity of its various elements it is "science" (_Wissenschaft_), properly so called.
-[^fn:7]: See (<a href="#citeproc_bib_item_1">Ameriks 1982</a>; cite: <a href="#citeproc_bib_item_26">Stang 2016</a>).
-[^fn:8]: For this way of putting it see (, <a href="#citeproc_bib_item_7">Gardner 1999, 144</a>). Kant ultimately thinks that a variety of ideas admit of some sort or another of rational acceptance. Perhaps most famously, he argues in the _Critque of Practical Reason_ that we are rationally required to believe in the existence of God and of our own immortal souls in order to fulfill the requirements of practical rationality, namely, striving to achieve the "highest good"---the unity of virtue apportioned to happiness (more colloquaially, the world in which everyone gets their "just desserts"). In Kant's view, we may not truly _know_ that there is a God or that we have souls in the relevant sense, but it is rational to believe so. As Kant famously puts it, > Thus I cannot even **assume God, freedom and immortality** for the sake of the > neeessary practical use of my reason unless I simultaneously **deprive** speculative > reason of its pretension to extravagant insights; because in order to attain to > such insights, speculative reason would have to help itself to principles that in > fact reach only to objects of possible experience, and which, if they were to be > applied to what cannot be an object of experience, then they would always actually > transform it into an appearance, and thus declare all **practical extension** of pure > reason to be impossible. Thus I had to deny **knowledge** in order to make room for > **faith**; and the dogmatism of metaphysics, i.e., the prejudice that without criticism > reason can make progress in metaphysics, is the true source of all unbelief > conflicting with morality, which unbelief is always very dogmatic. (Bxxix-xxx) It is Kant's hope that the Critical philosophy not only sets metaphysics on the path of science, but that it also shows how faith and reason can coexist together and are ultimately even mutually supporting. This connection between faith and reason will continue to exert its influence in German philosophy, even by those who ultimately reject many of Kant's other doctrines.
+[^fn:5]: See (, <a href="#citeproc_bib_item_9">Heis 2013, 277–78</a>; <a href="#citeproc_bib_item_13">McLear 2016</a>).
+[^fn:6]: See (<a href="#citeproc_bib_item_4">Chignell 2007a</a>, <a href="#citeproc_bib_item_5">2007b</a>) for discussion.
+[^fn:7]: See (<a href="#citeproc_bib_item_1">Ameriks 1982</a>; <a href="#citeproc_bib_item_26">Stang 2016</a>).
+[^fn:8]: For this way of putting it see (, <a href="#citeproc_bib_item_7">Gardner 1999, 144</a>).
