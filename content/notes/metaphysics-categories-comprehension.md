@@ -1,16 +1,16 @@
 ---
 title: "Metaphysics, Categories, and the Scope of Comprehension"
 publishDate: 2021-08-31T00:00:00-04:00
-lastmod: 2021-08-23T00:44:09-04:00
+lastmod: 2021-08-24T22:49:16-04:00
 slug: "metaphysics-categories-and-comprehension"
 tags: ["a priori", "categories", "comprehension", "kant", "metaphysics", "science"]
-draft: true
+draft: false
 weight: 0
 author: false
 type: "post"
 ---
 
-In this weeks notes I discuss Kant's position on the intellectual conditions of
+In these notes I discuss Kant's position on the intellectual conditions of
 cognition---the categories---and their role in his conception of metaphysics.
 
 We've seen that if metaphysics is to be a science, it must, like all science, rely on
@@ -52,9 +52,9 @@ category. Hence, to advance categorialism is to advance the claim that existence
 being has a structure, and the categories delineate that structure.
 
 For Kant, the categories are _concepts_, albeit special kinds of concepts. They are the
-most _basic_ concepts of an object. So if we think of <object> as being the most
+most _basic_ concepts of an object. So if we think of `<object>` as being the most
 general or "highest" concept, the categories are the most basic ways in which we
-specify the content of <object>.
+specify the content of `<object>`.
 
 The categories are _non-empirical_ or "pure", and are _a priori_. This is to say that
 neither their content, nor the conditions of their justification, depends on sensory
@@ -94,7 +94,7 @@ are:
 
 # 2. How does Kant understand the relationship between categories and metaphysics? {#2-dot-how-does-kant-understand-the-relationship-between-categories-and-metaphysics}
 
-Since <object> is the most basic concept that the intellect can employ in its
+Since `<object>` is the most basic concept that the intellect can employ in its
 activity, and the categories are the most basic concepts of an object, the categories
 are essential to the activity of the intellect in any act of understanding or
 comprehending how things are. Kant thus endorses categorialism, at least in the sense
@@ -401,11 +401,11 @@ materials for metaphysics. Finally, it is not obvious that the content of the
 categories is simply "identical" with that of the forms of judgment.
 
 To take just one example, Kant construes the category of substance---more precisely,
-<subsistence-inherence>---as related to the form of categorical (i.e.
+`<subsistence-inherence>`---as related to the form of categorical (i.e.
 subject/predicate) judgment. The purely logical or grammatical notion is thus of a
 term or concept that can only occupy subject position and never predicate position.
 However, this notion does not adequately capture central ways in which Kant uses the
-concept <substance>. More specifically, Kant construes a substance as substanding and
+concept `<substance>`. More specifically, Kant construes a substance as substanding and
 subsisting. This means that (i) substance is a being in which things "_inhere_" and
 (ii) substance does not itself inhere in anything else (in this circumscribed sense
 substance is an independent being). Kant construes inherence as a real (that is,
@@ -483,16 +483,16 @@ a 'deduction' that Kant uses, is a legal one intended to provide a historical
 justification for the legitimacy of a property claim. In Kant's case however, it is
 transformed into a justification of the applicability (in the sense discussed above)
 of the a priori concepts Kant calls the 'categories'. These are the concepts given in
-Kant's 'Table of Categories' (A80/B106): <Unity>, <Plurality>, and <Totality> (the
-Categories of Quantity); <Reality>, <Negation>, and <Limitation> (the Categories of
+Kant's 'Table of Categories' (A80/B106): `<Unity>`, `<Plurality>`, and `<Totality>` (the
+Categories of Quantity); `<Reality>`, `<Negation>`, and `<Limitation>` (the Categories of
 Quality); <Inherence and Subsistence>, <Causality and Effect> and <Community> (the
-Categories of Relation), and <Possibility-Impossibility>, <Existence-Nonexistence>,
-<Necessity-Contingency> (the Categories of Modality).
+Categories of Relation), and `<Possibility-Impossibility>`, `<Existence-Nonexistence>`,
+`<Necessity-Contingency>` (the Categories of Modality).
 
 With regard to each category, Kant's aim is to show that it has 'objective
 validity'---i.e. legitimate applicability to the objects of experience. Disputes
 concerning various members of the table should be familiar. Hume famously disputes
-the legitimacy of our concept of <cause-effect>. Hume thinks (in Kant's terms) that
+the legitimacy of our concept of `<cause-effect>`. Hume thinks (in Kant's terms) that
 no 'empirical deduction' of the concept is possible---i.e. that the concept cannot be
 traced to the occurrence of a corresponding impression. Kant concurs with Hume on
 this point---that there can be no empirical deduction---but argues that this doesn't
