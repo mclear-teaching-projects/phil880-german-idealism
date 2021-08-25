@@ -1,7 +1,7 @@
 ---
 title: "Metaphysics, Categories, and the Scope of Comprehension"
 publishDate: 2021-08-31T00:00:00-04:00
-lastmod: 2021-08-25T01:04:41-04:00
+lastmod: 2021-08-25T01:21:00-04:00
 slug: "metaphysics-categories-and-comprehension"
 tags: ["a priori", "categories", "comprehension", "kant", "metaphysics", "science"]
 draft: false
@@ -223,14 +223,14 @@ free of sensation, are nevertheless _sensitive_ on account of being derived from
 intuition (see, e.g., ID §5, 2:393)).
 
 Perhaps Kant thinks we have a special _intellectual_ intuition of the mind and its
-acts? One recent commentator (<a href="#citeproc_bib_item_8">Dyck 2016</a>) has argued that Kant is committed in
+acts? One recent commentator (<a href="#citeproc_bib_item_12">Dyck 2016</a>) has argued that Kant is committed in
 the _Dissertation_ to our having intellectual intuitions of our own minds and that he
 only subsequently, in the later 70s, rejects this position in favor of one according
 to which it is inner _sense_---and thus empirical psychology---that provides the
 requisite basis for acquiring metaphysical concepts. Dyck's argument concerning
 Kant's position in the _Dissertation_ hinges on two claims. First, that there are clear
 texts showing that Kant denies that sensible laws (i.e. of time and space) apply to
-immaterial substances, including the mind/soul (see , <a href="#citeproc_bib_item_8">Dyck 2016, 330</a>). Second, that
+immaterial substances, including the mind/soul (see , <a href="#citeproc_bib_item_12">Dyck 2016, 330</a>). Second, that
 Kant's conception of the acquisition of the pure concepts of metaphysics depends on
 the existence of intellectual intuition of the mind or soul itself [see @dyck2016,
 330-1]. However, neither of these interpretive points are particularly compelling.
@@ -478,7 +478,7 @@ empirical world and the nature and extent of our knowledge of it.
 
 In order to prove that there are pure a priori concepts which legitimately apply to
 the objects of experience, Kant articulates [a special sort of argument](http://plato.stanford.edu/entries/kant-transcendental/), which he
-calls a 'transcendental deduction'. As (<a href="#citeproc_bib_item_12">Henrich 1989</a>) points out, the notion of
+calls a 'transcendental deduction'. As (<a href="#citeproc_bib_item_17">Henrich 1989</a>) points out, the notion of
 a 'deduction' that Kant uses, is a legal one intended to provide a historical
 justification for the legitimacy of a property claim. In Kant's case however, it is
 transformed into a justification of the applicability (in the sense discussed above)
@@ -650,13 +650,13 @@ sense; see B72).
 Second, being perfectly active in this manner the intuitive intellect would also
 thereby be perfectly _comprehensive_, in cognizing all things from their grounds or
 causes rather than their effects, for only a receptive faculty would cognize
-something from its effect(s) (_Religion Pölitz_ 28:1111 (1783/84); JL 9:65).[^fn:1]
+something from its effect(s) (_Religion Pölitz_ 28:1111 (1783/84); JL 9:65).[^fn:14]
 
 Third, the intuitive intellect is _productive_ of its objects. The productivity of the
 intuitive intellect is a correlate of the two features just discussed. Since the
 intellectual intuitions of the intuitive intellect are purely a function of its
 spontaneous self-activity, and intuition is defined by Kant as a relation to an
-actuality (Pr 4:481-2),[^fn:2] the intuitive intellect must be able to produce the
+actuality (Pr 4:481-2),[^fn:15] the intuitive intellect must be able to produce the
 very beings it intuits. And since this intuitive intellect would be completely
 comprehensive and creative, the things (actualities) it represents would be
 represented entirely from their grounds rather than their effects, and indeed as
@@ -664,7 +664,7 @@ being grounded in the intuitive intellect itself. As Kant reportedly puts it,
 
 > God cognizes all things by cognizing himself as the ground of all possibility
 > (_Religion Pölitz_ (1783/4), 28:1052; cf. /Metaphysik L<sub>1</sub>/ (mid-1770's), 28:328-9;
-> _Metaphysik L<sub>2</sub>_ (1790/1), 28:606).[^fn:3]
+> _Metaphysik L<sub>2</sub>_ (1790/1), 28:606).[^fn:16]
 
 In cognizing things from their very grounds of possibility, the intuitive intellect
 would represent what is essential to any thing---i.e. in terms of that essence or
@@ -680,10 +680,10 @@ Finally, an intellect capable of non-sensible intuition would also be _non-discu
 What does this mean? Kant characterizes intellectual activity as 'discursive' to
 denote the manner in which our discursive understanding acts---viz. moving to and
 fro, from part to part, in building a whole---rather than merely as a synonym for
-'conceptual', 'linguistic', or 'rational'.[^fn:14] It is this notion he means to
+'conceptual', 'linguistic', or 'rational'.[^fn:17] It is this notion he means to
 indicate in his characterization of the discursive intellect's activity as that of
 "running through" and "gathering together" (A99) representations. A non-discursive
-intellect, in contrast, exhibits a whole-to-part grasp of its representations.[^fn:15]
+intellect, in contrast, exhibits a whole-to-part grasp of its representations.[^fn:18]
 This means that in an intellectual intuition the content of any representational
 component is determined by the content of the whole, which the intuitive intellect
 apprehends "all at once" (_Religion Pölitz_ (1783/4), 28:1051) via grasp of what Kant
@@ -697,59 +697,74 @@ The upshot is that such a radically different kind of mind _would_ comprehend re
 genuinely is and not merely as it appears. Moreover, it would do it in a way that is
 entirely independent of the categories. This raises a serious question for Kant: does
 his conception of the discursive nature of our mind foreclose the very possibility of
-the kind of comprehension that a genuine metaphysics requires? This will a central
+the kind of comprehension that a genuine metaphysics requires? This will be a central
 issue, especially for Hegel.
 
 
 # References {#references}
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Allais, Lucy. 2009. <a href="https://doi.org/">“Kant, Non-Conceptual Content and the Representation of Space.</a>” <i>Journal of the History of Philosophy</i> 47 (3): 383–413.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Allison, Henry E. 2015. <i><a href="https://doi.org/">Kant’s Transcendental Deduction: An Analytical-Historical Commentary</a></i>. New York: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Aquila, Richard E. 2001. <a href="https://doi.org/">“Infinitude, Whole-Part Priority, and the Ambiguity of Kantian `Space’ and `Time.</a>” In <i>Kant Und Die Berliner Aufklärung: Akten Des IX. Internationalen Kant-Kongresses</i>, edited by Rolf-Peter Horstmann Volker Gerhardt and Ralph Schumacher, 99–109. Berlin: Walter de Gruyter.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Beck, Lewis White. 1978. <a href="https://doi.org/">“Did the Sage of Königsberg Have No Dreams.</a>” In <i>Essays on Kant and Hume</i>, edited by  , 38–60. New Haven: Yale University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>Brandt, Reinhard. 1995. <i><a href="https://doi.org/">The Table of Judgments: Critique of Pure Reason A67-76; B92-101</a></i>. Atascadero, CA: Ridgeview.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>Carl, Wolfgang. 1989a. <i><a href="https://doi.org/">Der Schweigende Kant: Die Entwürfe Zu Einer Deduktion Der Kategorien Vor 1781</a></i>. Göttingen: Vandenhoeck &#38; Ruprecht.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>———. 1989b. <a href="https://doi.org/">“Kant’s First Drafts of the Deduction of the Categories.</a>” In <i>Kant’s Transcendental Deductions</i>, edited by Eckart Förster, 3–20. Stanford: Stanford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_8"></a>Dyck, Corey W. 2016. <a href="https://doi.org/">“The Scope of Inner Sense: The Development of Kant’s Psychology in the Silent Decade.</a>” <i>Con-Textos Kantianos</i> 3: 1–19.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_9"></a>Ginsborg, Hannah. 2006. <a href="https://doi.org/">“Kant and the Problem of Experience.</a>” <i>Philosophical Topics</i> 34 (1&#38;2): 59–106.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_10"></a>Guyer, Paul. 1987. <i><a href="https://doi.org/">Kant and the Claims of Knowledge</a></i>. Cambridge: Cambridge University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_11"></a>Henrich, Dieter. 1969. <a href="https://doi.org/">“The Proof-Structure of Kant’s Transcendental Deduction.</a>” <i>The Review of Metaphysics</i> 22 (4): 640–59.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_12"></a>———. 1989. <a href="https://doi.org/">“Kant’s Notion of a Deduction and the Methodological Background of the First Critique.</a>” In <i>Kant’s Transcendental Deductions: The Three Critiques and the Opus Postumum</i>, edited by Eckart Förster, 29–46. Stanford: Stanford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>Kitcher, Patricia. 2011. <i><a href="https://doi.org/">Kant’s Thinker</a></i>. New York: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>Klemme, Heiner F. 1996. <i><a href="https://doi.org/">Kants Philosophie Des Subjekts: Systematische Und Entwicklungsgeschichtliche Untersuchungen Zum Verhältnis Von Selbstbewusstsein Und Selbsterkenntnis</a></i>. Hamburg: Felix Meiner Verlag.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_15"></a>Langton, Rae. 1998. <i><a href="https://doi.org/">Kantian Humility: Our Ignorance of Things in Themselves</a></i>. Oxford: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_16"></a>———. 2006. <a href="https://doi.org/">“Kant’s Phenomena: Extrinsic or Relational Properties? a Reply to Allais.</a>” <i>Philosophy and Phenomenological Research</i> 73 (1): 170–85.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_17"></a>Laywine, Alison. 2005. <a href="https://doi.org/">“Kant on the Self as Model of Experience.</a>” <i>Kantian Review</i> 9 (1): 1–29.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_18"></a>———. 2006. <a href="https://doi.org/">“Kant’s Metaphysical Reflections in the Duisburg Nachlass.</a>” <i>Kant Studien</i> 97 (1): 79–113.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_19"></a>Longuenesse, Béatrice. 1998. <i><a href="https://doi.org/">Kant and the Capacity to Judge</a></i>. Princeton: Princeton University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_20"></a>McLear, Colin. 2015. <a href="https://doi.org/">“Two Kinds of Unity in the Critique of Pure Reason.</a>” <i>Journal of the History of Philosophy</i> 53 (1): 79–110.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_21"></a>———. 2018. “Motion and the Affection Argument.” <i>Synthese</i> 195 (11): 4979–95. doi:<a href="https://doi.org/10.1007/s11229-017-1438-4">10.1007/s11229-017-1438-4</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_22"></a>McLear, Colin, and Derk Pereboom. 0BC. <a href="https://doi.org/">“Kant on Transcendental Freedom, Priority Monism, &#38; the Structure of Intuition.</a>” In <i>The Idea of Freedom: New Essays on the Kantian Theory of Freedom</i>, edited by Evan Tiffany and Dai Heide. Oxford: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_23"></a>Mohr, Georg. 1995. <a href="https://doi.org/">“Freedom and the Self: From Introspection to Intersubjectivity: Wolff, Kant, and Fichte.</a>” In <i>The Modern Subject: Conceptions of the Self in Classical German Philosophy</i>, edited by Karl Ameriks and Dieter Sturma, 31–45. Albany, NY: SUNY Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_24"></a>Onof, Christian, and Dennis Schulting. 2015. <a href="https://doi.org/">“Space as Form of Intuition and as Formal Intuition. On the Note to B160 in Kant’s Critique of Pure Reason.</a>” <i>The Philosophical Review</i> 124 (1): 1–58.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_25"></a>Pereboom, Derk. 1991. <a href="https://doi.org/">“Kant’s Amphiboly.</a>” <i>Archiv Für Geschichte Der Philosophie</i> 73 (1): 50–70.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_26"></a>Reich, Klaus. 1992. <i><a href="https://doi.org/">The Completeness of Kant’s Table of Judgments</a></i>. Stanford: Stanford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_27"></a>Serck-Hanssen, Camilla. 2001. <a href="https://doi.org/">“Apperception and Deduction in the Duisburgischer Nachlass.</a>” <i>Kant Und Die Berliner Aufklärung: Akten Des IX. Internationalen Kant-Kongresses</i> 2: 59–68.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_28"></a>Van Cleve, James. 1999. <i><a href="https://doi.org/">Problems from Kant</a></i>. Oxford: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_29"></a>Westphal, Kenneth R. 2000. <a href="https://doi.org/">“Kant, Hegel, and the Fate of ‘the’ Intuitive Intellect.</a>” In <i>The Reception of Kant’s Critical Philosophy: Fichte, Schelling, and Hegel</i>, edited by Sally Sedgwick, 283–305. Cambridge: Cambridge University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_30"></a>Winegar, Reed. 2017. “Kant on God’s Intuitive Understanding: Interpreting CJ §76’s Modal Claims.” <i>Kantian Review</i> 22 (2): 305–29. doi:<a href="https://doi.org/10.1017/S1369415417000061">10.1017/S1369415417000061</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_31"></a>Wolff, Michael. 1995. <i><a href="https://doi.org/">Die Vollständigkeit Der Kantischen Urteilstafel: Mit Einem Essay Über Freges Begriffsschrift</a></i>. Vittorio Klostermann.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_32"></a>Wuerth, Julian. 2014. <i><a href="https://doi.org/">Kant on Mind, Action, and Ethics</a></i>. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Adams, Robert Merrihew. 1994. <i><a href="https://doi.org/">Leibniz: Determinist, Theist, Idealist</a></i>. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. 2000. <a href="https://doi.org/">“God, Possibility, and Kant.</a>” <i>Faith and Philosophy</i> 17 (4): 425–40.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Allais, Lucy. 2009. <a href="https://doi.org/">“Kant, Non-Conceptual Content and the Representation of Space.</a>” <i>Journal of the History of Philosophy</i> 47 (3): 383–413.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Allison, Henry E. 2015. <i><a href="https://doi.org/">Kant’s Transcendental Deduction: An Analytical-Historical Commentary</a></i>. New York: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>Aquila, Richard E. 2001. <a href="https://doi.org/">“Infinitude, Whole-Part Priority, and the Ambiguity of Kantian `Space’ and `Time.</a>” In <i>Kant Und Die Berliner Aufklärung: Akten Des IX. Internationalen Kant-Kongresses</i>, edited by Rolf-Peter Horstmann Volker Gerhardt and Ralph Schumacher, 99–109. Berlin: Walter de Gruyter.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>Arnauld, Antoine, and Pierre Nicole. 1683. <i><a href="https://doi.org/">Logic or the Art of Thinking</a></i>. Cambridge University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>Beck, Lewis White. 1978. <a href="https://doi.org/">“Did the Sage of Königsberg Have No Dreams.</a>” In <i>Essays on Kant and Hume</i>, edited by  , 38–60. New Haven: Yale University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_8"></a>Brandt, Reinhard. 1995. <i><a href="https://doi.org/">The Table of Judgments: Critique of Pure Reason A67-76; B92-101</a></i>. Atascadero, CA: Ridgeview.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_9"></a>Carl, Wolfgang. 1989a. <i><a href="https://doi.org/">Der Schweigende Kant: Die Entwürfe Zu Einer Deduktion Der Kategorien Vor 1781</a></i>. Göttingen: Vandenhoeck &#38; Ruprecht.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_10"></a>———. 1989b. <a href="https://doi.org/">“Kant’s First Drafts of the Deduction of the Categories.</a>” In <i>Kant’s Transcendental Deductions</i>, edited by Eckart Förster, 3–20. Stanford: Stanford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_11"></a>Chignell, Andrew. 2009. <a href="https://doi.org/">“Kant, Modality, and the Most Real Being.</a>” <i>Archiv Für Geschichte Der Philosophie</i> 91 (2): 157–92.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_12"></a>Dyck, Corey W. 2016. <a href="https://doi.org/">“The Scope of Inner Sense: The Development of Kant’s Psychology in the Silent Decade.</a>” <i>Con-Textos Kantianos</i> 3: 1–19.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>Fisher, Mark, and Eric Watkins. 1998. <a href="https://doi.org/">“Kant on the Material Ground of Possibility: From ‘the Only Possible Argument’ to the ‘Critique of Pure Reason’.</a>” <i>The Review of Metaphysics</i> 52 (2): 369–95.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>Ginsborg, Hannah. 2006. <a href="https://doi.org/">“Kant and the Problem of Experience.</a>” <i>Philosophical Topics</i> 34 (1&#38;2): 59–106.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_15"></a>Guyer, Paul. 1987. <i><a href="https://doi.org/">Kant and the Claims of Knowledge</a></i>. Cambridge: Cambridge University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_16"></a>Henrich, Dieter. 1969. <a href="https://doi.org/">“The Proof-Structure of Kant’s Transcendental Deduction.</a>” <i>The Review of Metaphysics</i> 22 (4): 640–59.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_17"></a>———. 1989. <a href="https://doi.org/">“Kant’s Notion of a Deduction and the Methodological Background of the First Critique.</a>” In <i>Kant’s Transcendental Deductions: The Three Critiques and the Opus Postumum</i>, edited by Eckart Förster, 29–46. Stanford: Stanford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_18"></a>Hogan, Desmond. 2009. <a href="https://doi.org/">“Three Kinds of Rationalism and the Non-Spatiality of Things in Themselves.</a>” <i>Journal of the History of Philosophy</i> 47 (3): 355–82.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_19"></a>Kitcher, Patricia. 2011. <i><a href="https://doi.org/">Kant’s Thinker</a></i>. New York: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_20"></a>Klemme, Heiner F. 1996. <i><a href="https://doi.org/">Kants Philosophie Des Subjekts: Systematische Und Entwicklungsgeschichtliche Untersuchungen Zum Verhältnis Von Selbstbewusstsein Und Selbsterkenntnis</a></i>. Hamburg: Felix Meiner Verlag.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_21"></a>Langton, Rae. 1998. <i><a href="https://doi.org/">Kantian Humility: Our Ignorance of Things in Themselves</a></i>. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_22"></a>———. 2006. <a href="https://doi.org/">“Kant’s Phenomena: Extrinsic or Relational Properties? a Reply to Allais.</a>” <i>Philosophy and Phenomenological Research</i> 73 (1): 170–85.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_23"></a>Laywine, Alison. 2005. <a href="https://doi.org/">“Kant on the Self as Model of Experience.</a>” <i>Kantian Review</i> 9 (1): 1–29.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_24"></a>———. 2006. <a href="https://doi.org/">“Kant’s Metaphysical Reflections in the Duisburg Nachlass.</a>” <i>Kant Studien</i> 97 (1): 79–113.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_25"></a>Longuenesse, Béatrice. 1998. <i><a href="https://doi.org/">Kant and the Capacity to Judge</a></i>. Princeton: Princeton University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_26"></a>———. 2001. <a href="https://doi.org/">“Kant’s Deconstruction of the Principle of Sufficient Reason.</a>” <i>The Harvard Review of Philosophy</i> 9 (1): 67–87.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_27"></a>McLear, Colin. 0BC. <a href="https://doi.org/">“On Pure Intuition and Actuality.</a>” <i>Manuscript</i>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_28"></a>———. 2015. <a href="https://doi.org/">“Two Kinds of Unity in the Critique of Pure Reason.</a>” <i>Journal of the History of Philosophy</i> 53 (1): 79–110.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_29"></a>———. 2018. “Motion and the Affection Argument.” <i>Synthese</i> 195 (11): 4979–95. doi:<a href="https://doi.org/10.1007/s11229-017-1438-4">10.1007/s11229-017-1438-4</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_30"></a>McLear, Colin, and Derk Pereboom. 0BC. <a href="https://doi.org/">“Kant on Transcendental Freedom, Priority Monism, &#38; the Structure of Intuition.</a>” In <i>The Idea of Freedom: New Essays on the Kantian Theory of Freedom</i>, edited by Evan Tiffany and Dai Heide. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_31"></a>Mohr, Georg. 1995. <a href="https://doi.org/">“Freedom and the Self: From Introspection to Intersubjectivity: Wolff, Kant, and Fichte.</a>” In <i>The Modern Subject: Conceptions of the Self in Classical German Philosophy</i>, edited by Karl Ameriks and Dieter Sturma, 31–45. Albany, NY: SUNY Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_32"></a>Onof, Christian, and Dennis Schulting. 2015. <a href="https://doi.org/">“Space as Form of Intuition and as Formal Intuition. On the Note to B160 in Kant’s Critique of Pure Reason.</a>” <i>The Philosophical Review</i> 124 (1): 1–58.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_33"></a>Pereboom, Derk. 1991. <a href="https://doi.org/">“Kant’s Amphiboly.</a>” <i>Archiv Für Geschichte Der Philosophie</i> 73 (1): 50–70.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_34"></a>Reich, Klaus. 1992. <i><a href="https://doi.org/">The Completeness of Kant’s Table of Judgments</a></i>. Stanford: Stanford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_35"></a>Serck-Hanssen, Camilla. 2001. <a href="https://doi.org/">“Apperception and Deduction in the Duisburgischer Nachlass.</a>” <i>Kant Und Die Berliner Aufklärung: Akten Des IX. Internationalen Kant-Kongresses</i> 2: 59–68.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_36"></a>Smit, Houston. 2009. <a href="https://doi.org/">“Kant on Apriority and the Spontaneity of Cognition.</a>” In <i>Metaphysics and the Good: Themes from the Philosophy of Robert Adams</i>, edited by Samuel Newlands and Larry M. Jorgensen, 188–251. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_37"></a>Stang, Nicholas F. 2016. <i><a href="https://doi.org/">Kant’s Modal Metaphysics</a></i>. New York: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_38"></a>Van Cleve, James. 1999. <i><a href="https://doi.org/">Problems from Kant</a></i>. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_39"></a>Westphal, Kenneth R. 2000. <a href="https://doi.org/">“Kant, Hegel, and the Fate of ‘the’ Intuitive Intellect.</a>” In <i>The Reception of Kant’s Critical Philosophy: Fichte, Schelling, and Hegel</i>, edited by Sally Sedgwick, 283–305. Cambridge: Cambridge University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_40"></a>Winegar, Reed. 2017. “Kant on God’s Intuitive Understanding: Interpreting CJ §76’s Modal Claims.” <i>Kantian Review</i> 22 (2): 305–29. doi:<a href="https://doi.org/10.1017/S1369415417000061">10.1017/S1369415417000061</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_41"></a>Wolff, Christian. 1720. <i><a href="https://doi.org/">Vernünfftige Gedancken Von Gott, Der Welt Und Der Seele Des Menschen, Auch Allen Dingen Überhaupt</a></i>. Halle: Rengerischen Buchhandlung.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_42"></a>Wolff, Michael. 1995. <i><a href="https://doi.org/">Die Vollständigkeit Der Kantischen Urteilstafel: Mit Einem Essay Über Freges Begriffsschrift</a></i>. Vittorio Klostermann.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_43"></a>Wuerth, Julian. 2014. <i><a href="https://doi.org/">Kant on Mind, Action, and Ethics</a></i>. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_44"></a>Yong, Peter. 2014. <a href="https://doi.org/">“God, Totality and Possibility in Kant’s Only Possible Argument.</a>” <i>Kantian Review</i> 19 (1): 27–51.</div>
 </div>
 
-[^fn:1]: (<a href="#citeproc_bib_item_1">Allais 2009, 405</a>).
+[^fn:1]: (<a href="#citeproc_bib_item_3">Allais 2009, 405</a>).
 [^fn:2]: Kant is reported to have said that `<substance>` is the "most preeminent" of the categories and "thus the basis of all other cognition" (_Metaphysik Mrongovius_, 29:769--70).
 [^fn:3]: The modal categories are the exception since, as Kant indicates, they are "merely subjectively valid for the human understanding" and "are not valid of objects in general" (CPJ 5:402); see also [@stang2016, ch. 10; @kohl2015c].
 [^fn:4]: What are the "concepts of metaphysics" for Kant? Certainly they include the concept `<God>`, as well as `<soul>` and `<world>`. These all presuppose possession of the concept `<substance>`. Presumably also on the list are other concepts one would find in, e.g., Baumgarten's _Metaphysica_, such as `<possibility>`, `<necessity>`, `<accident>`, and so forth.
-[^fn:5]: For consideration of the problem of self-consciousness in the 1770s more broadly, as well as Kant's rejection of intellectual intuition, see (<a href="#citeproc_bib_item_14">Klemme 1996, 118–26</a>). As (<a href="#citeproc_bib_item_23">Mohr 1995, 32–36</a>) points out, Kant does speak of an intellectual (not inner) intuition of freedom in _reflexionen_ from the early-to-mid-1770s (e.g. R4336 17:509 (1769-75)) But Kant also speaks of apperception as opposed to intuition in the mid-1770s (e.g. R4723 17:688 (1773-5); R6860 19:183 (1776?-91?)). It is clear that he is struggling to express the nature of the awareness we can have, as rational beings, of our own activity (e.g. R4220 17:462 (1769-70)).
-[^fn:6]: For discussion of Kant's view that the objects of sense consist entirely of relations, or relational properties, see (<a href="#citeproc_bib_item_25">Pereboom 1991</a>; <a href="#citeproc_bib_item_15">Langton 1998</a>, <a href="#citeproc_bib_item_16">2006</a>; <a href="#citeproc_bib_item_21">McLear 2018</a>).
-[^fn:7]: There is also indication in the _Duisburg Nachlaß_, as there was in Kant's lectures, of his endorsement of the rational psychology he would later come to criticize. For example, in the _Nachlaß_ Kant says that "I would not represent anything as outside of me and thus make appearance into experience (objectively) if the representations did not relate to something _that is parallel to my I_, through which I refer them from myself to another subject" (R4675, 17:648 (1775); my emphasis). For discussion see (<a href="#citeproc_bib_item_10">Guyer 1987</a>; <a href="#citeproc_bib_item_7">Carl 1989b</a>, <a href="#citeproc_bib_item_6">1989a</a>; <a href="#citeproc_bib_item_27">Serck-Hanssen 2001</a>; <a href="#citeproc_bib_item_17">Laywine 2005</a>, <a href="#citeproc_bib_item_18">2006</a>; <a href="#citeproc_bib_item_13">Kitcher 2011</a>).
-[^fn:8]: (<a href="#citeproc_bib_item_17">Laywine 2005, 9</a>); see also (<a href="#citeproc_bib_item_6">Carl 1989a, 91–92, 97</a>; <a href="#citeproc_bib_item_13">Kitcher 2011, 73–74</a>; <a href="#citeproc_bib_item_32">Wuerth 2014, 104</a>; <a href="#citeproc_bib_item_8">Dyck 2016, 335–38</a>). For criticism of Carl's, and to a lesser degree Laywine's, position see (<a href="#citeproc_bib_item_2">Allison 2015, 121–30</a>).
-[^fn:9]: There are a variety of prominent attempts to defend Kant's position here. See (<a href="#citeproc_bib_item_26">Reich 1992</a>; <a href="#citeproc_bib_item_5">Brandt 1995</a>; <a href="#citeproc_bib_item_31">Wolff 1995</a>; <a href="#citeproc_bib_item_19">Longuenesse 1998</a>).
-[^fn:10]: For a helpful discussion of different ways "experience" might be interpreted see (Pp. <a href="#citeproc_bib_item_28">Van Cleve 1999, 73–76</a>). See also the discussion of kinds of experience in (<a href="#citeproc_bib_item_4">Beck 1978</a>) and the sources cited therein.
-[^fn:11]: For a related worry about triviality see (<a href="#citeproc_bib_item_9">Ginsborg 2006</a>).
-[^fn:12]: The _locus classicus_ for the two-step interpretation is (<a href="#citeproc_bib_item_11">Henrich 1969</a>). Note that I am not endorsing any of the specifics of Henrich's account, e.g., that the second step of the Deduction consists in the comparatively trivial reminder that since human forms of intuition are spatio-temporal, the categories must be know to apply only to spatio-temporal objects.
-[^fn:13]: For discussion of the German rationalist conception of an intuitive intellect see (<a href="#citeproc_bib_item_30">Winegar 2017</a>).
-[^fn:14]: So, _pace_ (<a href="#citeproc_bib_item_29">Westphal 2000</a>), Kant's conception of the intellect (or the understanding in particular) does not require conceiving of it as a faculty for _concept_ generation. Only discursive faculties are faculties for concept generation (and, correspondingly, for judgment and inference); cf. JL 9:36; CPJ 5:406.
-[^fn:15]: Kant understands the whole-to-part merelogical structure of representation as a distinguishing feature of intuition as opposed to conceptual representation, which is part-to-whole. See (<a href="#citeproc_bib_item_3">Aquila 2001</a>; <a href="#citeproc_bib_item_20">McLear 2015</a>; <a href="#citeproc_bib_item_24">Onof and Schulting 2015</a>; <a href="#citeproc_bib_item_22">McLear and Pereboom 0BC</a>) for discussion. As we'll see, I take the intuitive understanding, or intellect, as a faculty for generating intellectual intuitions. For an alternative reading of Kant that sees these as two distinct faculties see [@forster2012, ch. 6]. While I give reasons for thinking of these as a single faculty, it won't matter for the purposes of understanding Hegel's objection.
+[^fn:5]: For consideration of the problem of self-consciousness in the 1770s more broadly, as well as Kant's rejection of intellectual intuition, see (<a href="#citeproc_bib_item_20">Klemme 1996, 118–26</a>). As (<a href="#citeproc_bib_item_31">Mohr 1995, 32–36</a>) points out, Kant does speak of an intellectual (not inner) intuition of freedom in _reflexionen_ from the early-to-mid-1770s (e.g. R4336 17:509 (1769-75)) But Kant also speaks of apperception as opposed to intuition in the mid-1770s (e.g. R4723 17:688 (1773-5); R6860 19:183 (1776?-91?)). It is clear that he is struggling to express the nature of the awareness we can have, as rational beings, of our own activity (e.g. R4220 17:462 (1769-70)).
+[^fn:6]: For discussion of Kant's view that the objects of sense consist entirely of relations, or relational properties, see (<a href="#citeproc_bib_item_33">Pereboom 1991</a>; <a href="#citeproc_bib_item_21">Langton 1998</a>, <a href="#citeproc_bib_item_22">2006</a>; <a href="#citeproc_bib_item_29">McLear 2018</a>).
+[^fn:7]: There is also indication in the _Duisburg Nachlaß_, as there was in Kant's lectures, of his endorsement of the rational psychology he would later come to criticize. For example, in the _Nachlaß_ Kant says that "I would not represent anything as outside of me and thus make appearance into experience (objectively) if the representations did not relate to something _that is parallel to my I_, through which I refer them from myself to another subject" (R4675, 17:648 (1775); my emphasis). For discussion see (<a href="#citeproc_bib_item_15">Guyer 1987</a>; <a href="#citeproc_bib_item_10">Carl 1989b</a>, <a href="#citeproc_bib_item_9">1989a</a>; <a href="#citeproc_bib_item_35">Serck-Hanssen 2001</a>; <a href="#citeproc_bib_item_23">Laywine 2005</a>, <a href="#citeproc_bib_item_24">2006</a>; <a href="#citeproc_bib_item_19">Kitcher 2011</a>).
+[^fn:8]: (<a href="#citeproc_bib_item_23">Laywine 2005, 9</a>); see also (<a href="#citeproc_bib_item_9">Carl 1989a, 91–92, 97</a>; <a href="#citeproc_bib_item_19">Kitcher 2011, 73–74</a>; <a href="#citeproc_bib_item_43">Wuerth 2014, 104</a>; <a href="#citeproc_bib_item_12">Dyck 2016, 335–38</a>). For criticism of Carl's, and to a lesser degree Laywine's, position see (<a href="#citeproc_bib_item_4">Allison 2015, 121–30</a>).
+[^fn:9]: There are a variety of prominent attempts to defend Kant's position here. See (<a href="#citeproc_bib_item_34">Reich 1992</a>; <a href="#citeproc_bib_item_8">Brandt 1995</a>; <a href="#citeproc_bib_item_42">Wolff 1995</a>; <a href="#citeproc_bib_item_25">Longuenesse 1998</a>).
+[^fn:10]: For a helpful discussion of different ways "experience" might be interpreted see (Pp. <a href="#citeproc_bib_item_38">Van Cleve 1999, 73–76</a>). See also the discussion of kinds of experience in (<a href="#citeproc_bib_item_7">Beck 1978</a>) and the sources cited therein.
+[^fn:11]: For a related worry about triviality see (<a href="#citeproc_bib_item_14">Ginsborg 2006</a>).
+[^fn:12]: The _locus classicus_ for the two-step interpretation is (<a href="#citeproc_bib_item_16">Henrich 1969</a>). Note that I am not endorsing any of the specifics of Henrich's account, e.g., that the second step of the Deduction consists in the comparatively trivial reminder that since human forms of intuition are spatio-temporal, the categories must be know to apply only to spatio-temporal objects.
+[^fn:13]: For discussion of the German rationalist conception of an intuitive intellect see (<a href="#citeproc_bib_item_40">Winegar 2017</a>).
+[^fn:14]: God's representation of all things is thus a priori in the "archaic" sense of representing a thing from its grounds. The influential _Port Royal Logic_ of Arnauld and Nicole includes a definition of the a priori in terms of the 'demonstration of effects by their causes' (, <a href="#citeproc_bib_item_6">Arnauld and Nicole 1683, 233</a>). A version of this view arguably is accepted by Leibniz (, <a href="#citeproc_bib_item_1">Adams 1994, 109</a>; cf. <a href="#citeproc_bib_item_36">Smit 2009</a>; <a href="#citeproc_bib_item_18">Hogan 2009, 53–54</a>). Closer to Kant, Wolff provides a general definition of ground in terms of 'that through which one can understand why something [i.e. what is grounded] is the case' (, § <a href="#citeproc_bib_item_41">Wolff 1720, 29</a>). Moreover, Kant's pre-critical conception of an antecedently determining ground, as articulated in the _New Elucidation_ and elsewhere also seems connected with these older notions (For discussion see <a href="#citeproc_bib_item_26">Longuenesse 2001, 69–70</a>; <a href="#citeproc_bib_item_18">Hogan 2009, 53</a>). For extensive defense of the critical Kant's acceptance of an "archaic" explanatory requirement on the notion of an a priori ground see (<a href="#citeproc_bib_item_36">Smit 2009, 191–217</a>).
+[^fn:15]: For defense of this point see (<a href="#citeproc_bib_item_27">McLear 0BC</a>).
+[^fn:16]: The conception of God as the ground of the very possibility of any actual being is a tenet faithfully held by Kant at least from his 1763 _Bewesigrund_ essay on the existence of God. For discussion see (<a href="#citeproc_bib_item_13">Fisher and Watkins 1998</a>; <a href="#citeproc_bib_item_2">Adams 2000</a>; <a href="#citeproc_bib_item_11">Chignell 2009</a>; <a href="#citeproc_bib_item_44">Yong 2014</a>; <a href="#citeproc_bib_item_37">Stang 2016</a>).
+[^fn:17]: So, _pace_ (<a href="#citeproc_bib_item_39">Westphal 2000</a>), Kant's conception of the intellect (or the understanding in particular) does not require conceiving of it as a faculty for _concept_ generation. Only discursive faculties are faculties for concept generation (and, correspondingly, for judgment and inference); cf. JL 9:36; CPJ 5:406.
+[^fn:18]: Kant understands the whole-to-part merelogical structure of representation as a distinguishing feature of intuition as opposed to conceptual representation, which is part-to-whole. See (<a href="#citeproc_bib_item_5">Aquila 2001</a>; <a href="#citeproc_bib_item_28">McLear 2015</a>; <a href="#citeproc_bib_item_32">Onof and Schulting 2015</a>; <a href="#citeproc_bib_item_30">McLear and Pereboom 0BC</a>) for discussion. As we'll see, I take the intuitive understanding, or intellect, as a faculty for generating intellectual intuitions. For an alternative reading of Kant that sees these as two distinct faculties see [@forster2012, ch. 6]. While I give reasons for thinking of these as a single faculty, it won't matter for the purposes of understanding Hegel's objection.
