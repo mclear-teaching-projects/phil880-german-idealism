@@ -1,7 +1,7 @@
 ---
 title: "Metaphysics, Categories, and the Scope of Comprehension"
 publishDate: 2021-08-31T00:00:00-04:00
-lastmod: 2021-08-24T22:49:16-04:00
+lastmod: 2021-08-25T01:04:41-04:00
 slug: "metaphysics-categories-and-comprehension"
 tags: ["a priori", "categories", "comprehension", "kant", "metaphysics", "science"]
 draft: false
@@ -485,7 +485,7 @@ transformed into a justification of the applicability (in the sense discussed ab
 of the a priori concepts Kant calls the 'categories'. These are the concepts given in
 Kant's 'Table of Categories' (A80/B106): `<Unity>`, `<Plurality>`, and `<Totality>` (the
 Categories of Quantity); `<Reality>`, `<Negation>`, and `<Limitation>` (the Categories of
-Quality); <Inherence and Subsistence>, <Causality and Effect> and <Community> (the
+Quality); `<Inherence and Subsistence>`, `<Causality and Effect>` and `<Community>` (the
 Categories of Relation), and `<Possibility-Impossibility>`, `<Existence-Nonexistence>`,
 `<Necessity-Contingency>` (the Categories of Modality).
 
