@@ -23,7 +23,7 @@ the limits of rational inquiry.
 -   Schechter, "[The Theoretical Significance of the A Priori/A Posteriori Distinction](/materials/readings/schechter-apriori.pdf)", §§1-2
 -   Melamedoff-Vosters, "[Kant’s Argument for Transcendental Idealism in the
     Transcendental Aesthetic Revisited](/materials/readings/melamedoff-ground.pdf)", §§2-3
--   Notes: [Kant's Critical Project]({{< relref "kant-on-synthetic-a-priori" >}})
+-   Notes: [Kant's Critical Project]({{< relref "kant-on-synthetic-a-priori" >}}) ([PDF](</materials/handouts/Kant's Critical Project · PHIL 4:880.pdf>))
 -   (Recommended) Hogan, "[Metaphysical Motives of Kant's Analytic/Synthetic Distinction](https://www.dropbox.com/s/k0na1riar2eyxez/hogan2013%5Fmetaphysical%5Fmotives%5Fof%5Fkant%2527s%5Fanalytic%25E2%2580%2593synthetic%5Fdistinction.pdf?dl=0)"
     (especially §§1-4)
 -   (Recommended) Van Cleve, "[Necessity, Analyticity, and the A Priori](https://www.dropbox.com/s/xkwnhakotbmeuop/vancleve1999%5Fnecessity%2C%5Fanalyticity%2C%5Fand%5Fthe%5Fa%5Fpriori.pdf?dl=0)"
