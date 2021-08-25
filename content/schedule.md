@@ -13,8 +13,8 @@ information.
 
 | Week       | Topic                                            | Readings                                                                                              |
 |------------|--------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| 1 - 8/24   | Kant's Critical Project                          | A preface; B intro; CPJ excerpt                                                                       |
-| 2 - 8/31   | Kant on the Discursive Conditions of Metaphysics | Metaphysical Deduction; Intro to the Dialectic of Pure Reason                                         |
+| 1 - 8/24   | Kant's Critical Project                          | Preface; Intro                                                                                        |
+| 2 - 8/31   | Kant on the Discursive Conditions of Metaphysics | Inaugural Dissertation; Metaphysical Deduction                                                        |
 | 3 - 9/7    | Kant & Spinozism                                 | Pantheism dispute; Orientation essay; Pölitz Religion                                                 |
 | 4 - 9/14   | Reinhold & Schulze                               | The Foundation of Philosophical Knowledge; Anesidemus                                                 |
 | 5 - 9/21   | Fichte I                                         | Anesidemus review; 1st intro WL                                                                       |
