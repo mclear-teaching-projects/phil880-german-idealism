@@ -1,7 +1,7 @@
 ---
 title: "Metaphysics, Categories, and the Scope of Comprehension"
 publishDate: 2021-08-31T00:00:00-04:00
-lastmod: 2021-08-27T11:29:01-04:00
+lastmod: 2021-08-27T11:33:39-04:00
 slug: "metaphysics-categories-and-comprehension"
 tags: ["a priori", "categories", "comprehension", "kant", "metaphysics", "science"]
 draft: false
@@ -639,8 +639,7 @@ non-sensible intuition" (A256/B312). There are four key features of the intuitiv
 intellect---viz. it is (i) intellectual, (ii) comprehensive, (iii) productive, and
 (iv) non-discursive. Let's examine what each of these means.
 
-Let me say a few things about the nature of an intuitive intellect, as Kant conceives
-of it. First, a non-sensible intuition, as _intellectual_, would be entirely actively
+First, a non-sensible intuition, as _intellectual_, would be entirely actively
 produced, its intellectual representations a product of its "absolutely spontaneous"
 pure "self-activity" (_Selbststätigkeit_). This means that the intuitions of an
 intuitive intellect would be self-produced rather than derived from affection by
