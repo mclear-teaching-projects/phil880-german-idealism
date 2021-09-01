@@ -23,7 +23,7 @@ philosophy.
 -   Kant, &ldquo;[What is it to orient oneself in thinking?](/materials/readings/kant-orientation.pdf)&rdquo;
 -   Kant, excerpt from the _[Critique of Judgment](/materials/readings/kant-CPJ-76-77.pdf)_
 -   GRADS: Allison, &ldquo;[Kant&rsquo;s Critique of Spinoza](/materials/readings/allison-spinoza.pdf)&rdquo;
--   Notes: [Kant, Spinoza, & the Pantheism Dispute]({{< relref "kant-spinoza-pantheism" >}})
+-   Notes: [Kant, Spinoza, & the Pantheism Dispute]({{< relref "kant-spinoza-pantheism" >}}) ([PDF](/materials/handouts/kant-spinoza-pantheism.pdf))
 -   (Recommended) Kant (student notes), _[Pölitz Religion](/materials/readings/kant-religion-lectures.pdf)_ lectures, pp. 358-98, 432-40
 -   (Recommended) Beck, &ldquo;[Lessing](/materials/readings/beck-on-lessing.pdf)&rdquo; - from _Early German Philosophy_
 -   (Recommended) Beiser, _[The Fate of Reason](/materials/readings/beiser-fate-2-3.pdf)_, chs. 2-3
