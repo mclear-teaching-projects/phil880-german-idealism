@@ -1,11 +1,9 @@
 +++
 title = "First Passage Analysis – Due 9/10"
-author = ["PHIL 880"]
 publishDate = 2021-09-10T00:00:00-04:00
 tags = ["kant", "passage-analysis"]
 draft = false
 weight = -100
-author = false
 toc = false
 type = "post"
 +++
@@ -15,7 +13,7 @@ describe Kant's argument or point in the passage in as plain English as
 possible. The is due via [email](mailto:mclear@unl.edu) Friday, September 10 by 5 p.m.
 
 
-## <span class="section-num">1</span> First Passage {#first-passage}
+## First Passage {#first-passage}
 
 > Up to now it has been assumed that all our cognition must conform to the
 > objects; but all attempts to find out something about them a priori through
@@ -54,7 +52,7 @@ possible. The is due via [email](mailto:mclear@unl.edu) Friday, September 10 by 
 > we ourselves have put into them. (Bxvii-xviii)
 
 
-## <span class="section-num">2</span> Second Passage {#second-passage}
+## Second Passage {#second-passage}
 
 > There is no doubt whatever that all our cognition begins with experience; for
 > how else should the cognitive faculty be awakened into exercise if not through

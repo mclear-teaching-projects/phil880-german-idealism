@@ -1,49 +1,51 @@
----
-title: "Kant, Spinoza, & the Pantheism Dispute"
-publishDate: 2021-09-07T00:00:00-04:00
-lastmod: 2021-08-22T14:18:31-04:00
-slug: "kant_and_spinoza"
-tags: ["explanation", "kant", "nihilism", "pantheism", "spinoza"]
-draft: true
-weight: 0
-author: false
-type: "post"
----
++++
+title = "Kant, Spinoza, & the Pantheism Dispute"
+publishDate = 2021-09-07T00:00:00-04:00
+tags = ["explanation", "kant", "nihilism", "pantheism", "spinoza"]
+draft = false
+weight = 0
+author = false
+type = "post"
++++
 
-This week's discussion concerns Spinoza, the reception of his thought in Germany (in
-particular the dispute or controversy (the so-called "_Pantheismusstreit_") concerning
-whether Spinozism was accecpted by certain prominent German intellectuals of the time
-(in particular, G.E. Lessing). We'll also look at the extent to which Kant avoids
-Spinozism (as he intends the Critical philosophy to show) despite his own
-philosophical commitments.
+This week&rsquo;s discussion concerns Spinoza, the reception of his thought in Germany (in
+particular the dispute or controversy (the so-called &ldquo;_Pantheismusstreit_&rdquo;) concerning
+whether Spinozism was accepted by certain prominent German intellectuals of the time
+(in particular, G.E. Lessing). We&rsquo;ll also look at the extent to which Kant avoids
+Spinozism (as he intends the Critical philosophy to show) despite similar philosophical commitments.
 
+<style>
+  .ox-hugo-toc ul {
+    list-style: none;
+  }
+</style>
 <div class="ox-hugo-toc toc">
 <div></div>
 
 <div class="heading">Table of Contents</div>
 
-- [1. Who is Spinoza?](#1-dot-who-is-spinoza)
-- [2. What is the "Pantheism Dispute"?](#2-dot-what-is-the-pantheism-dispute)
-- [3. What are the central doctrines of "Spinozism" as received in Germany?](#3-dot-what-are-the-central-doctrines-of-spinozism-as-received-in-germany)
-    - [3-A. Explanatory Rationalism](#3-a-dot-explanatory-rationalism)
-    - [3-B. Substance Monism](#3-b-dot-substance-monism)
-    - [3-C. God & Nature](#3-c-dot-god-and-nature)
-    - [3-D. Freedom](#3-d-dot-freedom)
-- [4. What similarities or differences are there between Kant's views and Spinozism?](#4-dot-what-similarities-or-differences-are-there-between-kant-s-views-and-spinozism)
-    - [4-A. Kant's Explanatory Rationalism](#4-a-dot-kant-s-explanatory-rationalism)
-    - [4-B. Against Monism](#4-b-dot-against-monism)
-    - [4-C. God &ne; Nature](#4-c-dot-god-and-ne-nature)
-    - [4-D. Against Human Bondage](#4-d-dot-against-human-bondage)
-    - [4-E. Agreeing with Spinoza](#4-e-dot-agreeing-with-spinoza)
+- <span class="section-num">1</span> [Who is Spinoza?](#who-is-spinoza)
+- <span class="section-num">2</span> [What is the &ldquo;Pantheism Dispute&rdquo;?](#what-is-the-and-ldquo-pantheism-dispute-and-rdquo)
+- <span class="section-num">3</span> [What are the central doctrines of &ldquo;Spinozism&rdquo; as received in Germany?](#what-are-the-central-doctrines-of-and-ldquo-spinozism-and-rdquo-as-received-in-germany)
+    - <span class="section-num">3.1</span> [Explanatory Rationalism](#explanatory-rationalism)
+    - <span class="section-num">3.2</span> [Substance Monism](#substance-monism)
+    - <span class="section-num">3.3</span> [God & Nature](#god-and-nature)
+    - <span class="section-num">3.4</span> [Freedom](#freedom)
+- <span class="section-num">4</span> [What similarities or differences are there between Kant&rsquo;s views and Spinozism?](#what-similarities-or-differences-are-there-between-kant-and-rsquo-s-views-and-spinozism)
+    - <span class="section-num">4.1</span> [Kant&rsquo;s Explanatory Rationalism](#kant-and-rsquo-s-explanatory-rationalism)
+    - <span class="section-num">4.2</span> [Against Monism](#against-monism)
+    - <span class="section-num">4.3</span> [God Is Not Nature](#god-is-not-nature)
+    - <span class="section-num">4.4</span> [Against Human Bondage](#against-human-bondage)
+    - <span class="section-num">4.5</span> [Agreeing with Spinoza](#agreeing-with-spinoza)
 - [References](#references)
 
 </div>
 <!--endtoc-->
 
 
-## 1. Who is Spinoza? {#1-dot-who-is-spinoza}
+## <span class="section-num">1</span> Who is Spinoza? {#who-is-spinoza}
 
-Bento (in Hebrew, Baruch; in Latin, Benedictus: all three names mean "blessed")
+Bento (in Hebrew, Baruch; in Latin, Benedictus: all three names mean &ldquo;blessed&rdquo;)
 [Spinoza](https://plato.stanford.edu/entries/spinoza/) (1632-1677) was born in Amsterdam and died in The Hague. He was born into a
 community of Portuguese Jews that had settled in the city of Amsterdam in the wake of
 the Portuguese Inquisition (1536), which had resulted in forced conversions and
@@ -71,7 +73,7 @@ undercut the political power exercised in modern states by religious authorities
 also defends, at least as a political ideal, a tolerant, secular, and democratic
 state.
 
-If the _Theological-Political Treatise_ was controversial, Spinoza's _Ethics_ was
+If the _Theological-Political Treatise_ was controversial, Spinoza&rsquo;s _Ethics_ was
 genuinely earth-shaking. So much so that it was not published until after Spinoza
 died, in 1677, though there is some evidence that it was ready to be published at
 least as early as 1675. Writing to his friend Oldenberg Spinoza says,
@@ -101,24 +103,24 @@ TPT. Since the _Ethics_ is an extraordinarily rich work, our discussion will not
 adequate to the topics it covers, nor the depth of detail that they warrant.
 
 
-## 2. What is the "Pantheism Dispute"? {#2-dot-what-is-the-pantheism-dispute}
+## <span class="section-num">2</span> What is the &ldquo;Pantheism Dispute&rdquo;? {#what-is-the-and-ldquo-pantheism-dispute-and-rdquo}
 
-The so-called "Pantheism dispute (or controversy)" (_Pantheismusstreit_) refers to the
+The so-called &ldquo;Pantheism dispute (or controversy)&rdquo; (_Pantheismusstreit_) refers to the
 to the scandal and its aftermath that arose from the public declaration by [Friedrich
 Jacobi](https://plato.stanford.edu/entries/friedrich-jacobi/) that [G.E. Lessing](https://en.wikipedia.org/wiki/Gotthold%5FEphraim%5FLessing), the famous artist, critic, and public intellectual, was in
-fact a spinozist. The public contention of Jacobi's rocked the German intelligentsia,
-and was publicy contested by Lessing's friend, and prominent philosopher, [Moses
+fact a spinozist. The public contention of Jacobi&rsquo;s rocked the German intelligentsia,
+and was publicy contested by Lessing&rsquo;s friend, and prominent philosopher, [Moses
 Mendelssohn](https://plato.stanford.edu/entries/mendelssohn/#ConJacOveLesAllPan).
 
 Though the dispute involved various elements peculiar to German culture at the time,
 it also clearly articulated a set of issues regarding the compatibility of German
-(and largely European) "enlightenment" (_Aufklärung_) ideals with tradition conceptions
-of the self, of God, and of the human being's place in the natural world.
+(and largely European) &ldquo;enlightenment&rdquo; (_Aufklärung_) ideals with tradition conceptions
+of the self, of God, and of the human being&rsquo;s place in the natural world.
 
-Jacobi's contention is that enlightenment rationalism leads to atheism, and the
+Jacobi&rsquo;s contention is that enlightenment rationalism leads to atheism, and the
 annihilation of the self, and thus of responsibility and morality. According to
-Jacobi, Spinoza had subsumed all reality under the One---viz. "substance", "nature",
-or "God"---with the ultimate result being that any real distinction between one
+Jacobi, Spinoza had subsumed all reality under the One---viz. &ldquo;substance&rdquo;, &ldquo;nature&rdquo;,
+or &ldquo;God&rdquo;---with the ultimate result being that any real distinction between one
 individual thing and another and between all things and God, is merely a kind of
 illusion. For Jacobi, Spinoza thus stood as the philosopher par _excellence_.
 Philosophy is or entails Spinozism, and Spinozism in turn is or entails atheism---or
@@ -135,15 +137,15 @@ conception of God.
 > logical phantoms. And in this way they discovered nihilism. (<a href="#citeproc_bib_item_5">Jacobi 1994, 583</a>)
 
 If enlightenment rationalism, instead of freeing us and promoting moral action, in
-fact leads to "nihilism", what is the alternative? Jacobi suggests instead that we
+fact leads to &ldquo;nihilism&rdquo;, what is the alternative? Jacobi suggests instead that we
 base our philosophy on our immediate intuitive knowledge of our own and others
-existence. This immediate knowledge requires a kind of "leap" (_salto mortale_), or
-more literally, a "mortal leap" or somersault in which one flips head over heels. His
-contention is that philosophy (metaphorically) "walks on its head" by allowing itself
+existence. This immediate knowledge requires a kind of &ldquo;leap&rdquo; (_salto mortale_), or
+more literally, a &ldquo;mortal leap&rdquo; or somersault in which one flips head over heels. His
+contention is that philosophy (metaphorically) &ldquo;walks on its head&rdquo; by allowing itself
 to base its views in abstraction and the demands of a certain kind of rational
-explanation. Jacobi contends that such a leap is needed to put one's feet firmly on
+explanation. Jacobi contends that such a leap is needed to put one&rsquo;s feet firmly on
 the correct basis of a kind of rational intuition or common sense. Exactly how this
-immediate knowledge or "intuition" should be understood is something Jacobi never
+immediate knowledge or &ldquo;intuition&rdquo; should be understood is something Jacobi never
 quite succeeds at explaining, leading many (including Lessing himself, Mendelssohn,
 and Kant) to construe Jacobi as advocating for a kind of anti-enlightenment
 irrationalism that privileges convention, faith, and received Scripture as the
@@ -158,26 +160,26 @@ position between the extremes of nihilism (Spinozism) and immediatism (or
 irrationalism).
 
 
-## 3. What are the central doctrines of "Spinozism" as received in Germany? {#3-dot-what-are-the-central-doctrines-of-spinozism-as-received-in-germany}
+## <span class="section-num">3</span> What are the central doctrines of &ldquo;Spinozism&rdquo; as received in Germany? {#what-are-the-central-doctrines-of-and-ldquo-spinozism-and-rdquo-as-received-in-germany}
 
-Spinoza's position is complex, and much disputed. But it is nevertheless possible to
+Spinoza&rsquo;s position is complex, and much disputed. But it is nevertheless possible to
 give a sketch of several positions, as they were received in Germany, that lead to
-the "nihilistic" conclusions to which Jacobi objects. All of these positions are
+the &ldquo;nihilistic&rdquo; conclusions to which Jacobi objects. All of these positions are
 present in his great work, the _Ethics_.  I first briefly list these and then
 address them in further detail below.
 
 1.  Explanatory rationalism
-2.  Substance monism (or simply "monism")
+2.  Substance monism (or simply &ldquo;monism&rdquo;)
 3.  The identification of God with nature
     -   Rejection of a personal god
     -   Rejection of final causation
 4.  The rejection of both leeway and source conceptions of freedom of the will
 
 
-### 3-A. Explanatory Rationalism {#3-a-dot-explanatory-rationalism}
+### <span class="section-num">3.1</span> Explanatory Rationalism {#explanatory-rationalism}
 
-Spinoza advances a version of what I will call "explanatory rationalism" (this is
-sometimes also referred to as "metaphysical rationalism"---e.g.
+Spinoza advances a version of what I will call &ldquo;explanatory rationalism&rdquo; (this is
+sometimes also referred to as &ldquo;metaphysical rationalism&rdquo;---e.g.
 [cite@dasgupta2016]---though they need not be identical). What is explanatory
 rationalism?
 
@@ -185,31 +187,31 @@ Explanatory Rationalism:
 : For every fact _F_, there is a sufficient explanation (or reason) why _F_, rather than _not F_, is the case
 
 To advance explanatory rationalism in this sense is thus to hold what has been called
-the "Principle of Sufficient Reason (or Ground)", or PSR, for short. We can see that
+the &ldquo;Principle of Sufficient Reason (or Ground)&rdquo;, or PSR, for short. We can see that
 Spinoza advances a specific version of the PSR from texts in the first part of the
 _Ethics_:
 
-> For every thing a cause or reason must be assigned either for its
+> E1p11d2: For every thing a cause or reason must be assigned either for its
 > existence or for its non-existence. For example, if a triangle exists,
 > there must be a reason or cause which prevents it from existing, or
 > which annuls its existence. Now this reason or cause must either be
-> contained in the nature of the thing or be external to it. (E1p11d2)
+> contained in the nature of the thing or be external to it.
 >
-> ...[I]f a fixed number of individuals exist in Nature, there must
+> E1p8s2:...[I]f a fixed number of individuals exist in Nature, there must
 > necessarily be a cause why those individuals and not more or fewer,
-> exist. (E1p8s2)
+> exist.
 >
-> That which cannot be conceived through another thing must be conceived
-> through itself. (E1a2)
+> E1a2: That which cannot be conceived through another thing must be conceived
+> through itself.
 >
-> From a given determinate cause there necessarily follows an effect; on
+> E1a3: From a given determinate cause there necessarily follows an effect; on
 > the other hand, if there be no determinate cause it is impossible that
-> an effect should follow. (E1a3)
+> an effect should follow.
 
-There are three important features of Spinoza's explanatory rationalism, and its
+There are three important features of Spinoza&rsquo;s explanatory rationalism, and its
 version of the PSR, that he espouses.
 
-1.  Explanation is specifically restricted to a being's _(non-)existence_.
+1.  Explanation is specifically restricted to a being&rsquo;s _(non-)existence_.
 2.  Explanation is _both_ metaphysical _and_ conceptual
 3.  Explanation is (or at least requires) necessitation
 
@@ -218,17 +220,17 @@ Let me say a bit about each of these points.
 The first point is that, for Spinoza, to say that everything has an explanation is to
 say that for anything that _is_, there is an explanation of its existence. Spinoza
 construes being as coming in two forms---viz. substance and mode (or sometimes
-"accident"). Substance and mode are distinguished by virtue of their dependence
+&ldquo;accident&rdquo;). Substance and mode are distinguished by virtue of their dependence
 relations (or lack thereof). Substance is independent of all being, while modes
 depend on substance for their being. This means that all explanation of modes
 ultimately adverts to substance, while explanation of a substance adverts only to the
 substance itself.
 
 To say, as in the second point, that explanation is both metaphysical and
-conceptual, is to say that "explanation" picks out _both_ a real relation between
-existences (call this the "grounding" relation) _and_ the proper way of conceiving of
-those existences and their relation (Spinoza calls this "adequately conceiving" of
-something or having an "adequate idea" of it). To have an adequate conception of
+conceptual, is to say that &ldquo;explanation&rdquo; picks out _both_ a real relation between
+existences (call this the &ldquo;grounding&rdquo; relation) _and_ the proper way of conceiving of
+those existences and their relation (Spinoza calls this &ldquo;adequately conceiving&rdquo; of
+something or having an &ldquo;adequate idea&rdquo; of it). To have an adequate conception of
 something is to understand that thing _through_ its ground.
 
 Finally, Spinoza understands grounding relations (and the contents of the ideas of
@@ -245,22 +247,22 @@ though there are general explanatory laws one can articulate, all explanation is
 ultimately based in particular existences and is not a general feature of things.
 
 
-### 3-B. Substance Monism {#3-b-dot-substance-monism}
+### <span class="section-num">3.2</span> Substance Monism {#substance-monism}
 
-Spinoza's conception of substance is closely related (and inspired by) Descartes's,
+Spinoza&rsquo;s conception of substance is closely related (and inspired by) Descartes&rsquo;s,
 which says,
 
 > By _substance_ we can understand nothing other than a thing which exists in such a
 > way as to depend on no other thing for its existence. (_Principles_, §51)
 
-However, Descartes denies that the conception of something's being "independent"
+However, Descartes denies that the conception of something&rsquo;s being &ldquo;independent&rdquo;
 applies in the same way to God and to finite (created) beings.
 
-> Hence the term 'substance' does not apply _univocally_, as they say in the Schools,
+> Hence the term &rsquo;substance&rsquo; does not apply _univocally_, as they say in the Schools,
 > to God and other things; that is, there is no distinctly intelligible meaning of
 > the term which is common to God and his creatures. (_Principles_, §51)
 
-For Descartes there is no single sense of the term "substance" (_substantia_; _ousia_)
+For Descartes there is no single sense of the term &ldquo;substance&rdquo; (_substantia_; _ousia_)
 such that it could be applied to both God and to finite beings. This position has
 engendered a significant interpretive literature by contemporary scholars.[^fn:1]
 
@@ -270,56 +272,56 @@ Spinoza adopts the Cartesian definition of substance in terms of independence:
 > is, that the conception of which does not require the conception of another thing
 > from which it has to be formed.
 
-Note Spinoza's point that a substance _is_ "in itself" and is _conceived_ "through
-itself". This is an expression of his explanatory rationalism, in that it concerns
+Note Spinoza&rsquo;s point that a substance _is_ &ldquo;in itself&rdquo; and is _conceived_ &ldquo;through
+itself&rdquo;. This is an expression of his explanatory rationalism, in that it concerns
 both the metaphysical nature of substance and the proper conception of it. In stating
-his definition of "substance" Spinoza is agreeing with Descartes (and scholastic
-Aristotelians) that a substance is an independent being. But given Spinoza's
+his definition of &ldquo;substance&rdquo; Spinoza is agreeing with Descartes (and scholastic
+Aristotelians) that a substance is an independent being. But given Spinoza&rsquo;s
 explanatory rationalism and adherence to the PSR, he construes a substance as a being
 whose existence is not explained through anything else. This contrasts with modes,
 which _are_ beings whose existence is explained through something else.
 
 For Spinoza, what it is to exist (or being) comes in two forms -- existence through
-oneself or through another. He calls the former sort of being "substance" and the
-latter sort of being "mode".
+oneself or through another. He calls the former sort of being &ldquo;substance&rdquo; and the
+latter sort of being &ldquo;mode&rdquo;.
 
-Spinoza's monism flows quite naturally, if controversially, from this division. He
+Spinoza&rsquo;s monism flows quite naturally, if controversially, from this division. He
 ultimately holds that there cannot be more than one being whose existence is
 explained through itself. Hence there is only one substance and all other beings are
-merely modes of this one---this is often expressed in the Greek motto "Hen kai pan"
-or "all in one" that Jacobi attributes to Lessing in his confession of Spinozism.[^fn:2]
+merely modes of this one---this is often expressed in the Greek motto &ldquo;Hen kai pan&rdquo;
+or &ldquo;all in one&rdquo; that Jacobi attributes to Lessing in his confession of Spinozism.[^fn:2]
 
 
-### 3-C. God & Nature {#3-c-dot-god-and-nature}
+### <span class="section-num">3.3</span> God & Nature {#god-and-nature}
 
-Spinoza's monism argument establishes that all plurality is a plurality of modes, and
-that such modes are "in" another being---substance---of which there is only, God. To
-say that all things are "in" God is not yet to say something with which much of
+Spinoza&rsquo;s monism argument establishes that all plurality is a plurality of modes, and
+that such modes are &ldquo;in&rdquo; another being---substance---of which there is only, God. To
+say that all things are &ldquo;in&rdquo; God is not yet to say something with which much of
 organized Judeo-Christianity would disagree. For example, consider the Paulinian
-claim that "In him [God] we live and move and have our being" (Acts 17:28). Spinoza's
+claim that &ldquo;In him [God] we live and move and have our being&rdquo; (Acts 17:28). Spinoza&rsquo;s
 heresy is to reject that God is in any sense like a person---God has neither
 understanding nor will, nor does God do anything for a purpose or end.
 
-Spinoza argues against God's "personality" (i.e. of God being a person). He denies
+Spinoza argues against God&rsquo;s &ldquo;personality&rdquo; (i.e. of God being a person). He denies
 the Judeo-Christian conception of God as willing or understanding that which depends
-on (or is "in") him. Spinoza says, "God, or Nature, acts from the same necessity from
-which he exists" (IV, Preface) and understands this necessity as akin to mathematical
+on (or is &ldquo;in&rdquo;) him. Spinoza says, &ldquo;God, or Nature, acts from the same necessity from
+which he exists&rdquo; (IV, Preface) and understands this necessity as akin to mathematical
 necessity:
 
 > E1p17s1: all things have necessarily flowed, or always followed, by the same
 > necessity and in the same way as from the nature of a triangle it follows, from
 > eternity and to eternity, that its three angles are equal to two right angles
 
-Hence, all that exists flows from God's essence, without it needing to be the case
+Hence, all that exists flows from God&rsquo;s essence, without it needing to be the case
 that God understands or decrees/wills anything.
 
-Spinoza argues against there being a purpose (or "final cause") to any existence as
+Spinoza argues against there being a purpose (or &ldquo;final cause&rdquo;) to any existence as
 follows.
 
 > E1Appendix: if the things which have been produced immediately by God had been made
 > so that God would achieve his end, then the last things, for the sake of which the
 > first would have been made, would be the most excellent of all. ... [T]his doctrine
-> takes away God's perfection. For if God acts for the sake of an end, he necessarily
+> takes away God&rsquo;s perfection. For if God acts for the sake of an end, he necessarily
 > wants something which he lacks. And though the theologians and metaphysicians
 > distinguish between an end of need and an end of assimilation, they nevertheless
 > confess that God did all things for his own sake, not for the sake of the things to
@@ -341,18 +343,18 @@ Acting for ends, or final causation, is instead merely a feature of finite minds
 independent of the strivings of such finite beings.
 
 
-### 3-D. Freedom {#3-d-dot-freedom}
+### <span class="section-num">3.4</span> Freedom {#freedom}
 
 Spinoza understands actions done from causes external to oneself to be a kind of
 bondage, or unfreedom. Such actions thereby manifest a lack of power. Spinoza does
 _not_, however, consider free action to be action done in the absence of any
-necessitation. Rather, he views free action as done from the necessity of one's own
+necessitation. Rather, he views free action as done from the necessity of one&rsquo;s own
 nature, rather than something external to it.
 
 > E1d7: That thing is called free which exists from the necessity of its nature alone, and is determined to act by itself alone. But a thing is called necessary, or rather compelled, which is determined by another to exist and to produce an effect in a certain and determinate manner.
 
 The being that exists from the necessity of its nature alone is God. Hence only God
-is "free" in the sense with which Spinoza is concerned. Human beings are always, at
+is &ldquo;free&rdquo; in the sense with which Spinoza is concerned. Human beings are always, at
 least to some extent, necessitated by things external to their own nature  What then
 to say about the freedom of human beings?
 
@@ -363,7 +365,7 @@ external to her.
 > E4Appendix: The desires which follow from our nature in such a way that they can be understood through it alone are those that related to the mind insofar as it is conceived to consist of adequate ideas. The remaining desires are not related to the mind except insofar as it conceives things inadequately, and their force and growth must be defined not by human power, but by the power of things that are outside us.
 
 But the nature of any finite thing is to be determined by causes external to it. We
-see this from Spinoza's discussion of finite modes in E1:
+see this from Spinoza&rsquo;s discussion of finite modes in E1:
 
 > E1p28: Every singular thing, or any thing which is finite and has a determinate existence, can neither exist nor be determined to produce an effect unless it is determined to exist and produce an effect by another cause, which is also finite and has a determinate existence; and again, this cause also can neither exist nor be determined to produce an effect unless it is determined to exist and produce an effect by another, which is also finite and has a determinate existence, and so on, to infinity.
 
@@ -372,28 +374,28 @@ more like the virtue and free human being, but we can never perfectly realize th
 ideal since it would mean being totally self-determining and that characteristic is
 true only of God and not of its modes. Humans thus lack freedom both in the sense
 that any particular human action cannot be other than it is (there is no
-"leeway"---no "alternative possibilities" of action) and that no action has its
+&ldquo;leeway&rdquo;---no &ldquo;alternative possibilities&rdquo; of action) and that no action has its
 source solely in the human agent (there is no sense in which each of is the ultimate
 source of our own actions).
 
-It is often argued that Spinoza's system is "necessitarian" in the sense that (i) all
+It is often argued that Spinoza&rsquo;s system is &ldquo;necessitarian&rdquo; in the sense that (i) all
 truths are necessarily true; (ii) all existing beings necessarily exist.[^fn:3]
-However, this characterization of Spinoza's position is somewhat anachronistic. It
-would be better to say that Spinoza's system explains why everything that exists does
+However, this characterization of Spinoza&rsquo;s position is somewhat anachronistic. It
+would be better to say that Spinoza&rsquo;s system explains why everything that exists does
 so, and why nothing else exists. One can say of these explanations, that they are
 necessary but this amounts to nothing more than a claim about what follows from the
 nature of what. As Spinoza puts it:
 
 > E1p33s1: A thing is called necessary either by reason of its essence or by reason of its
-> cause. For a thing's existence follows necessarily either from its essence and
+> cause. For a thing&rsquo;s existence follows necessarily either from its essence and
 > definition or from a given efficient cause. And a thing is also called impossible
 > from these same causes---namely, either because its essence, or definition, involves
 > a contradiction, or because there is no external cause which has been determined to
 > produce such a thing.
 
-So the concept "necessary" is simply a label for the way in which something follows
+So the concept &ldquo;necessary&rdquo; is simply a label for the way in which something follows
 from the esssence or (real) definition of a thing, or from its cause. This once again
-tracks Spinoza's explanatory rationalism, in that all things are explained through
+tracks Spinoza&rsquo;s explanatory rationalism, in that all things are explained through
 themselves or through something else. Spinoza thus reduces claims of
 necessity/impossibility to truths about essences and what follows from them.
 
@@ -401,7 +403,7 @@ Similarly, Spinoza denies that there is any contingency or possibility apart fro
 way in which finite minds apprehend things.
 
 > E1p33s1: a thing is called contingent only because of a defect of our knowledge.
-> For if we do not know that the thing's essence involves a contradiction, or if we
+> For if we do not know that the thing&rsquo;s essence involves a contradiction, or if we
 > do know very well that its essence does not involve a contradiction, and
 > nevertheless can affinn nothing certainly about its existence, because the order of
 > causes is hidden from us, it can never seem to us either necessary or impossible.
@@ -416,33 +418,33 @@ admits of an explanation. To think that there is is a kind of illusion generated
 the limitations of our own minds.
 
 
-## 4. What similarities or differences are there between Kant's views and Spinozism? {#4-dot-what-similarities-or-differences-are-there-between-kant-s-views-and-spinozism}
+## <span class="section-num">4</span> What similarities or differences are there between Kant&rsquo;s views and Spinozism? {#what-similarities-or-differences-are-there-between-kant-and-rsquo-s-views-and-spinozism}
 
 Kant also endorses a form of explanatory rationalism. However, he denies nearly all
-the aspects of Spinoza's system. That is, he denies substance monism, the
-identification of God with nature (and the concomitant claims regarding God's
+the aspects of Spinoza&rsquo;s system. That is, he denies substance monism, the
+identification of God with nature (and the concomitant claims regarding God&rsquo;s
 personality, and final causation), and (perhaps most importantly) he denies that
 human beings cannot act freely---instead defending the view that human agents are the
 ultimate sources of their actions. However, there are also some notable ways in which
 Kant and Spinoza agree. I take these points in turn.
 
 
-### 4-A. Kant's Explanatory Rationalism {#4-a-dot-kant-s-explanatory-rationalism}
+### <span class="section-num">4.1</span> Kant&rsquo;s Explanatory Rationalism {#kant-and-rsquo-s-explanatory-rationalism}
 
-Kant's acceptance of explanatory rationalism, and with it a version of the PSR, is
+Kant&rsquo;s acceptance of explanatory rationalism, and with it a version of the PSR, is
 complicated by the fact that he ultimately denies that we can have what he calls
-"cognition" and ultimately scientific knowledge, of anything through an application
+&ldquo;cognition&rdquo; and ultimately scientific knowledge, of anything through an application
 of the PSR alone. Instead, all cognition and knowledge must be based in a joint
 contribution by both the senses and the intellect. For matters concerning which no
 such sensory contribution is possible there can be no knowledge.
 
-Kant endorses the PSR as a law of reason's activity, which is to say, our capacity
+Kant endorses the PSR as a law of reason&rsquo;s activity, which is to say, our capacity
 for reason always seeks to find the (sufficient) condition for any conditioned
 object, until we come to somthing that is (i) the condition for all other conditioned
-objects; (ii) itself "unconditioned" in the sense that nothing is a condition for _it_.
+objects; (ii) itself &ldquo;unconditioned&rdquo; in the sense that nothing is a condition for _it_.
 
 Kant articulates versions of these claims at the end of the Introduction to the
-Dialectic to the first _Critique_. He says (I've added brackets to mark claims)
+Dialectic to the first _Critique_. He says (I&rsquo;ve added brackets to mark claims)
 
 > [A] the proper principle of reason in general (in its logical use) is
 > to find the unconditioned for conditioned cognitions of the
@@ -455,52 +457,52 @@ Dialectic to the first _Critique_. He says (I've added brackets to mark claims)
 > however, is obviously **synthetic**; for the conditioned is analytically
 > related to some condition, but not to the unconditioned. (A307-8/B364)
 
-Kant makes three important claims in this passage, which I've marked out
+Kant makes three important claims in this passage, which I&rsquo;ve marked out
 in brackets as [A]--[C]. In [A] Kant articulates what he calls the
-"logical maxim" of reason:
+&ldquo;logical maxim&rdquo; of reason:
 
 The logical maxim of reason:
 : find the unconditioned for conditioned
     cognitions of the understanding, such that their unity is completed
 
 He also argues for another principle [B], that he later goes on to call
-the "supreme principle of pure reason" (A308/B365), a principle which he
-thinks is "obviously synthetic" [C].
+the &ldquo;supreme principle of pure reason&rdquo; (A308/B365), a principle which he
+thinks is &ldquo;obviously synthetic&rdquo; [C].
 
 The supreme principle of pure reason:
 : when the conditioned is
     given, then so is the whole series of conditions subordinated one to
     the other, which is itself unconditioned, also given
 
-Kant construes the distinctive activity of reason, in its "logical" use, as grasping
-or "comprehending" (_Begreifen_) the conditioning relation between materially distinct
+Kant construes the distinctive activity of reason, in its &ldquo;logical&rdquo; use, as grasping
+or &ldquo;comprehending&rdquo; (_Begreifen_) the conditioning relation between materially distinct
 cognitions or judgments, such that the assertion of one judgment is the sufficient
 ground for the assertion of the other, to the exclusion of its opposite. In effect,
 the logical maxim is the drive or exhortation to do this until there is no further
-possible condition for assertion. Thus the "completed unity" of the cognitions of the
+possible condition for assertion. Thus the &ldquo;completed unity&rdquo; of the cognitions of the
 understanding is found in that system of inferences in which a (sufficient) condition
 for the assertion or truth of every cognition or judgment is provided.
 
 But Kant considers the logical maxim as requiring the satisfaction of a further
-condition before it can be eligible for being a "principle of pure reason", where by
-"pure reason" Kant seems to mean reason in its "real use" as a faculty of
+condition before it can be eligible for being a &ldquo;principle of pure reason&rdquo;, where by
+&ldquo;pure reason&rdquo; Kant seems to mean reason in its &ldquo;real use&rdquo; as a faculty of
 cognition.[^fn:4] Why is it ineligible as stated? Kant claims that it requires the
-further assumption that "when the conditioned is given, then so is the whole series
+further assumption that &ldquo;when the conditioned is given, then so is the whole series
 of conditions subordinated one to the other, which is itself unconditioned, also
-given". This is an existence claim about condition and conditioned. The maxim thus
+given&rdquo;. This is an existence claim about condition and conditioned. The maxim thus
 enjoins any use of reason to _seek_ conditions for some conditioned being, while the
 principle of reason says that there _exist_ conditions for any conditioned being, and
-that the whole series of such conditions must be "given".
+that the whole series of such conditions must be &ldquo;given&rdquo;.
 
-As we've seen though, Kant denies that we can be "given" in sensory experience
+As we&rsquo;ve seen though, Kant denies that we can be &ldquo;given&rdquo; in sensory experience
 (specifically, in intuition) any unconditioned condition of an object of experience.
-So the law through which reason acts (i.e. the PSR as the "supreme principle" of
-reason) will not be satisfied by anything we can experience. Kant's view is thus that
-theoretical or "speculative" reason is always left unsatisfied with regard to its
+So the law through which reason acts (i.e. the PSR as the &ldquo;supreme principle&rdquo; of
+reason) will not be satisfied by anything we can experience. Kant&rsquo;s view is thus that
+theoretical or &ldquo;speculative&rdquo; reason is always left unsatisfied with regard to its
 comprehension of what may possibly be experienced.
 
 
-### 4-B. Against Monism {#4-b-dot-against-monism}
+### <span class="section-num">4.2</span> Against Monism {#against-monism}
 
 Kant denies that we are mere modes of a single unitary substance. For example in his
 lectures on religion he is reported to argue that,
@@ -522,7 +524,7 @@ substance in which everything inheres either I, as subject, am this substance, a
 therefore God — which contradicts my dependence, or I am an accident — which
 contradicts my awareness of myself as subject, as “I” (28:1052; cf. 28:1042).[^fn:5]
 
-Kant's claims here are somewhat puzzling. One thing he could be arguing is simply
+Kant&rsquo;s claims here are somewhat puzzling. One thing he could be arguing is simply
 that we are conceptually, and therefore rationally, unable to construe ourselves as
 anything other than substances capable of thinking (though this need not mean we must
 construe ourselves, with Descartes, as specifically _mental_ substances). Something
@@ -541,7 +543,7 @@ However, Kant does appear to be arguing something stronger in the lectures, name
 that we (in some sense) _perceive_ or are otherwise conscious of the status of
 ourselves as substances, and thus as the ultimate explanatory locus of our acts of
 thinking. Kant says something similar in the second edition of the Paralogisms,
-arguing that "in the consciousness of myself in mere thinking I am the **being itself**"
+arguing that &ldquo;in the consciousness of myself in mere thinking I am the **being itself**&rdquo;
 (B429; emphasis in original), which indicates that though I have no cognition of
 myself (for that would require intuition), I nevertheless am _conscious_ of myself as
 the subject of my thoughts — as being the being itself who is thinking this very
@@ -551,30 +553,30 @@ Thus Kant seems to be arguing not merely that our self-conception is one of ours
 as substantial thinkers, but also that we are _conscious_ of ourselves as such. This
 might seem to simply beg the question against Spinoza, and indeed it may. In order to
 avoid such a charge Kant would seem to need some further argument, for the kind of
-"immediate consciousness" to which Kant appeals might otherwise seem mysterious. And
+&ldquo;immediate consciousness&rdquo; to which Kant appeals might otherwise seem mysterious. And
 there do seem to be at least two avenues for Kant to pursue in making such an
-argument (though I won't pursue them in any detail here). The first contends that the
+argument (though I won&rsquo;t pursue them in any detail here). The first contends that the
 only possible explanation of the source of our conceptual content for <substance>
 comes from the consciousness of ourselves as such substances. A second argument is
 that the only explanation for our consciouness (and presumably knowledge) of our
 actions as _ours_ (e.g. of the thought I am currently thinking as _my_ thought and not
-someone else's) is due to the agency/causal ultimacy with which we act in so
+someone else&rsquo;s) is due to the agency/causal ultimacy with which we act in so
 thinking.[^fn:7]
 
 Kant also has a further route to claiming that there is more than one substance. He
 contends that each of us, as rational beings, are conscious of ourselves as subject
 to the moral law. But the moral law is a law that holds of and between _persons_ as
-ultimate moral subjects. Thus, at least on what Kant calls "practical" or "moral"
+ultimate moral subjects. Thus, at least on what Kant calls &ldquo;practical&rdquo; or &ldquo;moral&rdquo;
 grounds, we have reason to hold that there are a plurality of substances that stand
 (or are capable of standing) in moral relations to one another.
 
 
-### 4-C. God &ne; Nature {#4-c-dot-god-and-ne-nature}
+### <span class="section-num">4.3</span> God Is Not Nature {#god-is-not-nature}
 
-Recall that Spinoza's claim that God and nature are the same relies on two further
+Recall that Spinoza&rsquo;s claim that God and nature are the same relies on two further
 claims, namely that God is not a _person_, in the sense of lacking an understanding and
 will, and that God does not act for any end or purpose. Kant rejects both of these
-positions. On Kant's view God does not act "blindly" or "mechanically" out of the
+positions. On Kant&rsquo;s view God does not act &ldquo;blindly&rdquo; or &ldquo;mechanically&rdquo; out of the
 sheer necessity of his (its) nature. Rather God represents that which is to be done
 (through its intellect) and wills that it be done (through its will). In this sense
 God acts for ends, which he/it realizes through his/its power. Kant contends that
@@ -583,26 +585,26 @@ that the mind of God is not _discursive_ but is rather an intuitive intellect.
 
 Recall that an intuitive intellect has four key features---viz. it is (i)
 intellectual, (ii) comprehensive, (iii) productive, and (iv) non-discursive. Kant
-thus contends that God's intuitive intellect, though radically different from our own
+thus contends that God&rsquo;s intuitive intellect, though radically different from our own
 discursive intellect, is nevertheless similar in having an understanding and will,
 and in acting for ends.
 
 One issue facing Kant is that, if personhood requires possession of both an
 understanding and a will, it is unclear how one should ultimately differentiate these
 in the intuitive intellect of God. In finite beings the will is defined as the
-faculty of desire, which is "the faculty of the soul for becoming the cause of the
+faculty of desire, which is &ldquo;the faculty of the soul for becoming the cause of the
 actuality of the object through the representation of the object itself” (29:1012;
 see also An 7:251; 6:211, 399; 29:894, 1024; 25:577, 1109, 1514). This is in contrast
 to the understanding, which is _not_ the cause of the actuality of the object through
-the represdentation of it. But since God's intellect is _productive_ there is no gap
-between God's representation of an object and its actuality or existence. Perhaps the
+the represdentation of it. But since God&rsquo;s intellect is _productive_ there is no gap
+between God&rsquo;s representation of an object and its actuality or existence. Perhaps the
 best Kant can say here is that personality requires, not two distinct faculties, but
 rather the ability to represent objects and the ability to actualize the objects of
-one's representation. In finite beings these abilities are distinct, while in God
+one&rsquo;s representation. In finite beings these abilities are distinct, while in God
 they are unitary.
 
 Kant also faces a second problem. Recall that part of the equation of God and nature
-for Spinoza stems from the way in which reality follows directly from God's essence,
+for Spinoza stems from the way in which reality follows directly from God&rsquo;s essence,
 without any choice, decision, end, or other representation being involved. Spinoza
 states that,
 
@@ -612,12 +614,12 @@ states that,
 
 So, just as we do not need to construe a triangle as a person to explain the sense in
 which it follows from the essence of a triangle that its three angles are equal to
-two right angles, so too we do not need to construe reality as "flowing from" God's
+two right angles, so too we do not need to construe reality as &ldquo;flowing from&rdquo; God&rsquo;s
 essence by virtue of any personal attribute of God.
 
-Hence, for Kant, to avoid the charge of "blind mechanism" (let's call it), there
-needs to be some gap between what follows directly from God's essence, and what
-follows from God's understanding and will.[^fn:8] As he puts it,
+Hence, for Kant, to avoid the charge of &ldquo;blind mechanism&rdquo; (let&rsquo;s call it), there
+needs to be some gap between what follows directly from God&rsquo;s essence, and what
+follows from God&rsquo;s understanding and will.[^fn:8] As he puts it,
 
 > The absolute necessity of his nature and his essence [_seiner Natur und seines
 > Wesens_] does not make his actions absolutely necessary. The absolute necessity of
@@ -625,7 +627,7 @@ follows from God's understanding and will.[^fn:8] As he puts it,
 > his will [_Willkühr_].” (28:335, see also 342)
 
 Thus if there are to be things (substances) distinct from God, that are nevertheless
-explained through God's personality, it must be that they are the effect of God's
+explained through God&rsquo;s personality, it must be that they are the effect of God&rsquo;s
 causality through the exercise of his will.
 
 Since God acts not through blind necessity but through will, Kant contends that there
@@ -640,23 +642,23 @@ good). However, Kant rejects that this means that God is imperfect or has needs.
 > in [_beim_] the human being is duty) cannot be represented by us other than as a
 > moral need. (Ak. 8:280n)
 
-So, Kant contends that we must see God's creative act (i.e. the act through which all
+So, Kant contends that we must see God&rsquo;s creative act (i.e. the act through which all
 of reality is created) is one according to which God acts because it is _good_ so act,
-and not merely from the necessity of God's nature.
+and not merely from the necessity of God&rsquo;s nature.
 
 None of this shows that Spinoza is _wrong_ so much as that his conclusion concerning
 the equation between God and nature is not an inevitable one. Kant is able to carve out
 a distinctive and epistemically possible position regarding God and his/its acts that
 holds God separate from the rest of nature, or reality as a whole, at least in the
-sense that the rest of reality is not "in" God in Spinoza's sense.
+sense that the rest of reality is not &ldquo;in&rdquo; God in Spinoza&rsquo;s sense.
 
 
-### 4-D. Against Human Bondage {#4-d-dot-against-human-bondage}
+### <span class="section-num">4.4</span> Against Human Bondage {#against-human-bondage}
 
 Spinoza conceives of freedom as complete independence from any external cause. Only
 God (substance) possesses such freedom. Human beings are always in some degree of
-"bondage" in that they are always subject to external causes to some degree or other.
-Kant does not deny this fact, but he nevertheless argues that human beings are "free"
+&ldquo;bondage&rdquo; in that they are always subject to external causes to some degree or other.
+Kant does not deny this fact, but he nevertheless argues that human beings are &ldquo;free&rdquo;
 in the sense that they can be the ultimate causal sources of their actions, even if
 they are also often subject to external causal determining forces.
 
@@ -676,9 +678,9 @@ structured causal ground either within or without the agent. Kant denies that we
 ever know whether an act is free in this sense (A557/B585), but he holds that it is
 at least logically/epistemically possible that there is such freedom.
 
-Kant's view is that the "imputability" of an act---its status as an act for which
+Kant&rsquo;s view is that the &ldquo;imputability&rdquo; of an act---its status as an act for which
 one is ultimately responsible and morally evaluable in terms of attitudes of praise
-and blame---rests on being the "author" of the act.
+and blame---rests on being the &ldquo;author&rdquo; of the act.
 
 > _Auctor_ is an originator of action. Originator means that in regard to its
 > determining grounds the action can, in its first beginnings, be derived from him.
@@ -699,10 +701,10 @@ Kant considers such causal ultimacy to be present in all of our intellectual or
 rational actions, not just those involving the will. We can never have theoretical
 knowledge of our freedom in this sense, but nor can it be disproved that we lack such
 freedom. Moreover, since we must _assume_ freedom as part of acting, Kant thinks we are
-rational to hold that we free in this "transcendental" sense.[^fn:9]
+rational to hold that we free in this &ldquo;transcendental&rdquo; sense.[^fn:9]
 
 
-### 4-E. Agreeing with Spinoza {#4-e-dot-agreeing-with-spinoza}
+### <span class="section-num">4.5</span> Agreeing with Spinoza {#agreeing-with-spinoza}
 
 In a note from 1797 Kant says that
 
@@ -724,7 +726,7 @@ the early 1790’s,
 > omnipresent, nothing can be thought outside of it, everything is in it (_Metaphysik L\_2_
 > (1790/91?), 28:567).
 
-Hence one point of agreement is that Kant holds that Spinoza's view follows if time
+Hence one point of agreement is that Kant holds that Spinoza&rsquo;s view follows if time
 and space are not taken to be ideal in the way for which Kant argues.[^fn:10] That
 said, it has been a considerable source of perplexity as to _why_ Kant thinks this.[^fn:11]
 
@@ -733,21 +735,21 @@ construes modality as reducible either to facts about essences and what follows 
 them (as is the case with necessity and impossibility) or reducible to our own
 epistemic ignorance or finitude (as is the case with possibility and contingency).
 
-In §76 of the third **Critique** Kant claims that an intuitive intellect, such as God's,
-"would have no objects except what is actual" (5:401-2). Kant's corollary claim, that
-modal categories are "merely subjectively valid for the human understanding" and are
-"not valid of objects in general" (5:402) apparently commits him to a metaphysical
+In §76 of the third **Critique** Kant claims that an intuitive intellect, such as God&rsquo;s,
+&ldquo;would have no objects except what is actual&rdquo; (5:401-2). Kant&rsquo;s corollary claim, that
+modal categories are &ldquo;merely subjectively valid for the human understanding&rdquo; and are
+&ldquo;not valid of objects in general&rdquo; (5:402) apparently commits him to a metaphysical
 thesis about the status of modal properties.[^fn:12] Kant thus agrees with Spinoza
 that reality ultimately lacks irreducible modal properties. There is only what is, in
 the sense of what God intuits.
 
 Finally, Kant also agrees with Spinoza that we are rationally required to conceive of
 God as existing and as the ultimate explanatory basis of the unity of phenomenal
-nature (i.e. what we could possibly experience) and a moral "kingdom of ends" (i.e.
+nature (i.e. what we could possibly experience) and a moral &ldquo;kingdom of ends&rdquo; (i.e.
 the totality of persons with whom moral relations could obtain).
 
 However, Kant (in contrast to Spinoza), argues for this position via argument for the
-necessity of using the concept of a final end or purpose. In Kant's view we must
+necessity of using the concept of a final end or purpose. In Kant&rsquo;s view we must
 assume a teleology of ends in phenomenal nature, in order to explain the
 systematicity of a scientific understanding of it. We must also assume a teleology of
 ends with regard to morality, since all moral beings pursue the highest good (i.e.
@@ -765,7 +767,7 @@ condition _both_ for reasoning concerning the cognitions constituting a system o
 nature _and_ for reasoning concerning the cognitions constituting a system of freedom
 (or morality). With respect to nature, with regard to reasoning concerning nature,
 the systematicity and (finite) intelligibility of the laws (i.e. conditions) of
-nature must be presupposed. Kant's position is that only the concept of nature as
+nature must be presupposed. Kant&rsquo;s position is that only the concept of nature as
 resulting from the purposeful activity of an organizing intelligence (i.e. God) can
 assure this possibility.
 
@@ -814,9 +816,9 @@ morality.
 </div>
 
 [^fn:1]: See (<a href="#citeproc_bib_item_15">Schechtman 2016</a>) for an overview.
-[^fn:2]: For more on the details of Spinoza's monism argument see my notes [here](https://notebook.colinmclear.net/teaching-notes/spinoza%5Fmonism/).
-[^fn:3]: See the [SEP entry](https://plato.stanford.edu/entries/spinoza-modal/) on Spinoza's modal metaphysics for a survey of recent positions.
-[^fn:4]: Kant also talks of the real use of reason in terms of a "transcendental faculty" (A299/B355-6), which is broadly consistent with his use of "pure" with respect to other "transcendental faculties" such as pure apperception, or pure sensibility (i.e. the pure forms).
+[^fn:2]: For more on the details of Spinoza&rsquo;s monism argument see my notes [here](https://notebook.colinmclear.net/teaching-notes/spinoza%5Fmonism/).
+[^fn:3]: See the [SEP entry](https://plato.stanford.edu/entries/spinoza-modal/) on Spinoza&rsquo;s modal metaphysics for a survey of recent positions.
+[^fn:4]: Kant also talks of the real use of reason in terms of a &ldquo;transcendental faculty&rdquo; (A299/B355-6), which is broadly consistent with his use of &ldquo;pure&rdquo; with respect to other &ldquo;transcendental faculties&rdquo; such as pure apperception, or pure sensibility (i.e. the pure forms).
 [^fn:5]: See (<a href="#citeproc_bib_item_2">Allison 1980, 207</a>; <a href="#citeproc_bib_item_17">Wuerth 2014, 143–44 and ch. 5</a> passim) for relevant discussion.
 [^fn:6]: For further discussion of these and related issues see (<a href="#citeproc_bib_item_3">Ameriks 2000, 69–70</a>; <a href="#citeproc_bib_item_14">Pereboom 2006</a>; <a href="#citeproc_bib_item_8">Marshall 2010</a>; <a href="#citeproc_bib_item_17">Wuerth 2014, 167–69</a>; <a href="#citeproc_bib_item_10">McLear 2020a</a>).
 [^fn:7]: For discussion of these two arguments see, for the first (<a href="#citeproc_bib_item_11">McLear 2020b</a>, <a href="#citeproc_bib_item_10">2020a</a>) and [@cite:mclear2019] for the second.
@@ -824,4 +826,4 @@ morality.
 [^fn:9]: For more extensive discussion of these issues see [@cite:@pippin1987; @wood1984a; @allison1990; @pereboom2006a; @hogan2009a; @allison2020; @mclear2020a].
 [^fn:10]: For discussion of this and related issues see [@cite:mclear-pereboom].
 [^fn:11]: See (<a href="#citeproc_bib_item_12">Messina 2014</a>) for relevant discussion.
-[^fn:12]: : The view is already presented **in nuce** in the first **Critique**; see (A219/B266); see also (, <a href="#citeproc_bib_item_16">Stang 2016, 307</a>; <a href="#citeproc_bib_item_7">Kohl 2015</a>; <a href="#citeproc_bib_item_9">Marshall 2018</a>; , ch. <a href="#citeproc_bib_item_1">Abaci 2019, 9</a>).
+[^fn:12]: : The view is already presented **in nuce** in the first **Critique**; see (A219/B266); see also (<a href="#citeproc_bib_item_16">Stang 2016, 307</a>; <a href="#citeproc_bib_item_7">Kohl 2015</a>; <a href="#citeproc_bib_item_9">Marshall 2018</a>; <a href="#citeproc_bib_item_1">Abaci 2019, chap. 9</a>).
