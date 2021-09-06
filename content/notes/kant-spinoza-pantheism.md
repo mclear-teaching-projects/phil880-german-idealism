@@ -1,5 +1,6 @@
 +++
 title = "Kant, Spinoza, & the Pantheism Dispute"
+author = ["PHIL 880"]
 publishDate = 2021-09-07T00:00:00-04:00
 tags = ["explanation", "kant", "nihilism", "pantheism", "spinoza"]
 draft = false
@@ -29,7 +30,7 @@ Spinozism (as he intends the Critical philosophy to show) despite similar philos
 - <span class="section-num">3</span> [What are the central doctrines of &ldquo;Spinozism&rdquo; as received in Germany?](#what-are-the-central-doctrines-of-and-ldquo-spinozism-and-rdquo-as-received-in-germany)
     - <span class="section-num">3.1</span> [Explanatory Rationalism](#explanatory-rationalism)
     - <span class="section-num">3.2</span> [Substance Monism](#substance-monism)
-    - <span class="section-num">3.3</span> [God & Nature](#god-and-nature)
+    - <span class="section-num">3.3</span> [God or Nature (Deus sive Natura)](#god-or-nature--deus-sive-natura)
     - <span class="section-num">3.4</span> [Freedom](#freedom)
 - <span class="section-num">4</span> [What similarities or differences are there between Kant&rsquo;s views and Spinozism?](#what-similarities-or-differences-are-there-between-kant-and-rsquo-s-views-and-spinozism)
     - <span class="section-num">4.1</span> [Kant&rsquo;s Explanatory Rationalism](#kant-and-rsquo-s-explanatory-rationalism)
@@ -59,7 +60,7 @@ Jewish church, on the basis of his philosophical works (he was at this time only
 the excommunication, it would likely have been due to several doctrines that he
 denied, including the immortality of the soul; the notion of a transcendent,
 providential God---the God of Abraham, Isaac and Jacob; and that the Law was neither
-literally given by God nor binding on Jews (see (<a href="#citeproc_bib_item_13">Nadler 2016</a>)).
+literally given by God nor binding on Jews (see (<a href="#citeproc_bib_item_18">Nadler 2016</a>)).
 
 The two most influential works of Spinoza that are relevant for our purposes are his
 _Ethics_ (1677) and his _Theological-Political Treatise_ (1670). The ostensive aim of the
@@ -88,7 +89,7 @@ least as early as 1675. Writing to his friend Oldenberg Spinoza says,
 > everywhere. When I learned this from certain trustworthy men, who also
 > told me the theologians were everywhere plotting against me, I decided
 > to put off the publication I was planning until I saw how the matter
-> would turn out. (Letter 68, IV/299; quoted in (<a href="#citeproc_bib_item_4">Curley 1994</a>))
+> would turn out. (Letter 68, IV/299; quoted in (<a href="#citeproc_bib_item_6">Curley 1994</a>))
 
 Spinoza died about a year and a half after this---on 21 February, 1677---of a lung
 disease that was possibly due to the dust of the lenses he had been grinding in order
@@ -134,7 +135,7 @@ conception of God.
 > it, of a Providence conscious of its rule, i.e. a personal Providence, the only one
 > that would be truly Providence—the moment he tried this, the object likewise
 > disappeared before the eyes of the demonstrators. They were left with merely
-> logical phantoms. And in this way they discovered nihilism. (<a href="#citeproc_bib_item_5">Jacobi 1994, 583</a>)
+> logical phantoms. And in this way they discovered nihilism. (<a href="#citeproc_bib_item_8">Jacobi 1994, 583</a>)
 
 If enlightenment rationalism, instead of freeing us and promoting moral action, in
 fact leads to &ldquo;nihilism&rdquo;, what is the alternative? Jacobi suggests instead that we
@@ -168,12 +169,17 @@ the &ldquo;nihilistic&rdquo; conclusions to which Jacobi objects. All of these p
 present in his great work, the _Ethics_.  I first briefly list these and then
 address them in further detail below.
 
+<div type="A">
+  <div></div>
+
 1.  Explanatory rationalism
 2.  Substance monism (or simply &ldquo;monism&rdquo;)
 3.  The identification of God with nature
     -   Rejection of a personal god
     -   Rejection of final causation
 4.  The rejection of both leeway and source conceptions of freedom of the will
+
+</div>
 
 
 ### <span class="section-num">3.1</span> Explanatory Rationalism {#explanatory-rationalism}
@@ -292,15 +298,16 @@ merely modes of this one---this is often expressed in the Greek motto &ldquo;Hen
 or &ldquo;all in one&rdquo; that Jacobi attributes to Lessing in his confession of Spinozism.[^fn:2]
 
 
-### <span class="section-num">3.3</span> God & Nature {#god-and-nature}
+### <span class="section-num">3.3</span> God or Nature (Deus sive Natura) {#god-or-nature--deus-sive-natura}
 
 Spinoza&rsquo;s monism argument establishes that all plurality is a plurality of modes, and
-that such modes are &ldquo;in&rdquo; another being---substance---of which there is only, God. To
-say that all things are &ldquo;in&rdquo; God is not yet to say something with which much of
-organized Judeo-Christianity would disagree. For example, consider the Paulinian
-claim that &ldquo;In him [God] we live and move and have our being&rdquo; (Acts 17:28). Spinoza&rsquo;s
-heresy is to reject that God is in any sense like a person---God has neither
-understanding nor will, nor does God do anything for a purpose or end.
+that such modes are &ldquo;in&rdquo; another being---substance---of which there is only, God, or
+alternatively, nature. To say that all things are &ldquo;in&rdquo; God is not yet to say
+something with which much of organized Judeo-Christianity would disagree. For
+example, consider the Paulinian claim that &ldquo;In him [God] we live and move and have
+our being&rdquo; (Acts 17:28). Spinoza&rsquo;s heresy is to reject that God is in any sense like
+a person---God has neither understanding nor will, nor does God do anything for a
+purpose or end.
 
 Spinoza argues against God&rsquo;s &ldquo;personality&rdquo; (i.e. of God being a person). He denies
 the Judeo-Christian conception of God as willing or understanding that which depends
@@ -798,32 +805,39 @@ morality.
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Abaci, Uygar. 2019. <i><a href="https://doi.org/">Kant’s Revolutionary Theory of Modality</a></i>. Oxford: Oxford University Press.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Allison, Henry E. 1980. <a href="https://doi.org/">“Kant’s Critique of Spinoza.</a>” In <i>The Philosophy of Baruch Spinoza</i>, edited by Richard Kennington, 199–227. Washington D.C.: The Catholic University of America Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Ameriks, Karl. 2000. <i><a href="https://doi.org/">Kant’s Theory of Mind: An Analysis of the Paralogisms of Pure Reason</a></i>. New York: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Curley, E. M. 1994. <a href="https://doi.org/">“Introduction.</a>” In <i>A Spinoza Reader: The Ethics and Other Works</i>, edited by  , ix-xxv. Princeton, N.J: Princeton University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>Jacobi, Friedrich Heinrich. 1994. <i><a href="https://doi.org/">Main Philosophical Writings and the Novel Allwill</a></i>. McGill-Queen’s Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>Kain, Patrick. 2015. <a href="https://doi.org/">“The Development of Kant’s Conception of Divine Freedom.</a>” In <i>Leibniz and Kant</i>, edited by Brandon C Look. Oxford: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>Kohl, Markus. 2015. “Kant on the Inapplicability of the Categories to Things in Themselves.” <i>British Journal for the History of Philosophy</i> 23 (1): 90–114. doi:<a href="https://doi.org/10.1080/09608788.2014.978838">10.1080/09608788.2014.978838</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_8"></a>Marshall, Colin. 2010. <a href="https://doi.org/">“Kant’s Metaphysics of the Self.</a>” <i>Philosophers’ Imprint</i> 10 (8): 1–21.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_9"></a>———. 2018. “Never Mind the Intuitive Intellect: Applying Kant’s Categories to Noumena.” <i>Kantian Review</i> 23 (1): 27–40. doi:<a href="https://doi.org/10.1017/S136941541700036X">10.1017/S136941541700036X</a>.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_10"></a>McLear, Colin. 2020a. <a href="https://doi.org/">“Apperception &#38; the Substantial Subject.</a>” <i>Philosophers’ Imprint</i> 20 (26): 1–38.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_11"></a>———. 2020b. <a href="https://doi.org/">“On the Transcendental Freedom of the Intellect.</a>” <i>Ergo</i> 7 (2): 35–104.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_12"></a>Messina, James. 2014. <a href="https://doi.org/">“Kantian Space, Supersubstantivalism, and the Spirit of Spinoza.</a>” <i>Kant Yearbook</i> 6 (1).</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>Nadler, Steven. 2016. <a href="https://doi.org/">“Baruch Spinoza”</a> The Stanford Encyclopedia of Philosophy.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>Pereboom, Derk. 2006. <a href="https://doi.org/">“Kant on Transcendental Freedom.</a>” <i>Philosophy and Phenomenological Research</i> 73 (3): 537–67.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_15"></a>Schechtman, Anat. 2016. <a href="https://doi.org/">“Substance and Independence in Descartes.</a>” <i>Philosophical Review</i> 125 (2): 155–204.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_16"></a>Stang, Nicholas F. 2016. <i><a href="https://doi.org/">Kant’s Modal Metaphysics</a></i>. New York: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_17"></a>Wuerth, Julian. 2014. <i><a href="https://doi.org/">Kant on Mind, Action, and Ethics</a></i>. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>———. 1990. <i><a href="https://doi.org/">Kant’s Theory of Freedom</a></i>. Cambridge: Cambridge University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>———. 2020. <i><a href="https://doi.org/">Kant’s Conception of Freedom</a></i>. Cambridge: Cambridge University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>Ameriks, Karl. 2000. <i><a href="https://doi.org/">Kant’s Theory of Mind: An Analysis of the Paralogisms of Pure Reason</a></i>. New York: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>Curley, E. M. 1994. <a href="https://doi.org/">“Introduction.</a>” In <i>A Spinoza Reader: The Ethics and Other Works</i>, edited by  , ix-xxv. Princeton, N.J: Princeton University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>Hogan, Desmond. 2009. <a href="https://doi.org/">“Noumenal Affection.</a>” <i>Philosophical Review</i> 118 (4): 501–32.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_8"></a>Jacobi, Friedrich Heinrich. 1994. <i><a href="https://doi.org/">Main Philosophical Writings and the Novel Allwill</a></i>. McGill-Queen’s Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_9"></a>Kain, Patrick. 2015. <a href="https://doi.org/">“The Development of Kant’s Conception of Divine Freedom.</a>” In <i>Leibniz and Kant</i>, edited by Brandon C Look. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_10"></a>Kohl, Markus. 2015. “Kant on the Inapplicability of the Categories to Things in Themselves.” <i>British Journal for the History of Philosophy</i> 23 (1): 90–114. doi:<a href="https://doi.org/10.1080/09608788.2014.978838">10.1080/09608788.2014.978838</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_11"></a>Marshall, Colin. 2010. <a href="https://doi.org/">“Kant’s Metaphysics of the Self.</a>” <i>Philosophers’ Imprint</i> 10 (8): 1–21.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_12"></a>———. 2018. “Never Mind the Intuitive Intellect: Applying Kant’s Categories to Noumena.” <i>Kantian Review</i> 23 (1): 27–40. doi:<a href="https://doi.org/10.1017/S136941541700036X">10.1017/S136941541700036X</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>McLear, Colin. 2019. “The Mind’s ‘I’.” <i>European Journal of Philosophy</i> 27 (1): 255–65. doi:<a href="https://doi.org/10.1111/ejop.12433">10.1111/ejop.12433</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>———. 2020a. <a href="https://doi.org/">“Apperception &#38; the Substantial Subject.</a>” <i>Philosophers’ Imprint</i> 20 (26): 1–38.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_15"></a>———. 2020b. <a href="https://doi.org/">“On the Transcendental Freedom of the Intellect.</a>” <i>Ergo</i> 7 (2): 35–104.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_16"></a>McLear, Colin, and Derk Pereboom. 0BC. <a href="https://doi.org/">“Kant on Transcendental Freedom, Priority Monism, &#38; the Structure of Intuition.</a>” In <i>The Idea of Freedom: New Essays on the Kantian Theory of Freedom</i>, edited by Evan Tiffany and Dai Heide. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_17"></a>Messina, James. 2014. <a href="https://doi.org/">“Kantian Space, Supersubstantivalism, and the Spirit of Spinoza.</a>” <i>Kant Yearbook</i> 6 (1).</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_18"></a>Nadler, Steven. 2016. <a href="https://doi.org/">“Baruch Spinoza”</a> The Stanford Encyclopedia of Philosophy.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_19"></a>Pereboom, Derk. 2006. <a href="https://doi.org/">“Kant on Transcendental Freedom.</a>” <i>Philosophy and Phenomenological Research</i> 73 (3): 537–67.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_20"></a>Pippin, Robert B. 1987. <a href="https://doi.org/">“Kant on the Spontaneity of Mind.</a>” <i>Canadian Journal of Philosophy</i> 17 (2): 449–75.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_21"></a>Schechtman, Anat. 2016. <a href="https://doi.org/">“Substance and Independence in Descartes.</a>” <i>Philosophical Review</i> 125 (2): 155–204.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_22"></a>Stang, Nicholas F. 2016. <i><a href="https://doi.org/">Kant’s Modal Metaphysics</a></i>. New York: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_23"></a>Wood, Allen W. 1984. <a href="https://doi.org/">“Kant’s Compatibilism.</a>” In <i>Self and Nature in Kant’s Philosophy</i>, edited by Allen W Wood, 73–101. Ithaca: Cornell University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_24"></a>Wuerth, Julian. 2014. <i><a href="https://doi.org/">Kant on Mind, Action, and Ethics</a></i>. Oxford: Oxford University Press.</div>
 </div>
 
-[^fn:1]: See (<a href="#citeproc_bib_item_15">Schechtman 2016</a>) for an overview.
+[^fn:1]: See (<a href="#citeproc_bib_item_21">Schechtman 2016</a>) for an overview.
 [^fn:2]: For more on the details of Spinoza&rsquo;s monism argument see my notes [here](https://notebook.colinmclear.net/teaching-notes/spinoza%5Fmonism/).
 [^fn:3]: See the [SEP entry](https://plato.stanford.edu/entries/spinoza-modal/) on Spinoza&rsquo;s modal metaphysics for a survey of recent positions.
 [^fn:4]: Kant also talks of the real use of reason in terms of a &ldquo;transcendental faculty&rdquo; (A299/B355-6), which is broadly consistent with his use of &ldquo;pure&rdquo; with respect to other &ldquo;transcendental faculties&rdquo; such as pure apperception, or pure sensibility (i.e. the pure forms).
-[^fn:5]: See (<a href="#citeproc_bib_item_2">Allison 1980, 207</a>; <a href="#citeproc_bib_item_17">Wuerth 2014, 143–44 and ch. 5</a> passim) for relevant discussion.
-[^fn:6]: For further discussion of these and related issues see (<a href="#citeproc_bib_item_3">Ameriks 2000, 69–70</a>; <a href="#citeproc_bib_item_14">Pereboom 2006</a>; <a href="#citeproc_bib_item_8">Marshall 2010</a>; <a href="#citeproc_bib_item_17">Wuerth 2014, 167–69</a>; <a href="#citeproc_bib_item_10">McLear 2020a</a>).
-[^fn:7]: For discussion of these two arguments see, for the first (<a href="#citeproc_bib_item_11">McLear 2020b</a>, <a href="#citeproc_bib_item_10">2020a</a>) and [@cite:mclear2019] for the second.
-[^fn:8]: See (<a href="#citeproc_bib_item_6">Kain 2015</a>) for discussion.
-[^fn:9]: For more extensive discussion of these issues see [@cite:@pippin1987; @wood1984a; @allison1990; @pereboom2006a; @hogan2009a; @allison2020; @mclear2020a].
-[^fn:10]: For discussion of this and related issues see [@cite:mclear-pereboom].
-[^fn:11]: See (<a href="#citeproc_bib_item_12">Messina 2014</a>) for relevant discussion.
-[^fn:12]: : The view is already presented **in nuce** in the first **Critique**; see (A219/B266); see also (<a href="#citeproc_bib_item_16">Stang 2016, 307</a>; <a href="#citeproc_bib_item_7">Kohl 2015</a>; <a href="#citeproc_bib_item_9">Marshall 2018</a>; <a href="#citeproc_bib_item_1">Abaci 2019, chap. 9</a>).
+[^fn:5]: See (<a href="#citeproc_bib_item_2">Allison 1980, 207</a>; <a href="#citeproc_bib_item_24">Wuerth 2014, 143–44 and ch. 5</a> passim) for relevant discussion.
+[^fn:6]: For further discussion of these and related issues see (<a href="#citeproc_bib_item_5">Ameriks 2000, 69–70</a>; <a href="#citeproc_bib_item_19">Pereboom 2006</a>; <a href="#citeproc_bib_item_11">Marshall 2010</a>; <a href="#citeproc_bib_item_24">Wuerth 2014, 167–69</a>; <a href="#citeproc_bib_item_14">McLear 2020a</a>).
+[^fn:7]: For discussion of these two arguments see, for the first (<a href="#citeproc_bib_item_15">McLear 2020b</a>, <a href="#citeproc_bib_item_14">2020a</a>) and (<a href="#citeproc_bib_item_13">McLear 2019</a>) for the second.
+[^fn:8]: See (<a href="#citeproc_bib_item_9">Kain 2015</a>) for discussion.
+[^fn:9]: For more extensive discussion of these issues see (<a href="#citeproc_bib_item_20">Pippin 1987</a>; <a href="#citeproc_bib_item_23">Wood 1984</a>; <a href="#citeproc_bib_item_3">Allison 1990</a>, <a href="#citeproc_bib_item_4">2020</a>; <a href="#citeproc_bib_item_19">Pereboom 2006</a>; <a href="#citeproc_bib_item_7">Hogan 2009</a>; <a href="#citeproc_bib_item_15">McLear 2020b</a>).
+[^fn:10]: For discussion of this and related issues see (<a href="#citeproc_bib_item_16">McLear and Pereboom 0BC</a>).
+[^fn:11]: See (<a href="#citeproc_bib_item_17">Messina 2014</a>) for relevant discussion.
+[^fn:12]: The view is already presented **in nuce** in the first **Critique**; see (A219/B266); see also (<a href="#citeproc_bib_item_22">Stang 2016, 307</a>; <a href="#citeproc_bib_item_10">Kohl 2015</a>; <a href="#citeproc_bib_item_12">Marshall 2018</a>; <a href="#citeproc_bib_item_1">Abaci 2019, chap. 9</a>).

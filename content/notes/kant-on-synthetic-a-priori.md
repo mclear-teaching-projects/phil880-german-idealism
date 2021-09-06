@@ -1,7 +1,7 @@
 ---
 title: "Kant's Critical Project"
 publishDate: 2021-08-24T00:00:00-04:00
-lastmod: 2021-08-24T14:44:47-04:00
+lastmod: 2021-09-01T13:45:42-04:00
 slug: "kants-critical-project"
 tags: ["analytic/synthetic", "judgment", "kant", "metaphysics", "science", "truth", "a priori"]
 draft: false
@@ -10,9 +10,9 @@ author: false
 type: "post"
 ---
 
-In this week's notes I give an overview of some of the central features of Immanual Kant's
-"Critical" philosophy. I'll try to sketch answers to some basic questions about Kant
-and his "Critical" philosophy.
+In this week&rsquo;s notes I give an overview of some of the central features of Immanual Kant&rsquo;s
+&ldquo;Critical&rdquo; philosophy. I&rsquo;ll try to sketch answers to some basic questions about Kant
+and his &ldquo;Critical&rdquo; philosophy.
 
 <div class="ox-hugo-toc toc">
 <div></div>
@@ -20,7 +20,7 @@ and his "Critical" philosophy.
 <div class="heading">Table of Contents</div>
 
 - [1. Who is Kant?](#1-dot-who-is-kant)
-- [2. What is the "Critical" philosophy (in brief)?](#2-dot-what-is-the-critical-philosophy--in-brief)
+- [2. What is the &ldquo;Critical&rdquo; philosophy (in brief)?](#2-dot-what-is-the-and-ldquo-critical-and-rdquo-philosophy--in-brief)
 - [3. What are the aims of the Critical Philosophy?](#3-dot-what-are-the-aims-of-the-critical-philosophy)
     - [A. Metaphysics & the secure path of science](#a-dot-metaphysics-and-the-secure-path-of-science)
     - [B. What is synthetic a priori cognition & what is its import for metaphysics?](#b-dot-what-is-synthetic-a-priori-cognition-and-what-is-its-import-for-metaphysics)
@@ -43,30 +43,30 @@ From 1781 to 1798 Kant published a series of tremendously influential philosophi
 works, including the _Critique of Pure Reason_ (1781/​7), the _Groundwork of the
 Metaphysics of Morals_ (1785), the _Metaphysical Foundations of Natural Science_ (1786),
 the _Critique of Practical Reason_ (1788), and the _Critique of the Power of Judgment_
-(1790). His "Critical" philosophy is considered to consist of the system articulated
+(1790). His &ldquo;Critical&rdquo; philosophy is considered to consist of the system articulated
 by the three _Critiques_ and the related shorter works in the period from 1781-1790.
 This system, or at least various aspects of it, would exert a dominating influence on
 the structure of nearly all philosophical inquiry in Europe and the United States
 until at least the mid-twentieth century.
 
 
-# 2. What is the "Critical" philosophy (in brief)? {#2-dot-what-is-the-critical-philosophy--in-brief}
+# 2. What is the &ldquo;Critical&rdquo; philosophy (in brief)? {#2-dot-what-is-the-and-ldquo-critical-and-rdquo-philosophy--in-brief}
 
 Kant, like Descartes, Locke, and Hume, wishes to articulate the nature and extent of
 human knowledge, and to do so in a manner which proceeds from an analysis of the
 nature of human cognitive capacities. Kant believes that human reason requires a
-'critique' or examination as to whether it is fit to provide us with knowledge. Kant
+&rsquo;critique&rsquo; or examination as to whether it is fit to provide us with knowledge. Kant
 ultimately argues that human reason is not fit to provide us with knowledge of a
 mind-independent reality transcending human experience. In this sense Kant is deeply
-sympathetic with 'empiricist' critiques by Locke, Berkeley, and Hume of the
-metaphysical inquiries of more 'rationalist' philosophers such as Descartes, Spinoza,
+sympathetic with &rsquo;empiricist&rsquo; critiques by Locke, Berkeley, and Hume of the
+metaphysical inquiries of more &rsquo;rationalist&rsquo; philosophers such as Descartes, Spinoza,
 and Leibniz.
 
 However, Kant also argues that we have much deeper and more extensive knowledge of
 the world we experience (or could possibly experience) than his empiricist
 predecessors would allow. For example, Kant argues that we have knowledge of
 necessary truths concerning aspects of the empirical world (such as that every
-event---i.e. every change of a substance's properties---has a cause), as well as
+event---i.e. every change of a substance&rsquo;s properties---has a cause), as well as
 truths which are universal in extent. Thus Kant articulates a view that is directly
 opposed to the kinds of skeptical arguments Hume discusses in his _Treatise_ and first
 _Enquiry_.
@@ -80,17 +80,17 @@ the boundaries of human knowledge stop at experience, and thus that we must be
 extraordinarily circumspect concerning any claim made about what reality is like
 independent of any possible experience. But, like Descartes and Leibniz, Kant thinks
 that central parts of human knowledge nevertheless exhibit characteristics of
-necessity and universality, and that, contrary to Hume's skeptical arguments, we can
+necessity and universality, and that, contrary to Hume&rsquo;s skeptical arguments, we can
 have good reason to think that they do.
 
-Kant's contention is that genuinely "scientific" knowledge is knowledge of
+Kant&rsquo;s contention is that genuinely &ldquo;scientific&rdquo; knowledge is knowledge of
 propositions that exhibit universality and necessity with respect to objects of
-experience. Such knowledge relies on "cognition" of what Kant calls "synthetic a
-priori" judgments. Kant argues that the explanation of such judgments and how we
+experience. Such knowledge relies on &ldquo;cognition&rdquo; of what Kant calls &ldquo;synthetic a
+priori&rdquo; judgments. Kant argues that the explanation of such judgments and how we
 could come to have cognition and knowledge of them requires an analysis of our own
-mental faculties, most particularly, the faculty of reason itself. This "critique" of
-reason will lead to a "discipline" of reason's reach -- of what can be adequately
-reasoned about, or "comprehended". As Kant puts it,
+mental faculties, most particularly, the faculty of reason itself. This &ldquo;critique&rdquo; of
+reason will lead to a &ldquo;discipline&rdquo; of reason&rsquo;s reach -- of what can be adequately
+reasoned about, or &ldquo;comprehended&rdquo;. As Kant puts it,
 
 > [T]hat reason, which is properly obliged to prescribe its discipline for all
 > other endeavours, should have need of one itself, may certainly seem strange, and
@@ -100,7 +100,7 @@ reasoned about, or "comprehended". As Kant puts it,
 > instead of things. (A710/B738; see also A738/B766)
 
 Kant thus critiques reason in order to show its nature and limits, and thereby curb
-or "discipline" the pretensions of various metaphysical systems articulated on the
+or &ldquo;discipline&rdquo; the pretensions of various metaphysical systems articulated on the
 basis of a firm confidence that reason alone allows us to scrutinize the very depths
 of reality. But Kant also argues that the legitimate domain of reason is more
 extensive and more substantive than empiricist critiques have allowed. In this way
@@ -110,83 +110,85 @@ for knowledge of the world.
 
 # 3. What are the aims of the Critical Philosophy? {#3-dot-what-are-the-aims-of-the-critical-philosophy}
 
-Kant's aims with the Critical philosophy are relatively easy to state, but
+Kant&rsquo;s aims with the Critical philosophy are relatively easy to state, but
 require a fair bit of unpacking/explanation. They are:
 
-<ol type="A">
-  <li> To set metaphysics on the "secure path of a science" (Bix-x)</li>
-  <li> To explain how propositions making claims of universality and necessity about
-    the empirical world (e.g. Necessarily, all events have a cause), what Kant
-    calls "synthetic a priori cognitions" could be both true and known to be
-    such</li>
-  <li> To articulate the limits of rational inquiry and explanation</li>
-  <li> To explain why metaphysics (and inquiry in general) tends to overstep these
-    limits</li>
-  <li> To articulate rational bases for faith (though not necessarily knowledge) in
-    an immortal soul, God, the kind of freedom required for moral responsibility, and
-    other "ideas of reason"</li>
-</ol>
+<div type="A">
+  <div></div>
 
-Let's look more closely at each of (A)-(E) in turn.
+A.  To set metaphysics on the &ldquo;secure path of a science&rdquo; (Bix-x)  
+B.  To explain how propositions making claims of universality and necessity about the
+empirical world (e.g. Necessarily, all events have a cause), what Kant calls
+&ldquo;synthetic a priori cognitions&rdquo; could be both true and known to be such  
+C.  To articulate the limits of rational inquiry and explanation  
+D.  To explain why metaphysics (and inquiry in general) tends to overstep these
+limits  
+E.  To articulate rational bases for faith (though not necessarily knowledge) in an
+immortal soul, God, the kind of freedom required for moral responsibility, and other
+&ldquo;ideas of reason&rdquo;  
+
+</div>
+
+Let&rsquo;s look more closely at each of (A)-(E) in turn.
 
 
 ## A. Metaphysics & the secure path of science {#a-dot-metaphysics-and-the-secure-path-of-science}
 
-Understanding what Kant intends by his aim of setting metaphysics on the "secure path
-of a science" (Bix-x), we need to understand what he means by "science" and what he
-means by "metaphysics".
+Understanding what Kant intends by his aim of setting metaphysics on the &ldquo;secure path
+of a science&rdquo; (Bix-x), we need to understand what he means by &ldquo;science&rdquo; and what he
+means by &ldquo;metaphysics&rdquo;.
 
 
 ### I. What is a science? {#i-dot-what-is-a-science}
 
-Kant's conception of what he calls "science properly so called" (or just "proper
-science" for short) (Bix; MFNS 4:468) is very different from the notion of a science
-as it is currently used today. For Kant, a "proper science" has three features: it is
+Kant&rsquo;s conception of what he calls &ldquo;science properly so called&rdquo; (or just &ldquo;proper
+science&rdquo; for short) (Bix; MFNS 4:468) is very different from the notion of a science
+as it is currently used today. For Kant, a &ldquo;proper science&rdquo; has three features: it is
 (i) a systematically ordered whole; (ii) each fact (and proposition expressing that
 fact) in the science is necessarily related to others through the ground-consequent
-relation (the logical correlate of which is the "if-then" relation); (iii) the truths
+relation (the logical correlate of which is the &ldquo;if-then&rdquo; relation); (iii) the truths
 of the science are known to hold necessarily, given their grounds. Let me say a bit
 more about each of these conditions.
 
-A proper science is a "systematic whole" in the sense that it is delineated from
+A proper science is a &ldquo;systematic whole&rdquo; in the sense that it is delineated from
 other areas of inquiry by some principle or set of principles, such that it is
-knowable whether some proposition does or doesn't belong to the science (so, e.g.,
-there would always be an in-principle answer to some question like "is this
+knowable whether some proposition does or doesn&rsquo;t belong to the science (so, e.g.,
+there would always be an in-principle answer to some question like &ldquo;is this
 proposition part of math or part of physics? or part of biology or part of
-chemistry?").
+chemistry?&rdquo;).
 
 A proper science is ordered by ground-consequent relations in the sense that, given
-the "ground", the consequent necessarily follows. The notion of a ground-consequent
+the &ldquo;ground&rdquo;, the consequent necessarily follows. The notion of a ground-consequent
 relation is supposed to pick out _both_ a real metaphysical relation of necessary
 dependence, and an intelligible relation of logical consequence (such as with the
-material conditional "if-then").
+material conditional &ldquo;if-then&rdquo;).
 
 Finally, since the consequent follows from its ground with necessity, the truths of a
 proper science are such as to be _necessarily_ true (at least given the grounds).
 
 This conception of science should seem very restrictive compared to our current
 conception of science as an empirical enterprise concerning contingent truths.[^fn:1] But
-our contemporary notion of scientific knowledge, and "scientists" as the people who
+our contemporary notion of scientific knowledge, and &ldquo;scientists&rdquo; as the people who
 practice science, only came into existence in the [19th century](https://en.wikipedia.org/wiki/Scientist#Historical%5Fdevelopment%5Fand%5Fetymology%5Fof%5Fthe%5Fterm). Before then, and
-going back to [Aristotle's natural philosophy](http://plato.stanford.edu/entries/aristotle-natphil/), the dominant conception of theoretical
-knowledge, known in Latin as '_Scientia_' (Greek:'_Epistêmê_'), concerned _any_ body of
+going back to [Aristotle&rsquo;s natural philosophy](http://plato.stanford.edu/entries/aristotle-natphil/), the dominant conception of theoretical
+knowledge, known in Latin as &rsquo;_Scientia_&rsquo; (Greek:&rsquo;_Epistêmê_&rsquo;), concerned _any_ body of
 knowledge organized according to some principle or set of principles that exemplify
 the explanatory relations of what is best known and explanatorily basic as the basis
-of what is least known and explanatorily derivative (see also (<a href="#citeproc_bib_item_11">Jardine 1988</a>; <a href="#citeproc_bib_item_22">Randall 1961</a>; <a href="#citeproc_bib_item_6">De Jong and Betti 2010</a>)). A 'science' was thus distinguished from a mere
+of what is least known and explanatorily derivative (see also (<a href="#citeproc_bib_item_11">Jardine 1988</a>; <a href="#citeproc_bib_item_22">Randall 1961</a>; <a href="#citeproc_bib_item_6">De Jong and Betti 2010</a>)). A &rsquo;science&rsquo; was thus distinguished from a mere
 aggregate of known facts in virtue of the presence of such explanatory connections
 between facts.
 
 For example, when asked why trees lose their leaves in the fall, one might reply,
-"because the wind blows them off." One might even label trees which feature this
-characteristic as ['deciduous'](http://en.wikipedia.org/wiki/Deciduous). Neither the label, in and of itself, nor the
+&ldquo;because the wind blows them off.&rdquo; One might even label trees which feature this
+characteristic as [&rsquo;deciduous&rsquo;](http://en.wikipedia.org/wiki/Deciduous). Neither the label, in and of itself, nor the
 description would be a particularity deep or fruitful form of explanation. A better
 one would be one that articulated _why_ there is this connection between season and
 plant behavior. For example, a better explanation might say that diminished sunlight
 in the autumn inhibits the production of chlorophyll, which is required for
 photosynthesis, and without photosynthesis trees go dormant and shed their leaves.
-Now the "deciduous" label has a more explanatory role. We can deduce, from the fact
+Now the &ldquo;deciduous&rdquo; label has a more explanatory role. We can deduce, from the fact
 that a tree is deciduous, that it has certain characteristics, and that these
-characteristics play an important explanatory role in understanding the tree's
+characteristics play an important explanatory role in understanding the tree&rsquo;s
 behavior. Not only that, but the explanation is also importantly _asymmetrical_ in
 nature. A tree is deciduous in virtue of its failure to produce chlorophyll at
 particular times, and in turn, this lack of chlorophyll production explains why the
@@ -205,8 +207,8 @@ knowledge that---this way:
 Note that Aristotle believed that scientific explanation not only captures
 asymmetrical explanatory relations but also ones which are, in some sense, _necessary_.
 One way in which this explanatory relationship might be modeled is via [syllogism](http://plato.stanford.edu/entries/aristotle-logic/). A
-syllogism is an argument in which a judgment---the "conclusion"---logically follows
-from some other set of judgments---the "premises" or "assumptions". In Aristotle's
+syllogism is an argument in which a judgment---the &ldquo;conclusion&rdquo;---logically follows
+from some other set of judgments---the &ldquo;premises&rdquo; or &ldquo;assumptions&rdquo;. In Aristotle&rsquo;s
 logic (and in the logic used from the Medieval and into the Early Modern era) the
 premises were typically understood to be judgments of what was already known. So a
 conclusion C follows from some premises A and B, if and only if it is impossible for
@@ -215,7 +217,7 @@ scientific explanation to be structured in the manner of a logical derivation, w
 from basic knowledge, one derives other knowledge via logical argument. As Chris
 Shields [puts it,](http://plato.stanford.edu/entries/aristotle/#Sci)
 
-> the currency of science is demonstration ([from the Greek] "_apodeixis_"), where a
+> the currency of science is demonstration ([from the Greek] &ldquo;_apodeixis_&rdquo;), where a
 > demonstration is a deduction with premises revealing the causal structures of the
 > world, set forth so as to capture what is necessary and to reveal what is better
 > known and more intelligible by nature (APo 71b33--72a5, Phys. 184a16--23, EN
@@ -226,7 +228,7 @@ exhibit asymmetric explanatory relations between the things known. The demonstra
 structure of scientific knowledge raises the problem of how such demonstrations get
 started.
 
-We can see then that Kant's conception of a proper science is deeply Aristotelian, at
+We can see then that Kant&rsquo;s conception of a proper science is deeply Aristotelian, at
 least in the sense that it shares with Aristotle a view of such science as
 articulating systematic explanatory connections between truths that are known to hold
 with necessity.
@@ -234,39 +236,39 @@ with necessity.
 
 ### II. What is metaphysics? {#ii-dot-what-is-metaphysics}
 
-Concerning what "metaphysics" means for Kant, it is again helpful to bear in mind the
-Aristotelian background. "Metaphysics" as a subject matter, traditionally designates
-that set of writings (lecture notes) of Aristotle that came after his physics. Here's
+Concerning what &ldquo;metaphysics&rdquo; means for Kant, it is again helpful to bear in mind the
+Aristotelian background. &ldquo;Metaphysics&rdquo; as a subject matter, traditionally designates
+that set of writings (lecture notes) of Aristotle that came after his physics. Here&rsquo;s
 a useful summary of the history of the word:
 
 > The word ‘metaphysics’ is derived from a collective title of the fourteen books by
-> Aristotle that we currently think of as making up Aristotle's _Metaphysics_.
+> Aristotle that we currently think of as making up Aristotle&rsquo;s _Metaphysics_.
 > Aristotle himself did not know the word. (He had four names for the branch of
 > philosophy that is the subject-matter of Metaphysics: ‘first philosophy’, ‘first
-> science’, ‘wisdom’, and ‘theology’.) At least one hundred years after Aristotle's
+> science’, ‘wisdom’, and ‘theology’.) At least one hundred years after Aristotle&rsquo;s
 > death, an editor of his works (in all probability, Andronicus of Rhodes) titled
 > those fourteen books “_Ta meta ta phusika_”—“the after the physicals” or “the ones
 > after the physical ones”—the “physical ones” being the books contained in what we
-> now call Aristotle's _Physics_. The title was probably meant to warn students of
-> Aristotle's philosophy that they should attempt Metaphysics only after they had
+> now call Aristotle&rsquo;s _Physics_. The title was probably meant to warn students of
+> Aristotle&rsquo;s philosophy that they should attempt Metaphysics only after they had
 > mastered “the physical ones”, the books about nature or the natural world—that is
 > to say, about change, for change is the defining feature of the natural world. (<a href="#citeproc_bib_item_10">Inwagen and Sullivan 2020</a>)
 
-In Kant's time, while metaphysics is still considered "first philosophy", it has a
+In Kant&rsquo;s time, while metaphysics is still considered &ldquo;first philosophy&rdquo;, it has a
 more well-defined scope. Kant makes a distinction, which would have been very
 familiar to his contemporary readers in Germany, between _general_ metaphysics and
-_special_ metaphysics. General metaphysics, sometimes called "ontology", is the science
+_special_ metaphysics. General metaphysics, sometimes called &ldquo;ontology&rdquo;, is the science
 of all _possible_ beings; ontology studies the properties shared by all possible beings
 as such. _Special_ metaphysics, by contrast, is the science of particular kinds of
 beings, and divides into three specific sub-disciplines: psychology (metaphysics of
 souls), cosmology (metaphysics of the universe), and theology (metaphysics of God).
-Hence, though "metaphysics" often is used to pick out the study of possible beings,
+Hence, though &ldquo;metaphysics&rdquo; often is used to pick out the study of possible beings,
 it is also typically used by Kant in its more restrictive sense of concern with three
 particular (kinds of) beings---viz. the soul, the cosmos, and God.
 
 Though Kant often begins his lectures on metaphysics in the traditional manner, by
 marking the distinction between general and special metaphysics, he also makes a
-pointed criticism of general metaphysics (or "ontology"). Traditional ontology was
+pointed criticism of general metaphysics (or &ldquo;ontology&rdquo;). Traditional ontology was
 thought to begin from a distinction between the possible and the impossible. But Kant
 remarks (in student records of his lectures) that,
 
@@ -288,15 +290,15 @@ This remark is mirrored by a short passage in the _Critique of Pure Reason_:
 > nothing). (A290/B346)
 
 Kant thus departs from his German contemporaries in construing General
-Metaphysics---which he here calls "transcendental philosophy"---as beginning from the
+Metaphysics---which he here calls &ldquo;transcendental philosophy&rdquo;---as beginning from the
 study of the concept of an _object_ as such rather than with the modal concepts of
 _possible_, _actual_, and _necessary_ objects.[^fn:2] This departure is also the basis of a
 further break from the German tradition. Kant considers the question with which a
-properly "critical" or reflective metaphysics should be concerned is not "what is it
-to be possible or impossible?", but rather "what is it to be an object?", where the
-concept `<object>` is really that of `<object-represented-by-an-intellect>`. Thus, Kant's
+properly &ldquo;critical&rdquo; or reflective metaphysics should be concerned is not &ldquo;what is it
+to be possible or impossible?&rdquo;, but rather &ldquo;what is it to be an object?&rdquo;, where the
+concept `<object>` is really that of `<object-represented-by-an-intellect>`. Thus, Kant&rsquo;s
 conception of General metaphysics or ontology is that of the study of the relation
-between the intellect or "understanding" (_Verstand_) and what is understood (object;
+between the intellect or &ldquo;understanding&rdquo; (_Verstand_) and what is understood (object;
 _Objekt_; _Gegenstand_). As Kant puts it in a passage later in the _Critique of Pure
 Reason_:
 
@@ -305,12 +307,12 @@ Reason_:
 > causality), must give way to the modest one of a mere analytic of the pure
 > understanding. (A247/B303)
 
-I'll say more about the notion of "synthetic a priori cognition" in the next section.
+I&rsquo;ll say more about the notion of &ldquo;synthetic a priori cognition&rdquo; in the next section.
 For our purposes the crucial point being made by Kant here is that ontology, or
 General metaphysics, is, on his view, not to be construed as a study of the nature of
 things (or being) in general but rather the study of _objects_, insofar as they are
-represented by the understanding or intellect. Put another way, Kant's contention
-here is that ontology must "give way" (or be revised) to a study of the
+represented by the understanding or intellect. Put another way, Kant&rsquo;s contention
+here is that ontology must &ldquo;give way&rdquo; (or be revised) to a study of the
 intelligibility relation that exists between the understanding and what is
 understood.
 
@@ -320,33 +322,33 @@ aspects, it is not simply giving up on metaphysics and replacing it with
 epistemology.[^fn:3] Rather, Kant is making explicit an assumption about
 intelligibility that he thinks is present in all prior metaphysical inquiry and
 asking about its nature and conditions. Thus, while it is right to think of Kant as
-taking a kind of "epistemic turn" with regard to metaphysics, it is a turn that
+taking a kind of &ldquo;epistemic turn&rdquo; with regard to metaphysics, it is a turn that
 retains metaphysics within epistemic/cognitive considerations, rather than replacing
 it entirely.
 
 
 ## B. What is synthetic a priori cognition & what is its import for metaphysics? {#b-dot-what-is-synthetic-a-priori-cognition-and-what-is-its-import-for-metaphysics}
 
-Above we saw that Kant aims to replace ontology with an "analytic of the pure
-understanding". We also saw him mention that ontology (or General metaphysics) is
-traditionally concerned with "synthetic a priori cognition of things". What do these
+Above we saw that Kant aims to replace ontology with an &ldquo;analytic of the pure
+understanding&rdquo;. We also saw him mention that ontology (or General metaphysics) is
+traditionally concerned with &ldquo;synthetic a priori cognition of things&rdquo;. What do these
 two claims mean and how are they related?
 
-I'm going to start with the second claim, about synthetic a priori cognition. We'll
-then turn to the issue of an "analytic of the understanding".
+I&rsquo;m going to start with the second claim, about synthetic a priori cognition. We&rsquo;ll
+then turn to the issue of an &ldquo;analytic of the understanding&rdquo;.
 
 
 ### I. Synthetic a priori cognition {#i-dot-synthetic-a-priori-cognition}
 
-Understanding what Kant means in speaking of "synthetic a priori cognition", we need
+Understanding what Kant means in speaking of &ldquo;synthetic a priori cognition&rdquo;, we need
 to understand three different sets of distinctions. These are: representation vs.
-cognition vs. knowledge, a priori vs a posteriori, and synthetic vs analytic. Let's
+cognition vs. knowledge, a priori vs a posteriori, and synthetic vs analytic. Let&rsquo;s
 take each of these in turn.
 
 
 #### I.i Representation, Cognition, & Knowledge {#i-dot-i-representation-cognition-and-knowledge}
 
-Let's start with representation. At the most basic explanatory level, Kant conceives
+Let&rsquo;s start with representation. At the most basic explanatory level, Kant conceives
 of the (discursive and finite) mind as constituted by two fundamental capacities
 (_Fähigkeiten_), or powers, which he labels “receptivity” (_Receptivität_) and
 “spontaneity” (_Spontaneität_). Receptivity, as the name suggests, constitutes the
@@ -389,7 +391,7 @@ subject, without conceptualization (e.g., A116-17, B132). Hence Kant seems conce
 not so much with the phenomenology of experience as he is with the role sense
 experience plays in facilitating cognition and knowledge.
 
-Let's turn to cognition. In discursive rational beings such as ourselves, intuition
+Let&rsquo;s turn to cognition. In discursive rational beings such as ourselves, intuition
 and concept cooperate in the generation of what Kant calls “cognition”. Kant employs
 the term “cognition” (_Erkenntnis_) in different ways.[^fn:4] In the ‘Stepladder’
 passage from the ﬁrst Critique Kant provides a very general deﬁnition of cognition as
@@ -409,7 +411,7 @@ a conscious representation of an object:
 > goes beyond the possibility of experience, is an **idea** or a concept of reason.
 > (A320/B3767; see also JL 9:91).
 
-In the sense at issue here both intuitions and concepts may be "cognitions". Kant
+In the sense at issue here both intuitions and concepts may be &ldquo;cognitions&rdquo;. Kant
 also has a narrower sense of cognition “in the proper sense” (A78/B103), which in
 ﬁnite discursive beings like us concerns only those states that are the outcome of a
 synthesis of concepts and an intuited manifold. Proper cognition satisﬁes three
@@ -439,92 +441,92 @@ Aesthetic). Proper cognition may also be empirical, as when synthesizing an empi
 intuition (e.g., of touch or vision) with a concept. Kant often describes empirical
 cognition as “experience” (_Erfahrung_; see, e.g., B166, A176/B218, A189/B234), though
 empirical intuition and concepts are also related in what Kant calls “perception”
-(_Wahrnehmung_). In any case we shouldn't confuse Kant's use of "cognition", "empirical
-cognition", or "experience" with our less restrictive (or exact) contemporary usages
+(_Wahrnehmung_). In any case we shouldn&rsquo;t confuse Kant&rsquo;s use of &ldquo;cognition&rdquo;, &ldquo;empirical
+cognition&rdquo;, or &ldquo;experience&rdquo; with our less restrictive (or exact) contemporary usages
 of thee terms.
 
-Finally, there is Kant's conception of "knowledge" (_Wissen_), which is the relation of
-acceptance or "holding for true" (_Fürwahrhalten_) that a cognizing subject takes to a
-judgment. Such a "holding" of a judgment is a kind of activity performed by the
+Finally, there is Kant&rsquo;s conception of &ldquo;knowledge&rdquo; (_Wissen_), which is the relation of
+acceptance or &ldquo;holding for true&rdquo; (_Fürwahrhalten_) that a cognizing subject takes to a
+judgment. Such a &ldquo;holding&rdquo; of a judgment is a kind of activity performed by the
 cognizer subject, with respect to a true judgment, on the basis of evidence or
-"grounds" to which the subject has access. Such holdings are the closest Kant comes
-to discussing what we would now call "doxastic propositional attitudes". In
+&ldquo;grounds&rdquo; to which the subject has access. Such holdings are the closest Kant comes
+to discussing what we would now call &ldquo;doxastic propositional attitudes&rdquo;. In
 contemporary epistemology it is relatively common to treat the notion of belief as
 being the most general doxastic propositional attitude, and attitudes like knowledge
 to consist of belief, plus some further set of features (e.g. truth, indefeasibility,
 reliability, safety, etc.). This is not the case for Kant. Instead he takes knowledge
 to be that towards which all cases of acceptance or holding aim. Such acts of holding
 can fall short of knowledge for various reasons, and the ways in which they fall
-short correspond to what Kant calls "belief" or "faith" (_Glaube_) and "opinion"
+short correspond to what Kant calls &ldquo;belief&rdquo; or &ldquo;faith&rdquo; (_Glaube_) and &ldquo;opinion&rdquo;
 (_Meinung_).[^fn:6]
 
-So a representation is the effect of a mind's receptive capacity being causally
+So a representation is the effect of a mind&rsquo;s receptive capacity being causally
 affected by something or by spontaneously generating its own representations. Such
 representations count as cognitions if they satisfy the three conditions of being
 conscious, truth-apt, and of really possible objects. Such cognitions are in a
-position to be _known_ when the knower possesses sufficient evidence or "grounds" for
+position to be _known_ when the knower possesses sufficient evidence or &ldquo;grounds&rdquo; for
 accepting that the cognition is true. Insofar as such knowledge is systematically
 connected in a manner demonstrating the necessity of its various elements it is
-"science" (_Wissenschaft_), properly so called.
+&ldquo;science&rdquo; (_Wissenschaft_), properly so called.
 
 
 #### I.ii A priori & A posteriori {#i-dot-ii-a-priori-and-a-posteriori}
 
 A variety of philosophers (e.g. Descartes, Leibniz, Hume) argue that at least some
 knowledge can be acquired purely through the activity of thinking, and that this
-knowledge is universal and necessary in scope. Hume's conception of knowledge of the
-"relation of ideas" provides an especially clear example. According to Hume,
+knowledge is universal and necessary in scope. Hume&rsquo;s conception of knowledge of the
+&ldquo;relation of ideas&rdquo; provides an especially clear example. According to Hume,
 knowledge of necessary and universal truths is a function purely of knowledge of the
 relations of ideas (e.g. of the ideas or concepts `<bachelor>` and `<unmarried man>` or
 or `<triangle>` and `<three-sided plane figure>` (though even here there is some question
 as to whether Hume can articulate a genuine, as opposed to merely subjective, sense
-of "universal" and "necessary").
+of &ldquo;universal&rdquo; and &ldquo;necessary&rdquo;).
 
 Kant agrees with Hume that a priori knowledge is independent of experience. In fact,
-he sees it as definitive of "pure" a priori knowledge that it be completely
-independent of experience. He contrasts such knowledge with "empirical" knowledge or
-knowledge _a posteriori_. A priori knowledge may be more or less 'pure' according to
+he sees it as definitive of &ldquo;pure&rdquo; a priori knowledge that it be completely
+independent of experience. He contrasts such knowledge with &ldquo;empirical&rdquo; knowledge or
+knowledge _a posteriori_. A priori knowledge may be more or less &rsquo;pure&rsquo; according to
 whether or not the concepts which make it up are themselves a priori knowable. Kant
-uses the example 'every alteration has a cause' as an example of _impure_ a priori
+uses the example &rsquo;every alteration has a cause&rsquo; as an example of _impure_ a priori
 knowledge, since the concept `<alteration>` is empirical.
 
-We should note one important point about Kant's use of "independence" in describing
-the a priori. Kant does not think that a priori knowledge is "independent" of
+We should note one important point about Kant&rsquo;s use of &ldquo;independence&rdquo; in describing
+the a priori. Kant does not think that a priori knowledge is &ldquo;independent&rdquo; of
 experience in the sense that one need not have _any_ experience in order to have
 knowledge. On the contrary, Kant thinks that _all_ of our knowledge depends on our
-having experience of some kind or another---i.e. of the mind's being affected in one
-way or another---though he doesn't think this dependence entails that all our
+having experience of some kind or another---i.e. of the mind&rsquo;s being affected in one
+way or another---though he doesn&rsquo;t think this dependence entails that all our
 judgments are ultimately _justified_ by experience. This is why Kant says that
 
 > But although all our cognition commences with experience, yet it does
 > not on that account all arise from experience. (CPR B1)
 
-There seems to be two reasons for Kant's thinking this. First, we need experience in
+There seems to be two reasons for Kant&rsquo;s thinking this. First, we need experience in
 order for our cognitive faculties to function and develop. Second, we need particular
 experiences in order to acquire empirical concepts (e.g. red experiences in order to
 acquire the concept `<red>`). This is what distinguishes pure from impure a priori
 judgment. Impure a priori judgments are partially constituted by concepts that
 themselves must come from experience.
 
-Kant's conception of a priori judgment as judgment that is independent of experience
+Kant&rsquo;s conception of a priori judgment as judgment that is independent of experience
 has long been taken by scholars writing in English to be a purely epistemological
-notion (e.g. (<a href="#citeproc_bib_item_13">Kitcher 2006</a>)). But Kant's conception of a priori cognition also
+notion (e.g. (<a href="#citeproc_bib_item_13">Kitcher 2006</a>)). But Kant&rsquo;s conception of a priori cognition also
 plausibly has a metaphysical aspect related to the Aristotelian conception of
 understanding something from its ground or cause rather than from its effect (as
 discussed above). A priori cognition would then be cognition that facilitates or
 otherwise constitutes an understanding of _why_ something exists, or is the way that it
-is.[^fn:7] So, for example, the axioms and postulates of Euclid's geometry allow us a priori
+is.[^fn:7] So, for example, the axioms and postulates of Euclid&rsquo;s geometry allow us a priori
 knowledge of the properties of plane figures, not merely in the sense that such
 knowledge is independent of our experience of any particular bit of spatial
 extension, but because it allows us to understand _why_ plane figures have the
-properties that they do. To proceed through Euclid's _Elements_ is to proceed through a
+properties that they do. To proceed through Euclid&rsquo;s _Elements_ is to proceed through a
 systematic explanation of why plane figures have the properties that they have, from
 the very natures of those planes figures, as constituted by the properties of space
-laid out in the axioms and postulates (or "common notions").
+laid out in the axioms and postulates (or &ldquo;common notions&rdquo;).
 
 Kant contends that a priori cognition is possible for us only if it derives in part
-from our various rational capacities. As he puts it, "reason has insight only into
-what it itself produces according to its own design" (Bxiii). In other words, it is
+from our various rational capacities. As he puts it, &ldquo;reason has insight only into
+what it itself produces according to its own design&rdquo; (Bxiii). In other words, it is
 only if our rational capacities play a metaphysically explanatory role in
 constituting the objects of cognition and knowledge that we can say that we have a
 priori knowledge of those objects. Why does Kant think that we can know the extent to
@@ -533,7 +535,7 @@ which these capacities make an explanatory contribution? As he says,
 > it [viz. metaphysics] is nothing but the **inventory** of all we possess through **pure
 > reason**, ordered systematically. Nothing here can escape us, because what reason
 > brings forth entirely out of itself cannot be hidden, but is brought to light by
-> reason itself as soon as reason's common principle has been discovered. (Axx)
+> reason itself as soon as reason&rsquo;s common principle has been discovered. (Axx)
 
 Much of the rest of our discussion of both Kant and his German Idealist successors
 aims at explaining this obscure claim.
@@ -553,8 +555,8 @@ necessary and/or universal in scope is itself a priori.
 
 Kant argues that this conception of a priori knowledge is presupposed in many
 empirical judgments as well as in particular sciences. He specifically points to
-mathematics (e.g. to the arithmetical judgment '5+7=12') and to physical judgments
-('every alteration has a cause'). One of Kant's arguments arguments against Humean
+mathematics (e.g. to the arithmetical judgment &rsquo;5+7=12&rsquo;) and to physical judgments
+(&rsquo;every alteration has a cause&rsquo;). One of Kant&rsquo;s arguments arguments against Humean
 skepticism is that all of our empirical knowledge (even that knowledge which Hume
 thinks we have unproblematically) presupposes a priori knowledge, which itself
 requires that there be legitimate use of a priori concepts (i.e. concepts whose
@@ -563,7 +565,7 @@ content cannot be derived from any sensory impression).
 Kant thinks that there are many examples of judgments that we claim to know a priori,
 but he is interested primarily in a specific subset of those which constitute the
 subject matter of special _metaphysics_---viz. judgments concerning God, the soul (or
-mind), and immortality. One of Kant's primary aims is to determine whether
+mind), and immortality. One of Kant&rsquo;s primary aims is to determine whether
 metaphysical knowledge is possible, and if it is possible, what the extent and nature
 of that knowledge might be. Metaphysical knowledge is problematic, Kant argues,
 because unlike other forms of a priori knowledge, such as logic and mathematics, it
@@ -584,11 +586,11 @@ according to which one can analyze a judgment. Kant also argues that all judgmen
 in addition to being classifiable as either a priori or a posteriori (or empirical),
 may also be classified as being either [analytic or synthetic](http://plato.stanford.edu/entries/analytic-synthetic/).
 
-An analytic judgment is one in which the predicate is "contained" in the concept. One
-way of understanding this notion of "containment" is via a claim about meaning.
+An analytic judgment is one in which the predicate is &ldquo;contained&rdquo; in the concept. One
+way of understanding this notion of &ldquo;containment&rdquo; is via a claim about meaning.
 Accordingly, analytic judgments are those whose truth is known merely in virtue of
 knowing the meaning of the concepts constituting the judgment. For example, in the
-judgment "All bachelors are unmarried" the concept `<unmarried>` is part of the meaning
+judgment &ldquo;All bachelors are unmarried&rdquo; the concept `<unmarried>` is part of the meaning
 of `<bachelor>` and so the truth of the judgment is grasped just by knowing the
 relevant meanings of its component concepts.
 
@@ -596,15 +598,15 @@ Kant also introduces several other markers of analyticity. In total Kant provide
 with four different marks of analyticity. He says that in an analytic judgment the
 predicate is
 
-1.  'contained' within the subject
-2.  'identical' with the subject
-3.  analytic judgments are ones which are 'explicative' rather than
-    'ampliative'
+1.  &rsquo;contained&rsquo; within the subject
+2.  &rsquo;identical&rsquo; with the subject
+3.  analytic judgments are ones which are &rsquo;explicative&rsquo; rather than
+    &rsquo;ampliative&rsquo;
 4.  analytic judgments are those knowable by means of application of the
     principle of non-contradiction
 
 Which, if any of these markers is best thought of as the main characteristic of an
-analytic judgment? This is a disputed issue (cf. (<a href="#citeproc_bib_item_2">Anderson 2005</a>; <a href="#citeproc_bib_item_21">Proops 2005</a>)), though certainly, in all cases Kant is thinking of 'atomic' judgments of subject-predicate form.
+analytic judgment? This is a disputed issue (cf. (<a href="#citeproc_bib_item_2">Anderson 2005</a>; <a href="#citeproc_bib_item_21">Proops 2005</a>)), though certainly, in all cases Kant is thinking of &rsquo;atomic&rsquo; judgments of subject-predicate form.
 
 
 #### I.iv The Synthetic A Priori {#i-dot-iv-the-synthetic-a-priori}
@@ -617,14 +619,14 @@ judgment. In this Kant is obviously in agreement with Locke, Hume, and Leibniz. 
 agrees with his empiricist predecessors in claiming that all a posteriori judgments
 are synthetic. Since the predicate is adding something new to the subject we must
 look beyond the judgment to the world---what we can experience---in order that we
-might determine the relevant judgment's truth or falsity. In non-empirical cases (like
-the bachelor example above) the judgment's truth is determined by the meanings of the
+might determine the relevant judgment&rsquo;s truth or falsity. In non-empirical cases (like
+the bachelor example above) the judgment&rsquo;s truth is determined by the meanings of the
 concepts constituting it.
 
-Kant's main innovation to the a priori/posteriori and analytic/synthetic schemas is
+Kant&rsquo;s main innovation to the a priori/posteriori and analytic/synthetic schemas is
 to note that the analytic a priori and the synthetic a posteriori do not necessarily
 exhaust the realm of possible judgments. Here he essentially can be understood to
-deny that "Hume's Fork", which divides all knowledge into two classes of relations of
+deny that &ldquo;Hume&rsquo;s Fork&rdquo;, which divides all knowledge into two classes of relations of
 ideas and matters of fact, is an adequate representation of the structure of human
 knowledge. According to Kant, there are also _synthetic a priori_ judgments that are
 possible. Kant argues that causal judgments are a clear example.
@@ -644,7 +646,7 @@ possible. Kant argues that causal judgments are a clear example.
 
 <!--quoteend-->
 
-> Take the proposition: "Everything that happens has its cause." In the
+> Take the proposition: &ldquo;Everything that happens has its cause.&rdquo; In the
 > concept of something that happens, I think, to be sure, of an
 > existence that was preceded by a time, etc., and from that analytic
 > judgments can be drawn. But the concept of a cause lies entirely
@@ -679,10 +681,10 @@ priori judgments, and that the explanation of the possibility (and actuality!) o
 significant portions of our knowledge rests on this, including mathematics and
 natural science. Crucially as well, Kant contends that the status of metaphysics as a
 science depends on determining the basic synthetic a priori cognitions on which it
-depends (i.e. its "principles") and explaining our knowledge of them.
+depends (i.e. its &ldquo;principles&rdquo;) and explaining our knowledge of them.
 
 
-#### I.v Kant's 'Copernican Revolution' {#i-dot-v-kant-s-copernican-revolution}
+#### I.v Kant&rsquo;s &rsquo;Copernican Revolution&rsquo; {#i-dot-v-kant-and-rsquo-s-and-rsquo-copernican-revolution-and-rsquo}
 
 In a famous passage Kant compares his critical philosophy to the central contribution
 on Nicolas Copernicus.
@@ -692,7 +694,7 @@ on Nicolas Copernicus.
 > priori through concepts that would extend our cognition have, on this
 > presupposition, come to nothing. Hence let us once try whether we do
 > not get farther with the problems of metaphysics by assuming that the
-> objects" must conform to our cognition, which would agree better with
+> objects&ldquo; must conform to our cognition, which would agree better with
 > the requested possibility of an a priori cognition of them, which is
 > to establish something about objects before they are given to us. This
 > would be just like the first thoughts of Copernicus, who, when he did
@@ -713,20 +715,20 @@ _the object_, we assume that it conforms to _our knowledge_.
 
 #### I.vi Transcendental Idealism {#i-dot-vi-transcendental-idealism}
 
-Kant's name for the position he articulates according to which objects must conform
-to our way of knowing them is 'Transcendental Idealism.' Though the exact meaning of
-Transcendental Idealism is much disputed by Kant's interpreters, it is clear that he
+Kant&rsquo;s name for the position he articulates according to which objects must conform
+to our way of knowing them is &rsquo;Transcendental Idealism.&rsquo; Though the exact meaning of
+Transcendental Idealism is much disputed by Kant&rsquo;s interpreters, it is clear that he
 intends at least two things by it.[^fn:8]
 
 First, according to Transcendental Idealism, space and time are neither
 independent subsisting entities (as was suggested by Newton), nor
 object-dependent orders of relations between entities (as was argued by
-Leibniz). Instead, they are mind-dependent 'forms of intuition.' They
+Leibniz). Instead, they are mind-dependent &rsquo;forms of intuition.&rsquo; They
 are the characteristic ways in which we experience things rather than
 either being independent things that we experience, or relations between
-things that we experience. Space and time are 'empirically real' ---
+things that we experience. Space and time are &rsquo;empirically real&rsquo; ---
 they are fundamental features of the empirical world that we experience.
-But they are not real 'in themselves.' They have no ultimate reality
+But they are not real &rsquo;in themselves.&rsquo; They have no ultimate reality
 apart from our capacity for experience.
 
 Second, in addition to the transcendental ideality of space and time, to
@@ -747,16 +749,16 @@ reality is itself structured by a privileged set of a priori concepts.
 > Bxvii-xviii)
 
 Kant here argues that the object which appear to one in perceptual experience, or
-'intuition' as he calls it, also must conform to our basic conceptual scheme. He
+&rsquo;intuition&rsquo; as he calls it, also must conform to our basic conceptual scheme. He
 explains what he means here in the last sentence: objects must conform to our
 conceptual scheme because that scheme makes possible the experience of such objects.
 
-Though basic elements of Kant's 'Copernican' strategy remain unclear, the basic idea
+Though basic elements of Kant&rsquo;s &rsquo;Copernican&rsquo; strategy remain unclear, the basic idea
 is that Kant argues that what makes synthetic a priori knowledge possible is the
 structure of our cognitive faculties, including the pure forms of intuition and a
 privileged set of a priori concepts. These forms and concepts jointly make experience
 possible and allow us to draw inferences that hold with necessity and universality
-concerning objects encountered in experience. What's more, Kant argues that because a
+concerning objects encountered in experience. What&rsquo;s more, Kant argues that because a
 priori concepts are necessary for experience in general, we can know that those
 concepts are applied legitimately, since he is taking it as obvious that we have
 experience.
@@ -764,23 +766,23 @@ experience.
 
 ### II. An analytic of pure understanding {#ii-dot-an-analytic-of-pure-understanding}
 
-We've seen that Kant construes synthetic a priori cognition as a kind of
+We&rsquo;ve seen that Kant construes synthetic a priori cognition as a kind of
 representation that is universal and necessary in scope, justifiable independently of
 experience, and dependent on a basis of truth that is not itself conceptual in
-nature. Kant's transcendental idealism contends that this source of independent
-non-conceptual truth lies in the purely subjective "forms" of space and time that
+nature. Kant&rsquo;s transcendental idealism contends that this source of independent
+non-conceptual truth lies in the purely subjective &ldquo;forms&rdquo; of space and time that
 structure any possible sensory experience. These a priori forms of sensory experience
 are thus partially explanatory of how we can have synthetic a priori cognition.
 
-However, we also saw that it is Kant's contention that cognition requires, for us, a
+However, we also saw that it is Kant&rsquo;s contention that cognition requires, for us, a
 combination of intuition and concept (or judgment). This means that the kind of
-"pure" (i.e. wholly non-empirical) synthetic a priori cognition that Kant sees as the
+&ldquo;pure&rdquo; (i.e. wholly non-empirical) synthetic a priori cognition that Kant sees as the
 basis for metaphysics also requires pure a priori concepts, in addition to the
-sensible forms. This is where the "analytic of the understanding" and the related
-notion of an "analytic of concepts" comes in.
+sensible forms. This is where the &ldquo;analytic of the understanding&rdquo; and the related
+notion of an &ldquo;analytic of concepts&rdquo; comes in.
 
-Kant relates the project of an analytic of understanding to that of an "analytic of
-concepts" as follows:
+Kant relates the project of an analytic of understanding to that of an &ldquo;analytic of
+concepts&rdquo; as follows:
 
 > I understand by an analytic of concepts not their analysis, or the usual procedure
 > of philosophical investigations, that of analyzing the content of concepts that
@@ -791,14 +793,14 @@ concepts" as follows:
 > is the proper business of a transcendental philosophy; the rest is the logical
 > treatment of concepts in philosophy in general. (A66/B90-1)
 
-Kant's point here is that we must be able to come to clarity, not just regarding our
+Kant&rsquo;s point here is that we must be able to come to clarity, not just regarding our
 concepts, but rather regarding the nature of the faculty that generates these
 concepts itself---i.e. the understanding. So just as Kant sees the nature of our
 sensible receptivity as providing the basis for the synthetic nature of cognition, in
 the pure sensible forms of space and time, he likewise sees the nature of our
 intellect (or the understanding in particular) as providing the basis for our being
 able to achieve cognition of whatever may be represented by sensibility, insofar as
-we can derive from the nature of the understanding's activity some set of concepts
+we can derive from the nature of the understanding&rsquo;s activity some set of concepts
 for use in metaphysics.
 
 There is a great deal more to say about the nature of this analysis, and I will
@@ -807,22 +809,22 @@ possibility of metaphysics as a science in the proper sense as depending on an
 explanation of what makes any proper science possible. Since all proper sciences
 (e.g. mathematics and physics) make synthetic a priori claims, this amounts to an
 investigation of the nature and source of synthetic a priori cognition, and the forms
-of knowledge it engenders. It is Kant's contention that such cognition is only
+of knowledge it engenders. It is Kant&rsquo;s contention that such cognition is only
 possible if it relies on the structure of the rational mind, and in particular on the
-"forms" of sensibility (representations of space and time) and the understanding (the
-a priori concepts Kant calls the "categories"). Together, these sources of
+&ldquo;forms&rdquo; of sensibility (representations of space and time) and the understanding (the
+a priori concepts Kant calls the &ldquo;categories&rdquo;). Together, these sources of
 representation provide synthetic a priori cognition upon which all science is built.
 
 
 ## C. What are the limits of rational enquiry (science) and explanation? {#c-dot-what-are-the-limits-of-rational-enquiry--science--and-explanation}
 
-Now that we have the basic structure of Kant's project in view, it should be
+Now that we have the basic structure of Kant&rsquo;s project in view, it should be
 relatively straightforward to understand his answer to this question. Kant thinks
-that all rational inquiry strives to be "scientific" in his sense of that term. So
+that all rational inquiry strives to be &ldquo;scientific&rdquo; in his sense of that term. So
 that means that all enquiry depends (in one way or another) on synthetic a priori
-cognition. But we've seen that such cognition is only possible given the combined
+cognition. But we&rsquo;ve seen that such cognition is only possible given the combined
 contributions of sensibility (specifically the representations of space and time) and
-understanding (specifically the concepts called the "categories"). Kant thus thinks
+understanding (specifically the concepts called the &ldquo;categories&rdquo;). Kant thus thinks
 that science is limited to what falls in the purview of these two
 contributions---i.e. the spatial and temporally structured empirical world as
 understood through our most basic concepts, the categories.
@@ -839,13 +841,13 @@ soul, the cosmos, or God.
 
 ## D. Why does metaphysics tend to overstep its limits? {#d-dot-why-does-metaphysics-tend-to-overstep-its-limits}
 
-Kant's restriction of a science of metaphysics to what can be experienced in space
+Kant&rsquo;s restriction of a science of metaphysics to what can be experienced in space
 and time presents a difficulty. It seems that we are rationally drawn to constructing
 explanations that transcend the bounds of sense---of what can be given through
 sensibility (in space and time).
 
-Kant's explanation is that we need to look to the nature and activity of reason (as a
-metal capacity) itself. On Kant's view, reason is the unique capacity for
+Kant&rsquo;s explanation is that we need to look to the nature and activity of reason (as a
+metal capacity) itself. On Kant&rsquo;s view, reason is the unique capacity for
 articulating and grasping explanations---which Kant construes in terms of
 inference---and it demands a _complete_ explanation for any given fact.
 
@@ -860,25 +862,25 @@ inference---and it demands a _complete_ explanation for any given fact.
 The function of reason is thus not to generate experience (or empirical cognition) in
 the first place. This is the task of the understanding working together with
 sensibility (A307/B363--4). The starting point for reason is judgments about
-experience. Reason's basic function is to ask about any given empirical judgment:
+experience. Reason&rsquo;s basic function is to ask about any given empirical judgment:
 _why_? Moreover, once reason finds an answer to this question, it subjects that answer
 to the same question -- _why_? This iterative process of finding answers to why
-questions results in what Kant calls "comprehension" (_Begreifen_), which in its most
+questions results in what Kant calls &ldquo;comprehension&rdquo; (_Begreifen_), which in its most
 complete form is a perfect understanding of why things are they way that they are.
 
-The laws of reason's activity thus encourage a use of it that transcends the bounds
-of what can be cognized, and thereby comprehended. Hence, an "uncritical" use of
+The laws of reason&rsquo;s activity thus encourage a use of it that transcends the bounds
+of what can be cognized, and thereby comprehended. Hence, an &ldquo;uncritical&rdquo; use of
 reason, one that does not take note of the boundaries of cognition, will push
 inquirers towards holding positions that cannot be rationally defended. Kant calls
-this unavoidable activity of reason the "dialectic" of reason's use, and the
-illusions that unavoidably result from it "transcendental illusion".
+this unavoidable activity of reason the &ldquo;dialectic&rdquo; of reason&rsquo;s use, and the
+illusions that unavoidably result from it &ldquo;transcendental illusion&rdquo;.
 
 > **transcendental illusion** [contains principles] which instead, contrary to all the
 > warnings of criticism, carries us away beyond the empirical use of the categories,
 > and holds out to us the semblance of extending the pure understanding [beyond the
 > limits of experience/cognition]. (A295/B352)
 >
-> The cause of this [i.e. of reason's tendency to overstep its bounds] is that in our
+> The cause of this [i.e. of reason&rsquo;s tendency to overstep its bounds] is that in our
 > reason (considered subjectively as a human faculty of cognition) there lie
 > fundamental rules and maxims for its use, which look entirely like objective
 > principles, and through them it comes about that the subjective necessity of a
@@ -886,8 +888,8 @@ illusions that unavoidably result from it "transcendental illusion".
 > objective necessity,the determination of things in themselves. [This is] an
 > illusion that cannot be avoided at all. (A297-B353-4)
 
-Kant contends that reason's search for complete explanation leads to its generation
-of concepts, which Kant calls "ideas", that refer to the ultimate or "unconditioned"
+Kant contends that reason&rsquo;s search for complete explanation leads to its generation
+of concepts, which Kant calls &ldquo;ideas&rdquo;, that refer to the ultimate or &ldquo;unconditioned&rdquo;
 conditions of all other objects. In the _Critique of Pure Reason_ Kant considers the
 dialectical illusions to which three such concepts are subject---viz. the concepts of
 special metaphysics, the soul, the cosmos, and God.
@@ -906,21 +908,21 @@ special metaphysics, the soul, the cosmos, and God.
 Thus, Kant thinks philosophers have been mistaken that we can have any (theoretical
 or speculative) cognition through reason alone, but only the illusion thereof. This
 also means that the objects to which the ideas `<God>`, `<soul>`, and `<cosmos>` refer can
-never be subjects of cognition. The ideas thereby lack any "constitutive use" for
+never be subjects of cognition. The ideas thereby lack any &ldquo;constitutive use&rdquo; for
 experience, and thus cannot be part of science proper.
 
 
 ## E. In what sense is it rational to believe in the traditional objects of metaphysics? {#e-dot-in-what-sense-is-it-rational-to-believe-in-the-traditional-objects-of-metaphysics}
 
-Nevertheless, Kant thinks that reason's ideas have a legitimate use, and that their
+Nevertheless, Kant thinks that reason&rsquo;s ideas have a legitimate use, and that their
 objects, such as God or the soul, can be legitimate and rational objects of belief.
-The ideas of reason can have such a positive use by acting as "maxims" for theory
+The ideas of reason can have such a positive use by acting as &ldquo;maxims&rdquo; for theory
 construction and the creation of a unified theory of nature.
 
-This unity is only a “projected” unity (A647/B675), a mere "regulative ideal", but it
+This unity is only a “projected” unity (A647/B675), a mere &ldquo;regulative ideal&rdquo;, but it
 plays a significant role in how we rationally inquire with respect to the empirical
-world. Kant gives the following illustrations of such "regulative" uses of reason's
-ideas: reason's drive towards complete explanation pressures us to search for
+world. Kant gives the following illustrations of such &ldquo;regulative&rdquo; uses of reason&rsquo;s
+ideas: reason&rsquo;s drive towards complete explanation pressures us to search for
 fundamental (chemical) elements and powers in nature (A646/B674, A648–9/B676–7),
 employ concepts of ideal entities not to be found in nature (e.g. pure earth, water
 and air, A646/B674), develop hypotheses advancing universal laws of nature
@@ -930,11 +932,11 @@ species (A653–7/B681–5). The operative maxims are the three principles of �
 “homogeneity”, “variety” and “continuity” among natural forms
 (A651–64/B679–92).[^fn:9]
 
-This regulative use for reason's ideas contrasts with a “constitutive” use of those
+This regulative use for reason&rsquo;s ideas contrasts with a “constitutive” use of those
 ideas, as they are applied in traditional Special mteaphysics. But as we saw above,
-Kant's critical position denies that there is a constitutive use for the ideas.
-Reason's ideas have no knowable application to object. It can cognize no other
-objects than what may be given to it by the understanding's generation of experience
+Kant&rsquo;s critical position denies that there is a constitutive use for the ideas.
+Reason&rsquo;s ideas have no knowable application to object. It can cognize no other
+objects than what may be given to it by the understanding&rsquo;s generation of experience
 from the material given by sensibility.
 
 > the transcendental ideas are never of constitutive use, so that the concepts of
@@ -943,16 +945,16 @@ from the material given by sensibility.
 > indispensably necessary regulative use…of directing the understanding (A644/672)
 
 The error of traditional metaphysics is thus to construe the ideas of reason as
-"constitutive" rather than merely "regulative" principles for constructing complete
+&ldquo;constitutive&rdquo; rather than merely &ldquo;regulative&rdquo; principles for constructing complete
 explanations.
 
 Kant ultimately thinks that a variety of ideas admit of some sort or another of
 rational acceptance. Perhaps most famously, he argues in the _Critque of Practical
 Reason_ that we are rationally required to believe in the existence of God and of our
 own immortal souls in order to fulfill the requirements of practical rationality,
-namely, striving to achieve the "highest good"---the unity of virtue apportioned to
-happiness (more colloquaially, the world in which everyone gets their "just
-desserts"). In Kant's view, we may not truly _know_ that there is a God or that we have
+namely, striving to achieve the &ldquo;highest good&rdquo;---the unity of virtue apportioned to
+happiness (more colloquaially, the world in which everyone gets their &ldquo;just
+desserts&rdquo;). In Kant&rsquo;s view, we may not truly _know_ that there is a God or that we have
 souls in the relevant sense, but it is rational to believe so. As Kant famously puts
 it,
 
@@ -968,11 +970,11 @@ it,
 > reason can make progress in metaphysics, is the true source of all unbelief
 > conflicting with morality, which unbelief is always very dogmatic. (Bxxix-xxx)
 
-It is Kant's hope that the Critical philosophy not only sets metaphysics on the path
+It is Kant&rsquo;s hope that the Critical philosophy not only sets metaphysics on the path
 of science, but that it also shows how faith and reason can coexist together and are
 ultimately even mutually supporting. This connection between faith and reason will
 continue to exert its influence in German philosophy, even by those who ultimately
-reject many of Kant's other doctrines.
+reject many of Kant&rsquo;s other doctrines.
 
 
 # References {#references}
@@ -1020,7 +1022,7 @@ reject many of Kant's other doctrines.
 [^fn:3]: For an explicit reading of Kant as engaged in such a revisionary project and epistemologically focussed project see (<a href="#citeproc_bib_item_12">Kitcher 2011, 5–6</a>)
 [^fn:4]: The issue of how to characterize cognition is becoming its own cottage industry. See (<a href="#citeproc_bib_item_26">Smit 2000</a>, <a href="#citeproc_bib_item_27">2009</a>; <a href="#citeproc_bib_item_25">Schafer 0BCb</a>, <a href="#citeproc_bib_item_24">0BCa</a>; <a href="#citeproc_bib_item_8">Gomes and Stephenson 2016</a>; <a href="#citeproc_bib_item_31">Tolley 2017</a>; <a href="#citeproc_bib_item_34">Watkins and Willaschek 2017a</a>, <a href="#citeproc_bib_item_35">2017b</a>).
 [^fn:5]: See (<a href="#citeproc_bib_item_9">Heis 2013, 277–78</a>; <a href="#citeproc_bib_item_14">McLear 2016</a>).
-[^fn:6]: See (<a href="#citeproc_bib_item_4">Chignell 2007a</a>, <a href="#citeproc_bib_item_5">2007b</a>) for discussion, though Chignell ends up retaining, mistakenly I think, much of the "belief-first" conception of knowledge in his account of _Fürwahrhalten_.
+[^fn:6]: See (<a href="#citeproc_bib_item_4">Chignell 2007a</a>, <a href="#citeproc_bib_item_5">2007b</a>) for discussion, though Chignell ends up retaining, mistakenly I think, much of the &ldquo;belief-first&rdquo; conception of knowledge in his account of _Fürwahrhalten_.
 [^fn:7]: See (<a href="#citeproc_bib_item_27">Smit 2009</a>; <a href="#citeproc_bib_item_29">Stang 2019</a>; <a href="#citeproc_bib_item_33">Watkins 2019b</a>, <a href="#citeproc_bib_item_32">2019a</a>; <a href="#citeproc_bib_item_15">Melamedoff-Vosters 2021</a>)
 [^fn:8]: See (<a href="#citeproc_bib_item_1">Ameriks 1982</a>; <a href="#citeproc_bib_item_28">Stang 2016</a>).
 [^fn:9]: For this way of putting it see (<a href="#citeproc_bib_item_7">Gardner 1999, 144</a>).
