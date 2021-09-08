@@ -6,6 +6,7 @@ draft = false
 weight = -100
 toc = false
 type = "post"
+author = false
 +++
 
 We&rsquo;ll look at [Karl Leonhard Reinhold](https://plato.stanford.edu/entries/karl-reinhold/)&rsquo;s criticism of the incompleteness of Kant&rsquo;s

@@ -1,6 +1,5 @@
 +++
 title = "Reinhold's \"Philosophy of Elements\" & Its Critics"
-author = ["PHIL 880"]
 publishDate = 2021-09-14T00:00:00-04:00
 tags = ["consciousness", "fichte", "kant", "reinhold", "representation", "schulze", "science", "systematicity"]
 draft = false
