@@ -6,7 +6,6 @@ draft = false
 weight = -100
 toc = false
 type = "post"
-author = false
 +++
 
 We&rsquo;ll look at [Karl Leonhard Reinhold](https://plato.stanford.edu/entries/karl-reinhold/)&rsquo;s criticism of the incompleteness of Kant&rsquo;s
@@ -20,7 +19,7 @@ and Fichte.
 -   Reinhold, [The Foundation of Philosophical Knowledge](https://www.dropbox.com/s/39edf54b4ys1ink/reinhold2000%5Fthe%5Ffoundations%5Fof%5Fphilosophical%5Fknowledge.pdf?dl=0%0A) (from p. 61 onward)
 -   Schulze, [Aenesidemus](https://www.dropbox.com/s/k7876sw1zm9rjtc/schulze2000%5Faenesidemus.pdf?dl=0%0A) (excerpt, pp. 105-12)
 -   Fichte, [Review of Aenesidemus](https://www.dropbox.com/s/ilppxbj00gwq5ru/fichte2000a%5Freview%5Fof%5Faenesidemus.pdf?dl=0%0A)
--   Notes: [Reinhold&rsquo;s &ldquo;Philosophy of Elements&rdquo; & Its Critics]({{< relref "reinhold-critics" >}})
+-   Notes: [Reinhold&rsquo;s &ldquo;Philosophy of Elements&rdquo; & Its Critics]({{< relref "reinhold-critics" >}}) ([PDF](/materials/handouts/reinhold-critics.pdf))
 -   GRADS: (pick one)
     -   Messina, &ldquo;[Answering Aenesidemus](/materials/readings/messina-aenesidemus.pdf)&rdquo;
     -   Frketich, &ldquo;[The First Principle of Philosophy in Fichte’s 1794 Aenesidemus Review](/materials/readings/frketich-fichte-review.pdf)&rdquo;
