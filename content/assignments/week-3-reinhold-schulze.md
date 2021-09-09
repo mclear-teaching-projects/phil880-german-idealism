@@ -1,7 +1,7 @@
 +++
 title = "Week 4 – Reinhold, Schulze, & Fichte on System & Skepticism"
 publishDate = 2021-09-14T00:00:00-04:00
-tags = ["consciousness", "criticism", "dogmatism", "reinhold", "representation", "schulze", "systematicity"]
+tags = ["consciousness", "criticism", "dogmatism", "fichte", "reinhold", "representation", "schulze", "systematicity"]
 draft = false
 weight = -100
 toc = false
