@@ -13,11 +13,11 @@ information.
 
 | Week       | Topic                                            | Readings                                                                                              |
 |------------|--------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| 1 - 8/24   | Kant's Critical Project                          | Preface; Intro                                                                                        |
+| 1 - 8/24   | Kant&rsquo;s Critical Project                    | Preface; Intro                                                                                        |
 | 2 - 8/31   | Kant on the Discursive Conditions of Metaphysics | Inaugural Dissertation; Metaphysical Deduction                                                        |
-| 3 - 9/7    | Kant & Spinozism                                 | Pantheism dispute; Orientation essay; Pölitz Religion                                                 |
-| 4 - 9/14   | Reinhold & Schulze                               | The Foundation of Philosophical Knowledge; Anesidemus                                                 |
-| 5 - 9/21   | Fichte I                                         | Anesidemus review; 1st intro WL                                                                       |
+| 3 - 9/7    | Kant & Spinozism                                 | Letters on Spinoza; Morning Hours; Orientation essay; Pölitz Religion                                 |
+| 4 - 9/14   | Reinhold, Schulze, & Fichte                      | The Foundation of Philosophical Knowledge; Anesidemus; Anesidemus review                              |
+| 5 - 9/21   | Fichte I                                         | Concept of the WL; 1st intro WL                                                                       |
 | 6 - 9/28   | Fichte II                                        | 2nd intro WL                                                                                          |
 | 7 - 10/5   | Schelling I                                      | Introduction to First Outline of a System of Natural Philosophy                                       |
 | 8 - 10/12  | Schelling II                                     | Presentation of my system OR On The Relationship of The Philosophy of Nature to Philosophy in General |
