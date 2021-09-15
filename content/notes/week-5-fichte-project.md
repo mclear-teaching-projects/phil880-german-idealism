@@ -10,7 +10,7 @@ type = "post"
 
 In these notes I discuss the general features of Fichte&rsquo;s Jena system of philosopy
 known as the &ldquo;Wissenschaftslehre&rdquo; or &ldquo;Doctrine of Science&rdquo;. I discuss the basic
-features of Fichte&rsquo;s project as well as his view of the bifurcation of science into
+features of Fichte&rsquo;s project as well as his view of the bifurcation of philosophy into
 dogmatism and idealism.[^fn:1]
 
 <style>
@@ -382,8 +382,8 @@ accompanied by the feeling of necessity.
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Ameriks, Karl. 2000. <i><a href="https://doi.org/">Kant and the Fate of Autonomy: Problems in the Appropriation of the Critical Philosophy</a></i>. Cambridge: Cambridge University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Beiser, Frederick C. 2002. <i><a href="https://doi.org/">German Idealism: The Struggle Against Subjectivism, 1781-1801</a></i>. Cambridge: Harvard University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Breazeale, Daniel. 2013. <i><a href="https://doi.org/">Thinking Through the Wissenschaftslehre: Themes from Fichte’s Early Philosophy</a></i>. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Beiser, Frederick C. 2002. <i><a href="https://doi.org/">German Idealism: The Struggle against Subjectivism, 1781-1801</a></i>. Cambridge: Harvard University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Breazeale, Daniel. 2013. <i><a href="https://doi.org/">Thinking through the Wissenschaftslehre: Themes from Fichte’s Early Philosophy</a></i>. Oxford: Oxford University Press.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Franks, Paul W. 2005. <i><a href="https://doi.org/">All or Nothing: Systematicity, Transcendental Arguments, and Skepticism in German Idealism</a></i>. Cambridge, MA: Harvard University Press.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_5"></a>Henrich, Dieter. 1966. <a href="https://doi.org/">“Fichtes Ursprüngliche Einsicht.</a>” In <i>Subjektivität Und Metaphysik</i>, edited by Dieter Henrich and Hans Wagner, 188–232. Frankfurt: Klostermann.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_6"></a>James, David, and Günter Zöller, eds. 2016. <i><a href="https://doi.org/">The Cambridge Companion to Fichte</a></i>. Cambridge: Cambridge University Press.</div>
@@ -398,6 +398,6 @@ accompanied by the feeling of necessity.
   <div class="csl-entry"><a id="citeproc_bib_item_15"></a>Wood, David W., ed. 2021. <i><a href="https://doi.org/">The Enigma of Fichte’s First Principles</a></i>. Leiden: Brill/Rodopi.</div>
 </div>
 
-[^fn:1]: For further reading see (<a href="#citeproc_bib_item_5">Henrich 1966</a>; <a href="#citeproc_bib_item_13">Pippin 1988</a>, <a href="#citeproc_bib_item_12">2000</a>; <a href="#citeproc_bib_item_11">Neuhouser 1990</a>; <a href="#citeproc_bib_item_10">Martin 1997</a>; <a href="#citeproc_bib_item_1">Ameriks 2000</a>; <a href="#citeproc_bib_item_2">Beiser 2002</a>; <a href="#citeproc_bib_item_4">Franks 2005</a>; <a href="#citeproc_bib_item_3">Breazeale 2013</a>; <a href="#citeproc_bib_item_14">Wood 2016</a>, <a href="#citeproc_bib_item_15">2021</a>; <a href="#citeproc_bib_item_8">Kosch 2015</a>, <a href="#citeproc_bib_item_9">2018</a>; <a href="#citeproc_bib_item_6">James and Zöller 2016</a>; <a href="#citeproc_bib_item_7">Kemp 2017</a>)
+[^fn:1]: For further reading see (<a href="#citeproc_bib_item_5">Henrich 1966</a>; <a href="#citeproc_bib_item_13">Pippin 1988</a>, <a href="#citeproc_bib_item_12">2000</a>; <a href="#citeproc_bib_item_11">Neuhouser 1990</a>; <a href="#citeproc_bib_item_10">Martin 1997</a>; <a href="#citeproc_bib_item_1">Ameriks 2000</a>; <a href="#citeproc_bib_item_2">Beiser 2002</a>; <a href="#citeproc_bib_item_4">Franks 2005</a>; <a href="#citeproc_bib_item_3">Breazeale 2013</a>; <a href="#citeproc_bib_item_14">Wood 2016</a>, <a href="#citeproc_bib_item_15">2021</a>; <a href="#citeproc_bib_item_8">Kosch 2015</a>, <a href="#citeproc_bib_item_9">2018</a>; <a href="#citeproc_bib_item_6">James and Zöller 2016</a>; <a href="#citeproc_bib_item_7">Kemp 2017</a>) this is a test: [nocite:@kitcher2011; @pereboom1990]
 [^fn:2]: This is not an obviously straw man position since many contemporary proponents of [eliminative materialism](https://plato.stanford.edu/entries/materialism-eliminative/), and in particular, so-called [&ldquo;illusionism&rdquo;](https://aeon.co/essays/what-if-your-consciousness-is-an-illusion-created-by-your-brain) about consciousness, would seem to evince the sort of view that Fichte describes as dogmatism.
 [^fn:3]: This seems to be an expression of Fichte&rsquo;s dissatisfaction with Kant&rsquo;s derivation of the categories in the Metaphysical Deduction of the first _Critique_.
