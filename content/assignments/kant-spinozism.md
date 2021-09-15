@@ -15,6 +15,8 @@ Kant&rsquo;s philosophy forming a rational basis for overcoming the &ldquo;nihil
 monism becomes one of the central issues in the development of post-Kantian German
 philosophy.
 
+-   [Handout](/materials/handouts/handout-3.pdf)
+
 
 ## Readings {#readings}
 

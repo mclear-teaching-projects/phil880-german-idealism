@@ -13,6 +13,8 @@ critical philosophy and his (Reinhold&rsquo;s) conception of what is needed to c
 We&rsquo;ll also look at criticisms of Reinhold&rsquo;s &ldquo;principle of consciousness&rdquo; by Schulze
 and Fichte.
 
+-   [Handout](/materials/handouts/handout-reinhold-critics.pdf)
+
 
 ## Readings {#readings}
 
