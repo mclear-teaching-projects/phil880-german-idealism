@@ -1,6 +1,5 @@
 +++
 title = "Fichte's System"
-author = ["PHIL 880"]
 publishDate = 2021-09-21T00:00:00-04:00
 tags = ["consciousness", "criticism", "dogmatism", "fatalism", "fichte", "idealism", "identity", "materialism", "realism", "representation", "science", "self-consciousness", "systematicity"]
 draft = false
