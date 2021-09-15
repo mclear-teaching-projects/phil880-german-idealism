@@ -54,7 +54,7 @@ At the base of every science is a fundamental or &ldquo;first&rdquo; principle. 
 &ldquo;first&rdquo;? Fichte seems to have several things in mind -- (1) _certainty_: the
 fundamental principle is the most certain element of the science; (2) _systematicity_:
 the fundamental principle is systematically connected to all other parts (cognitions)
-of the science; (3) explanation (a priority): the fundamental principle is the
+of the science; (3) _explanation_ (a priority): the fundamental principle is the
 explanatory ground of the other parts of the science. Fichte contends that while
 every science has a fundamental principle, the WL, as the &ldquo;science of science&rdquo;, is
 the most fundamental principle of all sciences, as that through which science itself
