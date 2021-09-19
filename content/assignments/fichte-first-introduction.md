@@ -19,7 +19,8 @@ and idealism.
 
 -   Fichte:
     -   [Concerning the Concept of the _Wissenschaftslehre_](/materials/readings/fichte-concept.pdf) (pp. 87-113)
-    -   First Introduction (Breazeale, pp. 2-35)
+    -   First Introduction (in _Introductions to the Wissenschaftslehre and Other
+        Writings, 1797-1800_, ed. Breazeale, pp. 2-35)
 -   Notes: [Fichte&rsquo;s System]({{< relref "week-5-fichte-project" >}}) ([PDF](/materials/handouts/week-5-fichte-project.pdf))
 -   GRADS: (pick one)
     -   Beiser, &ldquo;[Criticism vs Dogmatism](https://www.dropbox.com/s/ukd94eh95ymljf8/beiser2002-ii.3%5Fcriticism%5Fversus%5Fdogmatism.pdf?dl=0%0A)&rdquo;
