@@ -14,6 +14,8 @@ _Attempt at a New Presentation of the Wissenschaftslehre_. We&rsquo;ll discuss, 
 particular, Fichte&rsquo;s conception of science and his contrast between dogmatism and
 and idealism.
 
+-   [Handout](/materials/handouts/handout-5-fichte.pdf)
+
 
 ## Readings {#readings}
 
