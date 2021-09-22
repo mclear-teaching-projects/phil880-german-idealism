@@ -16,6 +16,7 @@ accompany all of our cognitive states/acts.
 
 ## Readings {#readings}
 
+-   Kant: [Transcendental Deduction](/materials/readings/kant-B-deduction.pdf) (B edition) §§16, 25
 -   Fichte
     -   Second Introduction, especially §§5-6
     -   (Optional) [Concerning the concept of the Wissenschaftslehre](/materials/readings/fichte-concept.pdf) (pp. 114-125)
