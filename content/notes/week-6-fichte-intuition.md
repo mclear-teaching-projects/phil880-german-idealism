@@ -32,6 +32,7 @@ these ideas with Kant&rsquo;s conception of the self-consciousness of &ldquo;pur
         - <span class="section-num">4.3.1</span> [Inner Sense](#inner-sense)
         - <span class="section-num">4.3.2</span> [Apperception](#apperception)
 - <span class="section-num">5</span> [Kant & Fichte](#kant-and-fichte)
+- [References](#references)
 
 </div>
 <!--endtoc-->
@@ -77,6 +78,51 @@ of oneself? If it is the subject---the referent of &rsquo;I&rsquo;---then we alr
 which we seek to explain. On the other hand, if reflection provides a consciousness
 of self through representation of some object, then we have failed to capture the
 _subjectivity_ of being the subject.[^fn:1]
+
+> What “I” is Kant talking about [in his discussion that the &ldquo;I think&rdquo; must be able
+> to accompany all of one&rsquo;s representations]... ? Is this perhaps the I that the
+> Kantians have so confidently pieced together from the manifold of representations,
+> an I that is not contained in any of these individual representations but is
+> contained within all of them taken together? If this were so, then the words we
+> have quoted from Kant would mean _this_: “I who am thinking of D am the same I who
+> previously thought of C, B, and A; and it is by thinking of my various acts of
+> thinking that I first become for n an I — i.e., that which remains identical within
+> this manifold.” If this is what Kant means, then he too would be as wretched a
+> babbler as the “Kantians” whom we are discussing; for he would then be contending
+> that the very possibility of all thinking is itself conditioned by another act of
+> thinking, and indeed, by the act of thinking of this act of thinking. If so, then I
+> should like to know how we are ever supposed to be able to accomplish a single act
+> of thinking! (1:475-6)
+
+Fichte thus contends that the regress involved in the reflection theorist&rsquo;s thinking
+of oneself is vicious, and can never explain what it seeks to explain. Fichte argues
+that instead of treating self-consciousness as in some way derivative of our
+conscious acts or states we should be construing it as _fundamental_. As Fichte puts it
+at one point:
+
+> the presupposition that self-consciousness is the foundation of all consciousness
+> completely coincides with the thought of the I as originally posited by itself
+> (SI 1:462)
+
+The act of &ldquo;self positing&rdquo; referred to here is that also referred to by the moniker
+of &ldquo;intellectual intuition&rdquo;. It is the fact that we are aware of ourselves via
+intellectual intuition that makes possible the explicit or reflective awareness of
+ourselves using the first-person concept &rsquo;I&rsquo;.
+
+> Intellectual intuition is the immediate consciousness that I act and of what I do
+> when I act. It is because of this that it is possible for me to know something
+> because I do it. ... I cannot take a single step, I cannot move my hand or foot,
+> without the intellectual intuition of my self-consciousness in these actions. It is
+> only through such an intuition that I know that _I_ do this. Only in this way am I
+> able to distinguish my own acting (and, within this acting, my own self) from the
+> encountered object of this acting. (SI 1:463)
+
+Fichte contends here that we have an immediate and basic awareness of ourselves in
+acting that is presupposed by any further complex representational acts or states of
+consciousness. Though we only have this sort of first-person &ldquo;action awareness&rdquo;
+insofar as we also are aware of some object of consciousness, the self-consciousness
+we have in and through intellectual intuition is not reducible to any form of object
+consciousness or any more basic act or state of the mind.
 
 
 ## <span class="section-num">2</span> Fichte&rsquo;s Characterization of Intellectual Intuition {#fichte-and-rsquo-s-characterization-of-intellectual-intuition}
@@ -175,12 +221,12 @@ represented entirely from their grounds rather than their effects, and indeed as
 being grounded in the intuitive intellect itself. As Kant reportedly puts it,
 
 > God cognizes all things by cognizing himself as the ground of all possibility
-> (_Religion Pölitz_ (1783/4), 28:1052; cf. /Metaphysik L<sub>1</sub>/ (mid-1770&rsquo;s), 28:328-9;
-> _Metaphysik L<sub>2</sub>_ (1790/1), 28:606).[^fn:4]
+> (_Religion Pölitz_ (1783/4), 28:1052; cf. /Metaphysik/ L<sub>1</sub> (mid-1770&rsquo;s), 28:328-9;
+> _Metaphysik L<sub>2</sub>_ (1790/1), 28:606).
 
 In cognizing things from their very grounds of possibility, the intuitive intellect
 would represent what is essential to any thing---i.e. in terms of that essence or
-nature that grounds all of a thing&rsquo;s other possible properties. Moreover, in
+nature that grounds all of a thing&rsquo;s other possible properties.[^fn:4] Moreover, in
 representing created things from their essences, the intuitive intellect represents
 those things as they are in themselves. Kant therefore plausibly thinks that the only
 being that might have such an intellect is God. God would thus intuit reality as it
@@ -540,13 +586,13 @@ and force (_Kraft_).[^fn:9] Kant&rsquo;s critical conception of causality is als
 linked to these notions. As he puts it, an act (_Handlung_) &ldquo;already signifies the
 relation of the subject of causality to the effect&rdquo; (A205/B250). What is an &ldquo;act&rdquo;?
 Kant provides the clearest description in metaphysics lectures from the Critical
-period:
+period:[^fn:10]
 
 > Action [_Handeln_] and effect [_Wirkung_] can only be ascribed to substance. Action is
 > the determination of the force [_Kraft_] of a substance as a cause of a certain
 > accident [_accidentis_]. Causality [_Causalitas_] is the characteristic of a substance
 > insofar as it is considered as the cause of an accident [_accidentis_] (_Metaphysik
-> Pölitz_ 28:564-5 (1790/1)).[^fn:10]
+> Pölitz_ 28:564-5 (1790/1)).
 
 Thus, while it is true that Kant, in contrast to Fichte, puts being rather than
 acting at the basis of one&rsquo;s existence, it is actually difficult to determine
@@ -554,13 +600,44 @@ whether this is a genuinely different position rather than a merely terminologic
 difference. Kant, like Fichte, sees this being as essentially active and it is on the
 basis of this activity that such a being counts as a substance.
 
-[^fn:1]: This dilemma for the reflection theory is forcefully argued in (Henrich 1982). See also (Kriegel 2004; Bayne 2004; Duncan 2019). > What “I” is Kant talking about [in his discussion that the &ldquo;I think&rdquo; must be able > to accompany all of one&rsquo;s representations]... ? Is this perhaps the I that the > Kantians have so confidently pieced together from the manifold of representations, > an I that is not contained in any of these individual representations but is > contained within all of them taken together? If this were so, then the words we > have quoted from Kant would mean _this_: “I who am thinking of D am the same I who > previously thought of C, B, and A; and it is by thinking of my various acts of > thinking that I first become for n an I — i.e., that which remains identical within > this manifold.” If this is what Kant means, then he too would be as wretched a > babbler as the “Kantians” whom we are discussing; for he would then be contending > that the very possibility of all thinking is itself conditioned by another act of > thinking, and indeed, by the act of thinking of this act of thinking. If so, then I > should like to know how we are ever supposed to be able to accomplish a single act > of thinking! (1:475-6) Fichte thus contends that the regress involved in the reflection theorist&rsquo;s thinking of oneself is vicious, and can never explain what it seeks to explain. Fichte argues that instead of treating self-consciousness as in some way derivative of our conscious acts or states we should be construing it as _fundamental_. As Fichte puts it at one point: > the presupposition that self-consciousness is the foundation of all consciousness > completely coincides with the thought of the I as originally posited by itself > (SI 1:462) The act of &ldquo;self positing&rdquo; referred to here is that also referred to by the moniker of &ldquo;intellectual intuition&rdquo;. It is the fact that we are aware of ourselves via intellectual intuition that makes possible the explicit or reflective awareness of ourselves using the first-person concept &rsquo;I&rsquo;. > Intellectual intuition is the immediate consciousness that I act and of what I do > when I act. It is because of this that it is possible for me to know something > because I do it. ... I cannot take a single step, I cannot move my hand or foot, > without the intellectual intuition of my self-consciousness in these actions. It is > only through such an intuition that I know that _I_ do this. Only in this way am I > able to distinguish my own acting (and, within this acting, my own self) from the > encountered object of this acting. (SI 1:463) Fichte contends here that we have an immediate and basic awareness of ourselves in acting that is presupposed by any further complex representational acts or states of consciousness. Though we only have this sort of first-person &ldquo;action awareness&rdquo; insofar as we also are aware of some object of consciousness, the self-consciousness we have in and through intellectual intuition is not reducible to any form of object consciousness or any more basic act or state of the mind.
-[^fn:2]: For discussion of the German rationalist conception of an intuitive intellect see (Winegar 2017). I take the intuitive understanding as a faculty for generating intellectual intuitions. Thus there is a conceptual, but not a real, distinction between the intuitive intellect (as ground or faculty) and intellectual intuition (as act of that faculty). For an alternative reading of Kant that sees these terms as marking two distinct faculties see (Ch. Förster 2012, 6).
-[^fn:3]: God&rsquo;s representation of all things is thus a priori in the &ldquo;archaic&rdquo; sense of representing a thing from its grounds. The influential _Port Royal Logic_ of Arnauld and Nicole includes a definition of the a priori in terms of the &rsquo;demonstration of effects by their causes&rsquo; (, Arnauld and Nicole 1683, 233). A version of this view arguably is accepted by Leibniz (, Adams 1994, 109; cf. Smit 2009; Hogan 2009, 53–54). Closer to Kant, Wolff provides a general definition of ground in terms of &rsquo;that through which one can understand why something [i.e. what is grounded] is the case&rsquo; (, § Wolff 1720, 29). Moreover, Kant&rsquo;s pre-critical conception of an antecedently determining ground, as articulated in the _New Elucidation_ and elsewhere also seems connected with these older notions (For discussion see Longuenesse 2001, 69–70; Hogan 2009, 53). For extensive defense of the critical Kant&rsquo;s acceptance of an &ldquo;archaic&rdquo; explanatory requirement on the notion of an a priori ground see (Smit 2009, 191–217).
-[^fn:4]: The conception of God as the ground of the very possibility of any actual being is a tenet faithfully held by Kant at least from his 1763 _Bewesigrund_ essay on the existence of God. For discussion see (Fisher and Watkins 1998; Adams 2000; Chignell 2009; Yong 2014; Stang 2016).
-[^fn:5]: So, _pace_ (Westphal 2000), Kant&rsquo;s conception of the intellect (or the understanding in particular) does not require conceiving of it as a faculty for _concept_ generation. Only discursive faculties are faculties for concept generation (and, correspondingly, for judgment and inference); cf. JL 9:36; CPJ 5:406.
-[^fn:6]: Kant understands the whole-to-part merelogical structure of representation as a distinguishing feature of intuition as opposed to conceptual representation, which is part-to-whole. See (Aquila 2001; McLear 2015; Onof and Schulting 2015; McLear and Pereboom 0BC) for discussion.
+
+## References {#references}
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Adams, Robert Merrihew. 1994. <i><a href="https://doi.org/">Leibniz: Determinist, Theist, Idealist</a></i>. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. 2000. <a href="https://doi.org/">“God, Possibility, and Kant.</a>” <i>Faith and Philosophy</i> 17 (4): 425–40.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Aquila, Richard E. 2001. <a href="https://doi.org/">“Infinitude, Whole-Part Priority, and the Ambiguity of Kantian `Space’ and `Time.</a>” In <i>Kant Und Die Berliner Aufklärung: Akten Des IX. Internationalen Kant-Kongresses</i>, edited by Rolf-Peter Horstmann Volker Gerhardt and Ralph Schumacher, 99–109. Berlin: Walter de Gruyter.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Arnauld, Antoine, and Pierre Nicole. 1683. <i><a href="https://doi.org/">Logic or the Art of Thinking</a></i>. Cambridge University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>Bayne, Tim. 2004. <a href="https://doi.org/">“Self-Consciousness and the Unity of Consciousness.</a>” <i>The Monist</i> 87 (2): 219–36.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>Chignell, Andrew. 2009. <a href="https://doi.org/">“Kant, Modality, and the Most Real Being.</a>” <i>Archiv Für Geschichte Der Philosophie</i> 91 (2): 157–92.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>Duncan, Matt. 2019. “The Self Shows up in Experience.” <i>Review of Philosophy and Psychology</i> 10 (2): 299–318. doi:<a href="https://doi.org/10.1007/s13164-017-0355-2">10.1007/s13164-017-0355-2</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_8"></a>Fisher, Mark, and Eric Watkins. 1998. <a href="https://doi.org/">“Kant on the Material Ground of Possibility: From ‘the Only Possible Argument’ to the ‘Critique of Pure Reason’.</a>” <i>The Review of Metaphysics</i> 52 (2): 369–95.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_9"></a>Förster, Eckart. 2012. <i><a href="https://doi.org/">The Twenty-Five Years of Philosophy: A Systematic Reconstruction</a></i>. Cambridge, MA: Harvard University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_10"></a>Henrich, Dieter. 1982. <a href="https://doi.org/">“Fichte’s Original Insight.</a>” In <i>Contemporary German Philosophy</i>, edited by  , 15–55. University Park, Penn: Pennsylvania State University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_11"></a>Hogan, Desmond. 2009. <a href="https://doi.org/">“Three Kinds of Rationalism and the Non-Spatiality of Things in Themselves.</a>” <i>Journal of the History of Philosophy</i> 47 (3): 355–82.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_12"></a>Kriegel, Uriah. 2004. <a href="https://doi.org/">“Consciousness and Self-Consciousness.</a>” <i>The Monist</i> 87 (2): 182–205.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>Longuenesse, Béatrice. 2001. <a href="https://doi.org/">“Kant’s Deconstruction of the Principle of Sufficient Reason.</a>” <i>The Harvard Review of Philosophy</i> 9 (1): 67–87.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>McLear, Colin. 2015. <a href="https://doi.org/">“Two Kinds of Unity in the Critique of Pure Reason.</a>” <i>Journal of the History of Philosophy</i> 53 (1): 79–110.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_15"></a>McLear, Colin, and Derk Pereboom. 0BC. <a href="https://doi.org/">“Kant on Transcendental Freedom, Priority Monism, &#38; the Structure of Intuition.</a>” In <i>The Idea of Freedom: New Essays on the Kantian Theory of Freedom</i>, edited by Evan Tiffany and Dai Heide. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_16"></a>Onof, Christian, and Dennis Schulting. 2015. <a href="https://doi.org/">“Space as Form of Intuition and as Formal Intuition. On the Note to B160 in Kant’s Critique of Pure Reason.</a>” <i>The Philosophical Review</i> 124 (1): 1–58.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_17"></a>Smit, Houston. 2009. <a href="https://doi.org/">“Kant on Apriority and the Spontaneity of Cognition.</a>” In <i>Metaphysics and the Good: Themes from the Philosophy of Robert Adams</i>, edited by Samuel Newlands and Larry M. Jorgensen, 188–251. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_18"></a>Stang, Nicholas F. 2016. <i><a href="https://doi.org/">Kant’s Modal Metaphysics</a></i>. New York: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_19"></a>———. 2019. <a href="https://doi.org/">“A Guide to Ground in Kant’s Lectures on Metaphysics.</a>” In <i>Kant’s Lectures on Metaphysics: A Critical Guide</i>, edited by Courtney D. Fugate, 74–101. Cambridge: Cambridge University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_20"></a>Watkins, Eric. 2005. <i><a href="https://doi.org/">Kant and the Metaphysics of Causality</a></i>. Cambridge: Cambridge University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_21"></a>Westphal, Kenneth R. 2000. <a href="https://doi.org/">“Kant, Hegel, and the Fate of ‘the’ Intuitive Intellect.</a>” In <i>The Reception of Kant’s Critical Philosophy: Fichte, Schelling, and Hegel</i>, edited by Sally Sedgwick, 283–305. Cambridge: Cambridge University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_22"></a>Winegar, Reed. 2017. “Kant on God’s Intuitive Understanding: Interpreting CJ §76’s Modal Claims.” <i>Kantian Review</i> 22 (2): 305–29. doi:<a href="https://doi.org/10.1017/S1369415417000061">10.1017/S1369415417000061</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_23"></a>Wolff, Christian. 1720. <i><a href="https://doi.org/">Vernünfftige Gedancken von Gott, Der Welt Und Der Seele Des Menschen, Auch Allen Dingen Überhaupt</a></i>. Halle: Rengerischen Buchhandlung.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_24"></a>Wuerth, Julian. 2014. <i><a href="https://doi.org/">Kant on Mind, Action, and Ethics</a></i>. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_25"></a>Yong, Peter. 2014. <a href="https://doi.org/">“God, Totality and Possibility in Kant’s Only Possible Argument.</a>” <i>Kantian Review</i> 19 (1): 27–51.</div>
+</div>
+
+[^fn:1]: This dilemma for the reflection theory is forcefully argued in (<a href="#citeproc_bib_item_10">Henrich 1982</a>). See also (<a href="#citeproc_bib_item_12">Kriegel 2004</a>; <a href="#citeproc_bib_item_5">Bayne 2004</a>; <a href="#citeproc_bib_item_7">Duncan 2019</a>).
+[^fn:2]: For discussion of the German rationalist conception of an intuitive intellect see (<a href="#citeproc_bib_item_22">Winegar 2017</a>). I take the intuitive understanding as a faculty for generating intellectual intuitions. Thus there is a conceptual, but not a real, distinction between the intuitive intellect (as ground or faculty) and intellectual intuition (as act of that faculty). For an alternative reading of Kant that sees these terms as marking two distinct faculties see (Ch. <a href="#citeproc_bib_item_9">Förster 2012, 6</a>).
+[^fn:3]: God&rsquo;s representation of all things is thus a priori in the &ldquo;archaic&rdquo; sense of representing a thing from its grounds. The influential _Port Royal Logic_ of Arnauld and Nicole includes a definition of the a priori in terms of the &rsquo;demonstration of effects by their causes&rsquo; (, <a href="#citeproc_bib_item_4">Arnauld and Nicole 1683, 233</a>). A version of this view arguably is accepted by Leibniz (, <a href="#citeproc_bib_item_1">Adams 1994, 109</a>; cf. <a href="#citeproc_bib_item_17">Smit 2009</a>; <a href="#citeproc_bib_item_11">Hogan 2009, 53–54</a>). Closer to Kant, Wolff provides a general definition of ground in terms of &rsquo;that through which one can understand why something [i.e. what is grounded] is the case&rsquo; (, § <a href="#citeproc_bib_item_23">Wolff 1720, 29</a>). Moreover, Kant&rsquo;s pre-critical conception of an antecedently determining ground, as articulated in the _New Elucidation_ and elsewhere also seems connected with these older notions (For discussion see <a href="#citeproc_bib_item_13">Longuenesse 2001, 69–70</a>; <a href="#citeproc_bib_item_11">Hogan 2009, 53</a>). For extensive defense of the critical Kant&rsquo;s acceptance of an &ldquo;archaic&rdquo; explanatory requirement on the notion of an a priori ground see (<a href="#citeproc_bib_item_17">Smit 2009, 191–217</a>).
+[^fn:4]: The conception of God as the ground of the very possibility of any actual being is a tenet faithfully held by Kant at least from his 1763 _Bewesigrund_ essay on the existence of God. For discussion see (<a href="#citeproc_bib_item_8">Fisher and Watkins 1998</a>; <a href="#citeproc_bib_item_2">Adams 2000</a>; <a href="#citeproc_bib_item_6">Chignell 2009</a>; <a href="#citeproc_bib_item_25">Yong 2014</a>; <a href="#citeproc_bib_item_18">Stang 2016</a>).
+[^fn:5]: So, _pace_ (<a href="#citeproc_bib_item_21">Westphal 2000</a>), Kant&rsquo;s conception of the intellect (or the understanding in particular) does not require conceiving of it as a faculty for _concept_ generation. Only discursive faculties are faculties for concept generation (and, correspondingly, for judgment and inference); cf. JL 9:36; CPJ 5:406.
+[^fn:6]: Kant understands the whole-to-part merelogical structure of representation as a distinguishing feature of intuition as opposed to conceptual representation, which is part-to-whole. See (<a href="#citeproc_bib_item_3">Aquila 2001</a>; <a href="#citeproc_bib_item_14">McLear 2015</a>; <a href="#citeproc_bib_item_16">Onof and Schulting 2015</a>; <a href="#citeproc_bib_item_15">McLear and Pereboom 0BC</a>) for discussion.
 [^fn:7]: He also occasionally calls pure apperception &ldquo;reflection&rdquo; (e.g. An 7:135n) or &ldquo;transcendental consciousness&rdquo; (e.g. Ref 18:306 (1785--89)).
 [^fn:8]: Kant rejects what, in contemporary discussion of this issue, has been called the &ldquo;Uniformity Thesis&rdquo; regarding self-knowledge. See, e.g., [@boyle2009, 141]; cf. [@shoemaker1988]; [@burge1996; -@burge2013-ch16]; [@moran2001].
 [^fn:9]: See A204/B250; R5289-90 18:144 (1776-78?); R5650 18:298-302 (1785-88).
-[^fn:10]: For extensive discussion of this conception of an act, as well as the related notions of substance and power in Kant&rsquo;s work see [@watkins2005, chs. 4-5; @smit2009; @wuerth2014, especially chs. 1, 6; @stang2019, 92-4].
+[^fn:10]: For extensive discussion of this conception of an act, as well as the related notions of substance and power in Kant&rsquo;s work see (, Chs. <a href="#citeproc_bib_item_20">Watkins 2005, 4–5</a>; <a href="#citeproc_bib_item_17">Smit 2009</a>; , especially chs. <a href="#citeproc_bib_item_24">Wuerth 2014, 1, 6</a>; <a href="#citeproc_bib_item_19">Stang 2019, 92–94</a>).
