@@ -18,7 +18,9 @@ accompany all of our cognitive states/acts.
 
 -   Kant: [Transcendental Deduction](/materials/readings/kant-B-deduction.pdf) (B edition) §§16, 25
 -   Fichte
-    -   Second Introduction, especially §§5-6
+    -   Second Introduction, especially §§5-6 (in _Introductions to the
+        Wissenschaftslehre and Other Writings, 1797-1800_, ed. Breazeale, pp. 36-105 --
+        §§5-6 pp. 46-76)
     -   (Optional) [Concerning the concept of the Wissenschaftslehre](/materials/readings/fichte-concept.pdf) (pp. 114-125)
 -   Notes: [Fichte on Intellectual Intuition & Self-Consciousness]({{< relref "week-6-fichte-intuition" >}}) ([PDF](/materials/handouts/week-6-fichte-intuition.pdf))
 -   GRADS: (Pick one)
