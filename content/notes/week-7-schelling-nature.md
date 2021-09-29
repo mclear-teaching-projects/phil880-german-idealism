@@ -1,7 +1,7 @@
 +++
 title = "Schelling on Nature"
 publishDate = 2021-10-05T00:00:00-04:00
-tags = ["identity", "nature", "science", "self-consciousness", "spinoza"]
+tags = ["identity", "nature", "schelling", "science", "self-consciousness", "spinoza"]
 draft = false
 weight = 0
 author = false
@@ -43,14 +43,14 @@ prospects and problems raised by his conception of reality in terms of the
 ## <span class="section-num">1</span> Who is Schelling? {#who-is-schelling}
 
 Friedrich Wilhelm Joseph von Schelling (1775–1854) is, along with J.G. Fichte and
-G.W.F. Hegel, one of the three most influential thinkers in the post-Kantian group of
-German Idealists. He played a major role in development of both Fichte&rsquo;s and Hegel&rsquo;s
-philosophies, and his own work constantly challenged position (both of his own and
-others) concerning what philosophy is, what its aims are, and how it should be
-practiced. Hegel joked that Schelling undertook his philosophical education
-in public, and Schelling&rsquo;s work is often described as &ldquo;protean&rdquo; in the sense of
-taking a variety of different forms and concerns, not all of which are obviously
-compatible with one another.
+G.W.F. Hegel, one of the three most influential thinkers in the group of post-Kantian
+German Idealists. He played a major role in the development of both Fichte&rsquo;s and
+Hegel&rsquo;s philosophies, and his own work constantly challenged positions (both of his
+own and others) concerning what philosophy is, what its aims are, and how it should
+be practiced. Hegel joked that Schelling undertook his philosophical education in
+public, and Schelling&rsquo;s work is often described as &ldquo;protean&rdquo; in the sense of taking a
+variety of different forms and concerns, not all of which are obviously compatible
+with one another.
 
 Schelling&rsquo;s philosophy is often divided into five periods, though, like all efforts
 at periodization, this distinctions are somewhat artificial.[^fn:2]
