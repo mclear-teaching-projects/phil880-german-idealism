@@ -140,7 +140,17 @@ overview of Schelling&rsquo;s main characteristic positions:
 
 Schelling&rsquo;s _Naturphilosophie_, or philosophy of nature, is an attempt to articulate
 how the self-conscious knowing subject originates from a non-conscious (or perhaps
-unconscious) dynamic nature. It a
+unconscious) dynamic nature. He calls it &ldquo;speculative physics&rdquo; in order to
+differentiate it from empirical natural science. There are two features of it that
+make it particularly salient with respect to its opposition to Fichte&rsquo;s philosophy.
+First, it is a form of transcendental realism, in the sense that it endorses the
+thesis that nature exists independent of all forms of consciousness, even that of the
+transcendental subject. Second, it endorses what we might call &ldquo;transcendental
+naturalism&rdquo;, the doctrine that everything is explicable according to the laws of
+nature, including the rationality of the transcendental subject.[^fn:3] As we&rsquo;ll see,
+however, Schelling&rsquo;s conception of &ldquo;nature&rdquo; is radically different from the
+mechanical conceptions that were dominant in philosophical and empirical at the time
+(and now).
 
 
 ## <span class="section-num">3</span> The Kantian Problematic {#the-kantian-problematic}
@@ -299,7 +309,7 @@ reconciliation.
 Though Schelling was greatly influenced by Fichte&rsquo;s work, Schelling&rsquo;s philosophy of
 nature expresses several ideas that ultimately would pull Schelling away from
 Fichte&rsquo;s philosophy, and indeed in such a way that it caused a severe personal rift
-between them.[^fn:3]
+between them.[^fn:4]
 
 The central (and interrelated) elements of Schelling&rsquo;s philosophy of nature that are
 relevant for his break with Fichte and development of his &ldquo;absolute&rdquo; idealism are:
@@ -504,4 +514,5 @@ of Philosophy_ in 1801.
 
 [^fn:1]: For discussion of these and related issues see (<a href="#citeproc_bib_item_2">Bowie 1993</a>; <a href="#citeproc_bib_item_1">Beiser 2002</a>; <a href="#citeproc_bib_item_3">Bruno 2020</a>; <a href="#citeproc_bib_item_4">Estes 2010</a>; <a href="#citeproc_bib_item_6">Franks 2005</a>; <a href="#citeproc_bib_item_8">Gardner 2017</a>; <a href="#citeproc_bib_item_7">Gabriel 2011</a>; <a href="#citeproc_bib_item_5">Fisher 2017</a>; <a href="#citeproc_bib_item_9">Gram 1981</a>; <a href="#citeproc_bib_item_10">Horstmann 2000</a>; <a href="#citeproc_bib_item_11">Kabeshkin 2017</a>; <a href="#citeproc_bib_item_12">Kosch 2006</a>; <a href="#citeproc_bib_item_13">Limnatis 2008</a>; <a href="#citeproc_bib_item_14">Nassar 2013</a>; <a href="#citeproc_bib_item_15">Ostaric 2014</a>; <a href="#citeproc_bib_item_17">Sedgwick 2000</a>; <a href="#citeproc_bib_item_18">Steigerwald 2015</a>; <a href="#citeproc_bib_item_20">Zammito 2018</a>)
 [^fn:2]: See (<a href="#citeproc_bib_item_19">Whistler and Berger 2020, 6</a>).
-[^fn:3]: See (<a href="#citeproc_bib_item_16">Schelling and Fichte 2012</a>) for details.
+[^fn:3]: For the formulation of these two theses see (<a href="#citeproc_bib_item_1">Beiser 2002, 483</a>).
+[^fn:4]: See (<a href="#citeproc_bib_item_16">Schelling and Fichte 2012</a>) for details.
