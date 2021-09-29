@@ -2,7 +2,7 @@
 title = "Week 7 – Schelling & the Challenge of Nature"
 publishDate = 2021-10-05T00:00:00-04:00
 tags = ["absolute", "intellectual intuition", "schelling", "nature", "organism", "spinoza"]
-draft = true
+draft = false
 weight = -100
 toc = false
 type = "post"
