@@ -14,6 +14,8 @@ Schelling&rsquo;s philosophy of identity. We&rsquo;ll focus on a small set of te
 Schelling&rsquo;s early _Naturphilosophie_, with an eye toward their criticisms of Fichte and
 adoption (if in modified form) of tenets of Spinozism.
 
+-   [Handout](/materials/handouts/handout-week-6-fichte-intuition.pdf)
+
 
 ## Readings {#readings}
 
