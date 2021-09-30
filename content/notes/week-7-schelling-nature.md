@@ -28,7 +28,7 @@ prospects and problems raised by his conception of reality in terms of the
 <div class="heading">Table of Contents</div>
 
 - <span class="section-num">1</span> [Who is Schelling?](#who-is-schelling)
-- <span class="section-num">2</span> [What is _Naturphilosophy_?](#what-is-naturphilosophy)
+- <span class="section-num">2</span> [What is _Naturphilosophie_?](#what-is-naturphilosophie)
 - <span class="section-num">3</span> [The Kantian Problematic](#the-kantian-problematic)
 - <span class="section-num">4</span> [Nature as Productive & as Product](#nature-as-productive-and-as-product)
     - <span class="section-num">4.1</span> [The Productivity of Nature](#the-productivity-of-nature)
@@ -136,7 +136,7 @@ overview of Schelling&rsquo;s main characteristic positions:
     consciousness and God&rsquo;s free and creative activity in history.
 
 
-## <span class="section-num">2</span> What is _Naturphilosophy_? {#what-is-naturphilosophy}
+## <span class="section-num">2</span> What is _Naturphilosophie_? {#what-is-naturphilosophie}
 
 Schelling&rsquo;s _Naturphilosophie_, or philosophy of nature, is an attempt to articulate
 how the self-conscious knowing subject originates from a non-conscious (or perhaps
