@@ -14,8 +14,6 @@ Schelling&rsquo;s philosophy of identity. We&rsquo;ll focus on a small set of te
 Schelling&rsquo;s early _Naturphilosophie_, with an eye toward their criticisms of Fichte and
 adoption (if in modified form) of tenets of Spinozism.
 
--   [Handout](/materials/handouts/handout-week-6-fichte-intuition.pdf)
-
 
 ## Readings {#readings}
 
@@ -23,5 +21,5 @@ adoption (if in modified form) of tenets of Spinozism.
 -   Schelling, [_Outline of a System of the Philosophy of Nature_](/materials/readings/schelling-nature.pdf) (excerpt)
 -   Notes: [Schelling on Nature]({{< relref "week-7-schelling-nature" >}}) ([PDF](/materials/handouts/week-7-schelling-nature.pdf))
 -   Grads (pick one)
-    -   Beiser, &ldquo;[Naturphilosophi, chs. 2,4](/materials/readings/beiser-naturphilosophie.pdf)&rdquo;
+    -   Beiser, &ldquo;[Naturphilosophie, chs. 2,4](/materials/readings/beiser-naturphilosophie.pdf)&rdquo;
     -   Nassar, &ldquo;[The Philosophy of Nature](/materials/readings/nassar-nature.pdf)&rdquo;

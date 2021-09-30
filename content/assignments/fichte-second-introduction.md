@@ -13,6 +13,8 @@ Presentation of the Science of Knowledge_. In particular, we&rsquo;ll look at hi
 discussion of intellectual intuition and the sense in which self-consciousness must
 accompany all of our cognitive states/acts.
 
+-   [Handout](/materials/handouts/handout-week-6-fichte-intuition.pdf)
+
 
 ## Readings {#readings}
 
