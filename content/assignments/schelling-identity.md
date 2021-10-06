@@ -20,7 +20,7 @@ notions.
 -   Schelling:
     -   [Presentation of My System of Philosophy](/materials/readings/schelling-presentation.pdf) (excerpt; up to §39)
     -   [On Construction in Philosophy](/materials/readings/schelling-construction.pdf)
--   Notes: COMING SOON!
+-   Notes: coming soon
 -   Grads (pick one)
     -   Beiser, &ldquo;[Schelling&rsquo;s Absolute Idealism](/materials/readings/beiser-schelling-absolute.pdf)&rdquo;
     -   Vater, &ldquo;[Schelling’s philosophy of identity and Spinoza’s Ethica more geometrico](/materials/readings/vater-schelling.pdf)&rdquo;
