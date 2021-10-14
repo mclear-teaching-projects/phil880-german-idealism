@@ -1,7 +1,7 @@
 +++
 title = "Week 10 – Hegel, Skepticism, & The Possibility of Metaphysics"
 publishDate = 2021-10-26T00:00:00-04:00
-tags = ["absolute", "difference", "hegel", "identity", "skepticism", "spinoza"]
+tags = ["absolute", "difference", "hegel", "identity", "knowledge", "science", "skepticism", "spinoza"]
 draft = false
 weight = -100
 toc = false
