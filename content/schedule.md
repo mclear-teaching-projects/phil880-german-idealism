@@ -22,7 +22,7 @@ information.
 | 7 - 10/5   | Schelling I                                      | Introduction to First Outline of a System of Natural Philosophy                                       |
 | 8 - 10/12  | Schelling II                                     | Presentation of my system OR On The Relationship of The Philosophy of Nature to Philosophy in General |
 | 9 - 10/19  | No class                                         |                                                                                                       |
-| 10 - 10/26 | Hegel I                                          | Pdg Intro (maybe +Skepticism & Philosophy?)                                                           |
+| 10 - 10/26 | Hegel I                                          | On the Relationship of Skepticism to Philosophy & PdG Intro                                           |
 | 11 - 11/2  | Hegel II                                         | PdG Preface                                                                                           |
 | 12 - 11/9  | Hegel III                                        | WdL Intro                                                                                             |
 | 13 - 11/16 | Hegel IV                                         | WdL With what must the beginning of science be made? (maybe +Encyclopedia?)                           |
