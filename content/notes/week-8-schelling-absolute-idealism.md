@@ -1,16 +1,17 @@
 +++
 title = "Schelling's Absolute Idealism"
 publishDate = 2021-10-12T00:00:00-04:00
-tags = ["absolute idealism", "identity", "schelling", "self-consciousness", "spinoza"]
+tags = ["absolute idealism", "identity", "intellectual intuition", "schelling", "self-consciousness", "spinoza"]
 draft = false
 weight = 0
 author = false
 type = "post"
 +++
 
-In these notes I disscuss focus on his related doctrine concerning intellectual
-intuition, as well as the prospects and problems raised by his conception of reality
-in terms of the &ldquo;absolute&rdquo;.[^fn:1]
+In these notes I discuss Schelling&rsquo;s &ldquo;Identity&rdquo; philosophy, or &ldquo;absolute idealism&rdquo;. I
+also discuss his related doctrine concerning intellectual intuition and construction,
+as well as the prospects and problems raised by his conception of reality in terms of
+the &ldquo;absolute&rdquo;.[^fn:1]
 
 <style>
   .ox-hugo-toc ul {
