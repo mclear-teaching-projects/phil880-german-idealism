@@ -461,7 +461,7 @@ This brings us to the question of _who_ it is that is doing the cognizing. Schel
 seemingly inspired by Spinoza, claims that _every_ (finite) being is itself a cognizing
 of this identity (DW 4:122). The idea here seems to be related to Spinoza&rsquo;s view that
 every mental mode is the representation (or perhaps form) of some material
-mode.[^fn:9] But such beings are only &rsquo;appearances&rsquo;. The only _an Sich_ or &ldquo;in itself&rdquo;
+mode.[^fn:9] But such beings are only &rsquo;appearances&rsquo;. The only _an sich_ or &ldquo;in itself&rdquo;
 is the totality that Schelling identifies with the entire universe (DS 4:125). So
 there aren&rsquo;t really paricular thinkers of the absolute -- instead all finite beings
 are, in so far as they are, parts of a totality, which alone exits.
