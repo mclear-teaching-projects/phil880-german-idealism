@@ -53,8 +53,8 @@ there seemingly aims at Schelling&rsquo;s system.
 Hegel’s published corpus consists of several different types of work. First, there
 are Hegel’s two major books: the _Phenomenology of Spirit_ (1807) and _Science of Logic_
 (1812–18). Second are works that were published at the time as handbooks for use in
-student teaching such as the Encyclopaedia of Philosophical _Sciences_ and /Elements of
-the Philosophy of Right. Third, there are posthumous publications, assembled by
+student teaching such as the Encyclopaedia of Philosophical _Sciences_ and _Elements of
+the Philosophy of Right_. Third, there are posthumous publications, assembled by
 editors from Hegel&rsquo;s lecture notes and from student transcripts of the lectures as
 delivered. Finally, there are the various essays and short works published during his
 career.
