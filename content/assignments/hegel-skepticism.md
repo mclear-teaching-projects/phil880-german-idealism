@@ -17,6 +17,7 @@ absolute.
 -   Hegel:
     -   [On the Relationship of Skepticism to Philosophy](/materials/readings/hegel-skepticism.pdf) (in _Between Kant and Hegel_ pp. 311-62)
     -   [Introduction](/materials/readings/hegel-pdg-intro.pdf) to the _Phenomenology of Spirit_
+-   Notes: [Hegel on Skepticism]({{< relref "week-10-hegel-skepticism" >}}) ([PDF](/materials/handouts/week-10-hegel-skepticism.pdf))
 -   Grads (pick one)
     -   Pippin, &ldquo;[Skepticism, Knowledge, and Truth in the Jena Phenomenology](/materials/readings/pippin-hegel-skepticism.pdf)&rdquo; (from _Hegel&rsquo;s Idealism_)
     -   Moyer, &ldquo;[Thought and Metaphysics: Hegel’s Critical Reception of Spinoza](/materials/readings/moyer-hegel.pdf)&rdquo;
