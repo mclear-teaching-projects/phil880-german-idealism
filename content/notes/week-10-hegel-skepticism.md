@@ -25,6 +25,8 @@ Introduction to the _Phenomenology of Spirit_ (PS).
 - <span class="section-num">1</span> [Who is Hegel?](#who-is-hegel)
 - <span class="section-num">2</span> [Forms of Skepticism](#forms-of-skepticism)
 - <span class="section-num">3</span> [The Problem of the Criterion](#the-problem-of-the-criterion)
+- <span class="section-num">4</span> [Starting Points I: Against (External) Critique](#starting-points-i-against--external--critique)
+- <span class="section-num">5</span> [Starting Points II: The Dialectic of Consciousness](#starting-points-ii-the-dialectic-of-consciousness)
 - [References](#references)
 
 </div>
@@ -185,6 +187,92 @@ change in (coherent) belief.[^fn:5] Against foundationalism, the argument raises
 similar worries concerning circularity, along with the additional charge of
 dogmatism, so long as one or another &ldquo;foundational&rdquo; claim is simply assumed or
 posited.
+
+
+## <span class="section-num">4</span> Starting Points I: Against (External) Critique {#starting-points-i-against--external--critique}
+
+Hegel offers twin and related criticisms of much of modern philosophy, insofar as it
+starts from an analysis of our capacity for cognition (or knowledge). The first of
+these is Hegel&rsquo;s criticism of treating faculty of cognition/knowledge as an
+&ldquo;instrument&rdquo; or &ldquo;medium&rdquo;:
+
+> this fear [of error] presupposes something, and in fact presupposes a great
+> deal, as truth, and it bases its scruples and its conclusions on what itself
+> ought to be tested in advance as to whether or not it is the truth. This fear
+> presupposes representations of cognizing as an instrument and as a medium, and
+> it also presupposes a difference between our own selves and this cognition; but
+> above all it presupposes that the absolute stands on one side and that cognition
+> stands on the other for itself, and separated from the absolute, though
+> cognition is nevertheless something real; that is, it presupposes that
+> cognition, which, by being outside of the absolute, is indeed also outside of
+> the truth, is nevertheless truthful; an assumption through which that which
+> calls itself the fear of error gives itself away to be known rather as the fear
+> of truth. (PS 2:54, §74)
+
+Here we see Hegel reject the claim that a rejection of metaphysics can begin from an
+analysis of the nature of our capacity for cognition. However, his argument here is
+not at all obvious. _That_ he is criticizing particular conceptions of philosophy and
+its starting point is clear. _What_ his criticism of these starting points is, is _not_.
+
+Fortunately, the above argument is clarified by things Hegel has to say with in his
+famous &ldquo;swimming objection&rdquo; from the opening of the _Encyclopedia_:
+
+> It is one of the main viewpoints of the _Critical_ philosophy that, prior to
+> setting about to acquire knowledge of God, the essence of things, etc., the
+> _faculty of knowing_ [_Erkenntnisvermögen_] itself would have to be examined ﬁrst in
+> order to see whether it is capable of achieving this; that one must first come
+> to know [_kennen lernen_] the _instrument_, before one undertakes the work that is
+> to be produced by means of it. For should the instrument be insufﬁcient, all the
+> effort would then have been expended in vain. This thought has seemed so
+> _plausible_ that it has elicited the greatest admiration and acclaim and drawn
+> knowing [_das Erkennen_] away from its interest in the _objects_ and work on them
+> and drawn it back to itself, i.e. to the formal aspect. If, however, we do not
+> delude ourselves with words, it is easy to see that other tools may very well be
+> examined and evaluated in ways other than undertaking the actual work for which
+> they are determined. But the examination of knowing [_die Untersuchung des
+> Erkennens_] cannot take place other than _by way of knowing_ [_als es erkennen_].
+> With this so-called instrument, examining it means nothing other than acquiring
+> knowledge of it. But to want to know _before_ one knows is as incoherent as the
+> Scholastic’s wise resolution to learn to _swim, before he ventured into the
+> water_. (EL §10)
+
+Hegel&rsquo;s mockery of this position is clear. What is his argument? Given his previous analysis of skepticism, we can read Hegel here as saying that view of philosophy as starting with an analysis of our capacity to cognize or know is susceptible to the Agrippan trilemma. Such a strategy is searching for a standard by means of which to evaluate knowledge claims, but this standard itself must be subject to evaluation, and this evaluation is subject to that trilemma.
+
+One question immediately raised by this claim is whether Hegel&rsquo;s position constitutes
+a rejection of Kant&rsquo;s critical philosophical method. Recall here that &ldquo;critique&rdquo;
+consists in the examination and &ldquo;discipline&rdquo; of the faculty of reason itself, to
+which Kant opposes &ldquo;dogmatism&rdquo;, which &ldquo;confidently takes on the execution of this
+task [i.e. metaphysics] without an antecedent examination of the capacity or
+incapacity of reason for such a great undertaking&rdquo; (B7). In contrast, Kant&rsquo;s
+&ldquo;critique&rdquo; of reason provides just such an examination of reason&rsquo;s capacity to attain
+comprehension of metaphysical truths. Such a critique will lead to a &ldquo;discipline&rdquo; of
+reason&rsquo;s reach -- of what can be adequately reasoned about, or &ldquo;comprehended&rdquo;. As
+Kant puts it,
+
+> [T]hat reason, which is properly obliged to prescribe its discipline for all
+> other endeavours, should have need of one itself, may certainly seem strange, and
+> in fact reason has previously escaped such a humiliation only because, given the
+> pomp and the serious mien with which it appears, no one could easily come to
+> suspect it of frivolously playing with fancies instead of concepts[,] and words
+> instead of things. (A710/B738; see also A738/B766)
+
+But Hegel is not obviously easily placed in either a pre-critical or post-critical
+box. He would seem to reject all pre-critical positions as unduly &ldquo;dogmatic&rdquo;, insofar
+as they depend upon presuppositions that would be susceptible to one of the horns of
+the Agrippan trilemma. But he isn&rsquo;t obviously &ldquo;post-critcal&rdquo; either, since he
+explicitly _rejects_ Kant&rsquo;s conception of &ldquo;critique&rdquo;, i.e. he reject the claim that
+philosophy starts with an evaluation of the capacity of reason to fulfill its role in
+inquiring into the nature of reality. We might rather say, in true Hegelian fashion,
+that this dichotomy must be overcome or &ldquo;sublated&rdquo;, in that it is not an opposition
+that withstands its own scrutiny. Kant&rsquo;s conception of &ldquo;critique&rdquo; is both
+anti-dogmatic in its aim, and dogmatic in its practice.
+
+If the aims of philosophy are not to be satisfied by critique (on Kant&rsquo;s conception)
+but we are not to return to pre-Kantian &ldquo;dogmatism&rdquo;, what is left? In what sense may
+metaphysics be set on the sure path of a science?
+
+
+## <span class="section-num">5</span> Starting Points II: The Dialectic of Consciousness {#starting-points-ii-the-dialectic-of-consciousness}
 
 One of Hegel&rsquo;s primary concerns in the _Phenomenology_ is to show how the trilemma may
 be avoided without also falling into any of the skeptical tropes characteristic of

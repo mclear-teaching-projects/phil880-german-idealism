@@ -14,6 +14,11 @@ _Phenomenology of Spirit_. In these texts Hegel criticizes various modes of skep
 and offers a sketch of a defense of &ldquo;speculative philosophy&rdquo; as a metaphysics of the
 absolute.
 
+-   [Handout](/materials/handouts/handout-10-hegel-skepticism.pdf)
+
+
+## Readings {#readings}
+
 -   Hegel:
     -   [On the Relationship of Skepticism to Philosophy](/materials/readings/hegel-skepticism.pdf) (in _Between Kant and Hegel_ pp. 311-62)
     -   [Introduction](/materials/readings/hegel-pdg-intro.pdf) to the _Phenomenology of Spirit_
