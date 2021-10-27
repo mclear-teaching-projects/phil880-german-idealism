@@ -10,8 +10,8 @@ toc = false
 
 Here are some possible topics for papers. You are welcome to write on something else
 (or on some modified topic related to one of the options below), but please discuss
-this with me first. The first draft of the paper is due **Monday, November 15^th**. The
-final draft is due **Monday, December 13^th**.
+this with me first. The first draft of the paper is due **Monday, November 15th**. The
+final draft is due **Monday, December 13th**.
 
 
 ## Kant {#kant}
