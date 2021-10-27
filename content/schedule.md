@@ -24,8 +24,8 @@ information.
 | 9 - 10/19  | No class                                         |                                                                                                       |
 | 10 - 10/26 | Hegel I                                          | On the Relationship of Skepticism to Philosophy & PdG Intro                                           |
 | 11 - 11/2  | Hegel II                                         | PdG Preface                                                                                           |
-| 12 - 11/9  | Hegel III                                        | WdL Intro                                                                                             |
-| 13 - 11/16 | Hegel IV                                         | WdL With what must the beginning of science be made? (maybe +Encyclopedia?)                           |
+| 12 - 11/9  | Hegel III                                        | WdL Intro; **Third Passage analysis due 11/12**                                                       |
+| 13 - 11/16 | Hegel IV                                         | WdL With what must the beginning of science be made?; **Paper draft due 11/15**                       |
 | 14 - 11/23 | Hegel V                                          | WdL Being-Nothing-Becoming                                                                            |
-| 15 - 11/30 | Hegel VI                                         | WdL Being-Nothing-Becoming                                                                            |
-| 16 - 12/7  | Catch-up                                         | TBA                                                                                                   |
+| 15 - 11/30 | Hegel VI                                         | WdL Being-Nothing-Becoming; **Fourth passage analysis due 12/3**                                      |
+| 16 - 12/7  | Catch-up                                         | Catch-up; **Final paper due 12/13**                                                                   |

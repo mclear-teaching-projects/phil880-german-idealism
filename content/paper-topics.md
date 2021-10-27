@@ -10,8 +10,8 @@ toc = false
 
 Here are some possible topics for papers. You are welcome to write on something else
 (or on some modified topic related to one of the options below), but please discuss
-this with me first. The first draft of the paper is due **Friday, November 12th**. The
-final draft is due **Friday, December 12th**.
+this with me first. The first draft of the paper is due **Monday, November 15^th**. The
+final draft is due **Monday, December 13^th**.
 
 
 ## Kant {#kant}
@@ -51,5 +51,14 @@ final draft is due **Friday, December 12th**.
 
 ## Schelling {#schelling}
 
+-   What is &ldquo;construction&rdquo; and why does Schelling think it necessary for philosophy?
+-   Explain the role of identity in Schelling&rsquo;s philosophy of identity
+
 
 ## Hegel {#hegel}
+
+-   Explain the role skepticism plays in Hegel&rsquo;s philosophical project. In what sense
+    is or isn&rsquo;t Hegel a &ldquo;critical&rdquo; philosopher?
+-   What is Hegel&rsquo;s &ldquo;dialectical&rdquo; method for doing metaphysics?
+-   How does Hegel&rsquo;s derivation of the categories differ from Kant&rsquo;s? Is one preferable
+    to the other?
