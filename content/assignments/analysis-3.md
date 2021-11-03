@@ -1,5 +1,5 @@
 +++
-title = "Third Passage Analysis Due 11-12"
+title = "Third Passage Analysis – Due 11/12"
 publishDate = 2021-11-12T00:00:00-05:00
 tags = ["schelling", "passage-analysis"]
 draft = false
