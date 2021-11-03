@@ -24,7 +24,7 @@ generally systematicity as an aim of German Idealism.
 -   Hegel:
     -   [Preface](/materials/readings/hegel-pdg-preface.pdf), _Phenomenology of Spirit_
     -   [Introduction](/materials/readings/hegel-encyclopedia-intro.pdf), Encyclopedia of the Philosophical Sciences in Basic Outline (§§11-18)
--   Notes:
+-   Notes: [Systematicity in Kant & Hegel]({{< relref "week-10-hegel-system" >}}) ([PDF](/materials/handouts/handout-11-systematicity.pdf))
 -   Grads (pick one):
     -   Siep, &ldquo;[The Task and Method of the Phenomenology of Spirit](/materials/readings/siep-phenomenology.pdf)&rdquo;
     -   Stern, &ldquo;[The Phenomenology in Context](/materials/readings/stern-phenomenology.pdf)&rdquo;
