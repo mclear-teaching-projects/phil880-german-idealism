@@ -23,7 +23,7 @@ November 12^th, by 5 p.m.
 > imagination 15 mingles with thought, in a word, to see in things only that
 > aspect by which they express absolute reason. Philosophy, however, does not
 > view them insofar as they are objects of reflection, which is subject to the
-> laws of mechanism and has duration in time. (DS 346, §1)
+> laws of mechanism and has duration in time. (_Presentation of My System_ 349, §1)
 
 
 ## Passage 2 {#passage-2}
@@ -44,4 +44,4 @@ November 12^th, by 5 p.m.
 > forever and necessarily one and the same, by contrast, that in which unity is
 > demonstrated is necessarily not one, but many—as happens in geometry, where
 > the identical form and absolute unity of space is expressed in the different
-> units of triangles, squares, circles, etc. (WD 385, §IV)
+> units of triangles, squares, circles, etc. (_Further Presentation_ 385, §IV)
