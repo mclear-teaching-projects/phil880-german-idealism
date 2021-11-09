@@ -1,5 +1,5 @@
 +++
-title = "Week 13 – The Science of Logic"
+title = "Week 13 – The Science of Logic II"
 publishDate = 2021-11-16T00:00:00-05:00
 tags = ["concept", "difference", "hegel", "identity", "knowledge", "logic", "science"]
 draft = false
