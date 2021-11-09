@@ -12,6 +12,11 @@ This week&rsquo;s discussion centers on the issue of Hegel&rsquo;s conception of
 for a science of logic, and his criticism of Kant and Fichte&rsquo;s &ldquo;subjective&rdquo;
 view of the categories.
 
+-   [Handout](/materials/handouts/handout-12-why-logic.pdf)
+
+
+## Readings {#readings}
+
 -   Kant: [Metaphysical Deduction](/materials/readings/kant-deduction-excerpt.pdf) (§§9-10)
 -   Hegel: [Introduction](/materials/readings/hegel-logic-intro.pdf), Science of Logic
 -   Notes: [The Need for a Science of Logic]({{< relref "week-12-hegel-logic" >}}) ([PDF](/materials/handouts/week-12-hegel-logic.pdf))
