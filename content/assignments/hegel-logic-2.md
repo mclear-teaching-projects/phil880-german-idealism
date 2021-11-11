@@ -15,4 +15,5 @@ conception of the relation between logic, science, and metaphysics.
 -   Notes: TBA
 -   Grads (pick one)
     -   Houlgate, &ldquo;[Presuppositionless Thinking](/materials/readings/houlgate-presupposition.pdf)&rdquo;
+    -   Henrich, &ldquo;[The Logic of Negation & Its Application](/materials/readings/henrich-logic.pdf)&rdquo;
     -   Kaufmann, &ldquo;[The Logic](/materials/readings/kaufmann-logic.pdf)&rdquo;
