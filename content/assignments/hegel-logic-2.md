@@ -12,7 +12,7 @@ We continue with our discussion of the opening of the _Logic_ and Hegel&rsquo;s
 conception of the relation between logic, science, and metaphysics.
 
 -   Hegel: [With what must the beginning of science be made?](/materials/readings/hegel-science-beginning.pdf)
--   Notes: TBA
+-   Notes: [Thought&rsquo;s Dialectic]({{< relref "week-13-hegel-dialectic" >}}) ([PDF](/materials/handouts/week-13-hegel-dialectic.pdf))
 -   Grads (pick one)
 
     -   Houlgate, &ldquo;[Presuppositionless Thinking](/materials/readings/houlgate-presupposition.pdf)&rdquo;

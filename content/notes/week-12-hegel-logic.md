@@ -57,7 +57,15 @@ consists of two criticisms concerning their derivation. The first criticism
 concerns the way in which Kant and predecessors specify _which_ concepts are
 fundamental, i.e. which divisions count as genuine _categories_. This element of
 Hegel&rsquo;s negative argument largely derives from criticisms made by Fichte with
-respect to Kant&rsquo;s account of which divisions or concepts are fundamental.
+respect to Kant&rsquo;s account of which divisions or concepts are fundamental. In
+general, the objection is that Kant uncritically or dogmatically accepts a
+historically prior (and ultaimtely contentious) conception of logic in his
+characterization of the categories. For Hegel, logic must be
+presuppositionless.
+
+> Logic, on the contrary, cannot presuppose any of these forms of
+> reflection, these rules and laws of thinking, for they are part of its
+> content and they first have to be established within it (SL 23; 21:27)
 
 The second criticism concerns the ground or _origin_ of the categories---from
 what do such divisions originate? Here Hegel is critical of the entire
@@ -65,7 +73,13 @@ tradition in metaphysics that precedes him, though perhaps most especially of
 Kant and Fichte. The latter two, Hegel contends, derive the categories from
 subjective acts (even if necessary ones). This subjective origin of the
 categories renders any epistemic assurance of their validity beyond the mind
-impossible, resulting in a wholly subjective idealism.
+impossible, with the upshot that the categories fail even to be possibly true
+of any object.
+
+> The _critique of the forms of the understanding_ [i.e. the categories] has
+> arrived precisely at this result, namely that such forms do _not apply to
+> things in themselves_. This can only mean that they are in themselves
+> something untrue. (SL 26; 21:30)
 
 Finally, Hegel&rsquo;s positive project consists in providing an account of the
 categories that articulates _which_ concepts are fundamental, explains _why_ they
@@ -103,6 +117,15 @@ Kant&rsquo;s charge is that the right account of the categories (whether worldly
 conceptual) must also explain why just _these_ categories, and not some others,
 are correct. Moreover, it must do so in a way that ensure that the
 characterization of the categories is complete or exhaustive.
+
+> Transcendental philosophy has the advantage but also the obligation to seek
+> its concepts in accordance with a principle, since they spring pure and
+> unmixed from the understanding, as absolute unity, and must therefore be
+> connected among themselves in accordance with a concept or idea. Such a
+> connection, however, provides a rule by means of which the place of each
+> pure concept of the understanding and the completeness of all of them
+> together can be determined a priori, which would otherwise depend upon whim
+> or chance. (A67/B92)
 
 Ironically, Hegel indicts Kant for a similar failing. Hegel acknowledges that
 Kant&rsquo;s account is not &ldquo;rapsodic&rdquo;, but he contends that it is similarly
@@ -147,7 +170,18 @@ categories. Hegel&rsquo;s worry seems to be that the only other option left is t
 the activity through which the categories arise is a kind of intellectual
 &ldquo;seeing&rdquo; or &ldquo;scrying&rdquo; insofar as one pays attention to one&rsquo;s mental acts and
 then abstracts from them to form concepts. Kant strongly encourages this
-quasi-perceptual aspect of the generation of the categories when he says:[^fn:2]
+quasi-perceptual aspect of the generation of the categories in a number of
+different ways. His account of the &ldquo;original acquisition&rdquo; of the categories
+via acts of reflection on the logical forms presupposes that one can _attend_ to
+one&rsquo;s act of judgment, where presumably Kant means the act itself and not
+merely the result of that act, the latter of which is available in inner
+sense. Kant also speaks of the &ldquo;givenness&rdquo; (A728-9/B756-7) of the categories,
+as &ldquo;reflected concepts&rdquo; for which the subject&rsquo;s experiences stand as the
+&ldquo;occasional causes of their generation&rdquo; (A86/B118), which at least suggests
+that such experience gives the subject the opportunity to attend to its acts
+insofar as those acts are constitutive of its experience.[^fn:2] He also
+suggests a kind of quasi-perceptual relation to judgmental activity when he
+says:[^fn:3]
 
 > this unity of consciousness would be impossible if in the cognition of
 > the manifold the mind could not become conscious of the identity of
@@ -176,22 +210,13 @@ figure. He says,
 Kant&rsquo;s point would seem to be that the mind&rsquo;s ability to direct its attention,
 even in the purely intellectual case of the act of synthesis _itself_ (and not
 just the _result_ of that act), is a necessary condition of achieving cognition.
-We see this again in terms of Kant&rsquo;s account of the &ldquo;original acquisition&rdquo; of
-the categories via acts of reflection on the logical forms. Such acts of
-reflection presuppose that one can _attend_ to one&rsquo;s act of judgment, where
-presumably Kant means the act itself and not mere result of that, which is
-available in inner sense. Kant speaks of the &ldquo;givenness&rdquo; (A728-9/B756-7) of
-the categories, as &ldquo;reflected concepts&rdquo; for which the subject&rsquo;s experiences
-stand as the &ldquo;occasional causes of their generation&rdquo; (A86/B118), which at
-least suggests that such experience gives the subject the opportunity to
-attend to its acts insofar as those acts are constitutive of its
-experience.[^fn:3] But again, this seems to encourage a kind of &ldquo;intellectual
-experience&rdquo; in which one acquires the categories via abstraction the some
-given intellectual material. But from such acts how can we be sure that we
-gotten the fundamental ones, or have gotten all of them, and do so whithout
-falling back on the horn presented by the first, historical, challenge. Thus
-does Hegel acknowledge the sense in which the categories are intellectually
-acquired but nevertheless &ldquo;empirical&rdquo;.
+But again, this seems to encourage a kind of &ldquo;intellectual experience&rdquo; in
+which one acquires the categories via abstraction the some given intellectual
+material. But from such acts how can we be sure that we gotten the fundamental
+ones, or have gotten all of them, and do so whithout falling back on the horn
+presented by the first, historical, challenge. Thus does Hegel acknowledge the
+sense in which the categories are intellectually acquired but nevertheless
+&ldquo;empirical&rdquo;.
 
 
 ## <span class="section-num">3</span> The Origin of the Categories {#the-origin-of-the-categories}
@@ -261,35 +286,36 @@ thinking (e.g. categorical judgment), when applied to a multiplicity (or
 &ldquo;manifold&rdquo;) of intuitions, results in a distinctive way of relating to, or
 &ldquo;experiencing&rdquo; in Kant&rsquo;s technical sense, an object e.g. a substance.
 
-The upshot of Kant&rsquo;s view is that categories are derived from the intellect&rsquo;s
-activity insofar as it judges---they are reflected forms of this
-activity.[^fn:4] Now why might this be objectionable to Hegel? Hegel&rsquo;s worry,
-in short, is that Kant&rsquo;s method of deriving the categories from the subject&rsquo;s
-discursive activity ends up limiting the applicability of those categories to
-the subject and its acts (e.g. its representational acts). But if
-categorialism in metaphysics aims at elucidating the structure of being, then
-(again this is Hegel&rsquo;s contention) Kant&rsquo;s theory of the origin of the
+The upshot of Kant&rsquo;s view is that categories are derived from reflection on
+the intellect&rsquo;s activity insofar as it judges---they are reflected forms of
+this activity.[^fn:4] Now why might this be objectionable to Hegel? Hegel&rsquo;s
+worry, in short, is that Kant&rsquo;s method of deriving the categories from the
+subject&rsquo;s discursive activity ends up limiting the applicability of those
+categories to the subject and its acts (e.g. its representational acts). But
+if categorialism in metaphysics aims at elucidating the structure of being,
+then (again this is Hegel&rsquo;s contention) Kant&rsquo;s theory of the origin of the
 categories lies in the structure of judging ends up foreclosing, in a
 question-begging way, the possibility of metaphysics as traditionally
 understood. Put in terms of the architectonic of the first _Critique_, Kant&rsquo;s
 anti-metaphysical or &ldquo;critical&rdquo; move comes not in the Dialect&rsquo;s discussion of
 reason, but rather in the Metaphysical Deduction itself.
 
-Much of the content of Hegel&rsquo;s animadversions here against Kant has been rejected
-by contemporary Kant scholars as based on misunderstandings (willful or not)
-of Kant&rsquo;s philosophy.[^fn:5] In particular, one might worry that Hegel&rsquo;s
-objection to Kant itself begs the question. We might put the worry this way:
-even if we grant to Hegel the contention that Kant&rsquo;s derivational basis
-restricts the application of the categories to (the content of) discursive
-acts of the subject, it isn&rsquo;t clear that this is a question-begging move so
-much as a clarification of what any reasonable form of categorialism could be.
-Further, it isn&rsquo;t even clear that Kant&rsquo;s categorialism is &ldquo;subjective&rdquo; in this
-manner. Perhaps it is true that we may not be able to get certain kinds of
-justification or warrant for claims that mind-independent reality is
-categorial in the sense required, but why think means that our categories are
-merely subjective? It certainly seems at least possible that our categories
-correctly delimit the structure of being or reality itself. So something like
-the following from Hegel would seem overwrought.
+Much of the content of Hegel&rsquo;s animadversions here against Kant has been
+rejected by contemporary Kant scholars as based on misunderstandings (willful
+or not) of Kant&rsquo;s philosophy.[^fn:5] In particular, one might worry that
+Hegel&rsquo;s objection to Kant itself begs the question. We might put the worry
+this way: even if we grant to Hegel the contention that Kant&rsquo;s derivational
+basis for the categories restricts their application  to (the
+content of) discursive acts of the subject, it isn&rsquo;t clear that this is a
+question-begging move so much as a clarification of what any reasonable form
+of categorialism could be. Further, it isn&rsquo;t even clear that Kant&rsquo;s
+categorialism is &ldquo;subjective&rdquo; in this manner. Perhaps it is true that we may
+not be able to get certain kinds of justification or warrant for claims that
+mind-independent reality is categorial in the sense required, but why think
+means that our categories are merely subjective? It certainly seems at least
+possible that our categories correctly delimit the structure of being or
+reality itself. So something like the following from Hegel would seem
+overwrought.
 
 > although the categories (e.g., unity, cause and effect, etc.) pertain to
 > thinking as such, it does not at all follow from this that they must
@@ -680,54 +706,54 @@ through.
 ## References {#references}
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Adams, Robert Merrihew. 1994. <i>Leibniz: Determinist, Theist, Idealist</i>. Oxford: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. 2000. “God, Possibility, and Kant.” <i>Faith and Philosophy</i> 17 (4): 425–40.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Adickes, Erich. 1924. <i>Kant Und Das Ding an Sich</i>. Berlin: R. Heise.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Allison, Henry E. 1973. <i>The Kant-Eberhard Controversy</i>. Baltimore: The Johns Hopkins University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>Ameriks, Karl. 1985. “Hegel’s Critique of Kant’s Theoretical Philosophy.” <i>Philosophy and Phenomenological Research</i> 46 (1): 1–35.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>———. 2015. “Some Persistent Presumptions of Hegelian Anti-Subjectivism.” <i>Aristotelian Society Supplementary Volume</i> 89 (1): 43–60.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>Aquila, Richard E. 2001. “Infinitude, Whole-Part Priority, and the Ambiguity of Kantian `Space’ and `Time.” In <i>Kant Und Die Berliner Aufklärung: Akten Des IX. Internationalen Kant-Kongresses</i>, edited by Rolf-Peter Horstmann Volker Gerhardt and Ralph Schumacher, 99–109. Berlin: Walter de Gruyter.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_8"></a>Arnauld, Antoine, and Pierre Nicole. 1683. <i>Logic or the Art of Thinking</i>. Edited by Jill Vance Buroker. Cambridge University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_9"></a>Bristow, William F. 2007. <i>Hegel and the Transformation of Philosophical Critique</i>. Oxford: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_10"></a>Chignell, Andrew. 2007. “Belief in Kant.” <i>The Philosophical Review</i> 116 (3): 323–60.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_11"></a>———. 2009. “Kant, Modality, and the Most Real Being.” <i>Archiv Für Geschichte Der Philosophie</i> 91 (2): 157–92.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_12"></a>Engstrom, Stephen. 2018. “The Category of Substance.” Edited by Katherine Dunlop and Samuel Levey. <i>History of Philosophy and Logical Analysis: From Leibniz to Kant</i> 21 (1): 235–60.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>Fisher, Mark, and Eric Watkins. 1998. “Kant on the Material Ground of Possibility: From ``the Only Possible Argument’’ to the ``Critique of Pure Reason’’.” <i>The Review of Metaphysics</i> 52 (2): 369–95.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>Förster, Eckart. 2012. <i>The Twenty-Five Years of Philosophy: A Systematic Reconstruction</i>. Cambridge, MA: Harvard University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_15"></a>Guyer, Paul. 1993. “Thought and Being: Hegel’s Critique of Kant’s Theoretical Philosophy.” In <i>Cambridge Companion to Hegel</i>, edited by Frederick C Beiser, 171–210. Cambridge: Cambridge University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_16"></a>Heis, Jeremy. 2013. “The Priority Principle from Kant to Frege.” <i>Noûs</i> 48 (2): 268–97.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_17"></a>Hogan, Desmond. 2009. “Three Kinds of Rationalism and the Non-Spatiality of Things in Themselves.” <i>Journal of the History of Philosophy</i> 47 (3): 355–82.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_18"></a>Houlgate, Stephen. 2015. “Hegel’s Critique of Kant.” <i>Aristotelian Society Supplementary Volume</i> 89 (1): 21–41.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_19"></a>Kohl, Markus. 2015. “Kant on the Inapplicability of the Categories to Things in Themselves.” <i>British Journal for the History of Philosophy</i> 23 (1): 90–114.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_20"></a>Kreines, James. 2015. <i>Reason in the World: Hegel’s Metaphysics and Its Philosophical Appeal</i>. Oxford: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_21"></a>Longuenesse, Béatrice. 1998. <i>Kant and the Capacity to Judge</i>. Princeton: Princeton University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_22"></a>———. 2001. “Kant’s Deconstruction of the Principle of Sufficient Reason.” <i>The Harvard Review of Philosophy</i> 9 (1): 67–87.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_23"></a>Marshall, Colin. 2018. “Never Mind the Intuitive Intellect: Applying Kant’s Categories to Noumena.” <i>Kantian Review</i> 23 (1): 27–40.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_24"></a>McLear, Colin. 2015. “Two Kinds of Unity in the Critique of Pure Reason.” <i>Journal of the History of Philosophy</i> 53 (1): 79–110.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_25"></a>———. 2016. “Kant on Perceptual Content.” <i>Mind</i> 125 (497): 95–144.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_26"></a>———. 2020. “Apperception &#38; the Substantial Subject.” <i>Philosophers’ Imprint</i> 20 (26): 1–38.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_27"></a>McLear, Colin, and Derk Pereboom. 0BC. “Kant on Transcendental Freedom, Priority Monism, &#38; the Structure of Intuition.” In <i>The Idea of Freedom: New Essays on the Kantian Theory of Freedom</i>, edited by Evan Tiffany and Dai Heide. Oxford: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_28"></a>Onof, Christian, and Dennis Schulting. 2015. “Space as Form of Intuition and as Formal Intuition. On the Note to B160 in Kant’s Critique of Pure Reason.” <i>The Philosophical Review</i> 124 (1): 1–58.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_29"></a>Sedgwick, Sally. 2012. <i>Hegel’s Critique of Kant</i>. Oxford: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_30"></a>Smit, Houston. 2009. “Kant on Apriority and the Spontaneity of Cognition.” In <i>Metaphysics and the Good: Themes from the Philosophy of Robert Adams</i>, edited by Samuel Newlands and Larry M. Jorgensen, 188–251. Oxford: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_31"></a>Stang, Nicholas F. 2016. <i>Kant’s Modal Metaphysics</i>. New York: Oxford University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_32"></a>Tolley, Clinton. 2018. “Hegel’s Conception of Thinking in His Logics.” In <i>Logic from Kant to Russell</i>, edited by Sandra Lapointe, 73–100. London: Routledge.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_33"></a>Vanzo, Alberto. 2008. “A Correspondence Theory of Objects? on Kant’s Notions of Object, Truth, and Actuality.” <i>History of Philosophy Quarterly</i> 25 (3): 259–75.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_34"></a>———. 2010. “Kant on the Nominal Definition of Truth.” <i>Kant-Studien</i> 101 (2): 147–66.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_35"></a>———. 2018. “Leibniz on Innate Ideas and Kant on the Origin of the Categories.” <i>Archiv Für Geschichte Der Philosophie</i> 100 (1): 19–45.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_36"></a>Westphal, Kenneth R. 2000. “Kant, Hegel, and the Fate of ``The’’ Intuitive Intellect.” In <i>The Reception of Kant’s Critical Philosophy: Fichte, Schelling, and Hegel</i>, edited by Sally Sedgwick, 283–305. Cambridge: Cambridge University Press.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_37"></a>Winegar, Reed. 2017. “Kant on God’s Intuitive Understanding: Interpreting CJ §76’s Modal Claims.” <i>Kantian Review</i> 22 (2): 305–29.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_38"></a>———. 2018. “Kant on Intuitive Understanding and Things in Themselves.” <i>European Journal of Philosophy</i> 26 (4): 1238–52.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_39"></a>Wolff, Christian. 1720. <i>Vernünfftige Gedancken von Gott, Der Welt Und Der Seele Des Menschen, Auch Allen Dingen Überhaupt</i>. Halle: Rengerischen Buchhandlung.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_40"></a>Yong, Peter. 2014. “God, Totality and Possibility in Kant’s Only Possible Argument.” <i>Kantian Review</i> 19 (1): 27–51.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Adams, Robert Merrihew. 1994. <i><a href="https://doi.org/">Leibniz: Determinist, Theist, Idealist</a></i>. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. 2000. <a href="https://doi.org/">“God, Possibility, and Kant.</a>” <i>Faith and Philosophy</i> 17 (4): 425–40.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Adickes, Erich. 1924. <i><a href="https://doi.org/">Kant Und Das Ding an Sich</a></i>. Berlin: R. Heise.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Allison, Henry E. 1973. <i><a href="https://doi.org/">The Kant-Eberhard Controversy</a></i>. Baltimore: The Johns Hopkins University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>Ameriks, Karl. 1985. <a href="https://doi.org/">“Hegel’s Critique of Kant’s Theoretical Philosophy.</a>” <i>Philosophy and Phenomenological Research</i> 46 (1): 1–35.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>———. 2015. <a href="https://doi.org/">“Some Persistent Presumptions of Hegelian Anti-Subjectivism.</a>” <i>Aristotelian Society Supplementary Volume</i> 89 (1): 43–60.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>Aquila, Richard E. 2001. <a href="https://doi.org/">“Infinitude, Whole-Part Priority, and the Ambiguity of Kantian `Space’ and `Time.</a>” In <i>Kant Und Die Berliner Aufklärung: Akten Des IX. Internationalen Kant-Kongresses</i>, edited by Rolf-Peter Horstmann Volker Gerhardt and Ralph Schumacher, 99–109. Berlin: Walter de Gruyter.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_8"></a>Arnauld, Antoine, and Pierre Nicole. 1683. <i><a href="https://doi.org/">Logic or the Art of Thinking</a></i>. Cambridge University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_9"></a>Bristow, William F. 2007. <i><a href="https://doi.org/">Hegel and the Transformation of Philosophical Critique</a></i>. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_10"></a>Chignell, Andrew. 2007. <a href="https://doi.org/">“Belief in Kant.</a>” <i>The Philosophical Review</i> 116 (3): 323–60.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_11"></a>———. 2009. <a href="https://doi.org/">“Kant, Modality, and the Most Real Being.</a>” <i>Archiv Für Geschichte Der Philosophie</i> 91 (2): 157–92.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_12"></a>Engstrom, Stephen. 2018. <a href="https://doi.org/">“The Category of Substance.</a>” <i>History of Philosophy and Logical Analysis: From Leibniz to Kant</i> 21 (1): 235–60.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_13"></a>Fisher, Mark, and Eric Watkins. 1998. <a href="https://doi.org/">“Kant on the Material Ground of Possibility: From ``the Only Possible Argument’’ to the ``Critique of Pure Reason’’.</a>” <i>The Review of Metaphysics</i> 52 (2): 369–95.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_14"></a>Förster, Eckart. 2012. <i><a href="https://doi.org/">The Twenty-Five Years of Philosophy: A Systematic Reconstruction</a></i>. Cambridge, MA: Harvard University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_15"></a>Guyer, Paul. 1993. <a href="https://doi.org/">“Thought and Being: Hegel’s Critique of Kant’s Theoretical Philosophy.</a>” In <i>Cambridge Companion to Hegel</i>, edited by Frederick C Beiser, 171–210. Cambridge: Cambridge University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_16"></a>Heis, Jeremy. 2013. <a href="https://doi.org/">“The Priority Principle from Kant to Frege.</a>” <i>Noûs</i> 48 (2): 268–97.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_17"></a>Hogan, Desmond. 2009. <a href="https://doi.org/">“Three Kinds of Rationalism and the Non-Spatiality of Things in Themselves.</a>” <i>Journal of the History of Philosophy</i> 47 (3): 355–82.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_18"></a>Houlgate, Stephen. 2015. <a href="https://doi.org/">“Hegel’s Critique of Kant.</a>” <i>Aristotelian Society Supplementary Volume</i> 89 (1): 21–41.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_19"></a>Kohl, Markus. 2015. “Kant on the Inapplicability of the Categories to Things in Themselves.” <i>British Journal for the History of Philosophy</i> 23 (1): 90–114. doi:<a href="https://doi.org/10.1080/09608788.2014.978838">10.1080/09608788.2014.978838</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_20"></a>Kreines, James. 2015. <i><a href="https://doi.org/">Reason in the World: Hegel’s Metaphysics and Its Philosophical Appeal</a></i>. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_21"></a>Longuenesse, Béatrice. 1998. <i><a href="https://doi.org/">Kant and the Capacity to Judge</a></i>. Princeton: Princeton University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_22"></a>———. 2001. <a href="https://doi.org/">“Kant’s Deconstruction of the Principle of Sufficient Reason.</a>” <i>The Harvard Review of Philosophy</i> 9 (1): 67–87.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_23"></a>Marshall, Colin. 2018. “Never Mind the Intuitive Intellect: Applying Kant’s Categories to Noumena.” <i>Kantian Review</i> 23 (1): 27–40. doi:<a href="https://doi.org/10.1017/S136941541700036X">10.1017/S136941541700036X</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_24"></a>McLear, Colin. 2015. <a href="https://doi.org/">“Two Kinds of Unity in the Critique of Pure Reason.</a>” <i>Journal of the History of Philosophy</i> 53 (1): 79–110.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_25"></a>———. 2016. <a href="https://doi.org/">“Kant on Perceptual Content.</a>” <i>Mind</i> 125 (497): 95–144.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_26"></a>———. 2020. <a href="https://doi.org/">“Apperception &#38; the Substantial Subject.</a>” <i>Philosophers’ Imprint</i> 20 (26): 1–38.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_27"></a>McLear, Colin, and Derk Pereboom. 0BC. <a href="https://doi.org/">“Kant on Transcendental Freedom, Priority Monism, &#38; the Structure of Intuition.</a>” In <i>The Idea of Freedom: New Essays on the Kantian Theory of Freedom</i>, edited by Evan Tiffany and Dai Heide. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_28"></a>Onof, Christian, and Dennis Schulting. 2015. <a href="https://doi.org/">“Space as Form of Intuition and as Formal Intuition. On the Note to B160 in Kant’s Critique of Pure Reason.</a>” <i>The Philosophical Review</i> 124 (1): 1–58.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_29"></a>Sedgwick, Sally. 2012. <i><a href="https://doi.org/">Hegel’s Critique of Kant</a></i>. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_30"></a>Smit, Houston. 2009. <a href="https://doi.org/">“Kant on Apriority and the Spontaneity of Cognition.</a>” In <i>Metaphysics and the Good: Themes from the Philosophy of Robert Adams</i>, edited by Samuel Newlands and Larry M. Jorgensen, 188–251. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_31"></a>Stang, Nicholas F. 2016. <i><a href="https://doi.org/">Kant’s Modal Metaphysics</a></i>. New York: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_32"></a>Tolley, Clinton. 2018. <a href="https://doi.org/">“Hegel’s Conception of Thinking in His Logics.</a>” In <i>Logic from Kant to Russell</i>, edited by Sandra Lapointe, 73–100. London: Routledge.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_33"></a>Vanzo, Alberto. 2008. “A Correspondence Theory of Objects? on Kant’s Notions of Object, Truth, and Actuality.” <i>History of Philosophy Quarterly</i> 25 (3): 259–75. doi:<a href="https://doi.org/10.2307/27745130">10.2307/27745130</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_34"></a>———. 2010. <a href="https://doi.org/">“Kant on the Nominal Definition of Truth.</a>” <i>Kant-Studien</i> 101 (2): 147–66.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_35"></a>———. 2018. <a href="https://doi.org/">“Leibniz on Innate Ideas and Kant on the Origin of the Categories.</a>” <i>Archiv Für Geschichte Der Philosophie</i> 100 (1): 19–45.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_36"></a>Westphal, Kenneth R. 2000. <a href="https://doi.org/">“Kant, Hegel, and the Fate of ``The’’ Intuitive Intellect.</a>” In <i>The Reception of Kant’s Critical Philosophy: Fichte, Schelling, and Hegel</i>, edited by Sally Sedgwick, 283–305. Cambridge: Cambridge University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_37"></a>Winegar, Reed. 2017. “Kant on God’s Intuitive Understanding: Interpreting CJ ?76’s Modal Claims.” <i>Kantian Review</i> 22 (2): 305–29. doi:<a href="https://doi.org/10.1017/S1369415417000061">10.1017/S1369415417000061</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_38"></a>———. 2018. “Kant on Intuitive Understanding and Things in Themselves.” <i>European Journal of Philosophy</i> 26 (4): 1238–52. doi:<a href="https://doi.org/10.1111/ejop.12320">10.1111/ejop.12320</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_39"></a>Wolff, Christian. 1720. <i><a href="https://doi.org/">Vernünfftige Gedancken von Gott, Der Welt Und Der Seele Des Menschen, Auch Allen Dingen Überhaupt</a></i>. Halle: Rengerischen Buchhandlung.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_40"></a>Yong, Peter. 2014. <a href="https://doi.org/">“God, Totality and Possibility in Kant’s Only Possible Argument.</a>” <i>Kantian Review</i> 19 (1): 27–51.</div>
 </div>
 
 [^fn:1]: See (<a href="#citeproc_bib_item_15">Guyer 1993, 187</a>) for one expression of bewilderment at Hegel&rsquo;s claim.
-[^fn:2]: See also B154, B137-138, and A162-163/B203--204.
-[^fn:3]: For discussion see (<a href="#citeproc_bib_item_4">Allison 1973</a>; <a href="#citeproc_bib_item_35">Vanzo 2018</a>). See also R4172 (1769--1770), 17:443; _Metaphysik L<sub>1</sub>_, 28:190, 233--234 (1777-80); _Metaphysik Mrongovius_, 29:762--763 (1782/3); _Metaphysik Volckmann_, 28:373--374 (1784/85).
+[^fn:2]: For discussion see (<a href="#citeproc_bib_item_4">Allison 1973</a>; <a href="#citeproc_bib_item_35">Vanzo 2018</a>). See also R4172 (1769--1770), 17:443; _Metaphysik L<sub>1</sub>_, 28:190, 233--234 (1777-80); _Metaphysik Mrongovius_, 29:762--763 (1782/3); _Metaphysik Volckmann_, 28:373--374 (1784/85).
+[^fn:3]: See also B154, B137-138, and A162-163/B203--204.
 [^fn:4]: For extensive defense of this view see (<a href="#citeproc_bib_item_21">Longuenesse 1998</a>; <a href="#citeproc_bib_item_12">Engstrom 2018</a>).
-[^fn:5]: For argument that Hegel misunderstands Kant on various fundamental issues see (<a href="#citeproc_bib_item_5">Ameriks 1985</a>, <a href="#citeproc_bib_item_6">2015</a>; <a href="#citeproc_bib_item_15">Guyer 1993</a>). For defense of Hegel against such criticism see (<a href="#citeproc_bib_item_9">Bristow 2007, chaps. 1-2</a>; <a href="#citeproc_bib_item_29">Sedgwick 2012, chap. 3</a>; <a href="#citeproc_bib_item_18">Houlgate 2015</a>; <a href="#citeproc_bib_item_20">Kreines 2015, chaps. 5.2</a>).
-[^fn:6]: See (<a href="#citeproc_bib_item_5">Ameriks 1985, 23–24</a>; <a href="#citeproc_bib_item_15">Guyer 1993, 187–89</a>) for a clear statement of this strategy; cf. (<a href="#citeproc_bib_item_6">Ameriks 2015, 51–52</a>). For criticism of this strategy see (<a href="#citeproc_bib_item_9">Bristow 2007, secs. 1.4</a>; <a href="#citeproc_bib_item_29">Sedgwick 2012, chap. 3</a>); cf. (<a href="#citeproc_bib_item_19">Kohl 2015, 98–100</a>).
+[^fn:5]: For argument that Hegel misunderstands Kant on various fundamental issues see (<a href="#citeproc_bib_item_5">Ameriks 1985</a>, <a href="#citeproc_bib_item_6">2015</a>; <a href="#citeproc_bib_item_15">Guyer 1993</a>). For defense of Hegel against such criticism see (<a href="#citeproc_bib_item_9">Bristow 2007, chaps. 1-2</a>; <a href="#citeproc_bib_item_29">Sedgwick 2012, chap. 3</a>; <a href="#citeproc_bib_item_18">Houlgate 2015</a>; <a href="#citeproc_bib_item_20">Kreines 2015, chap. 5.2</a>).
+[^fn:6]: See (<a href="#citeproc_bib_item_5">Ameriks 1985, 23–24</a>; <a href="#citeproc_bib_item_15">Guyer 1993, 187–89</a>) for a clear statement of this strategy; cf. (<a href="#citeproc_bib_item_6">Ameriks 2015, 51–52</a>). For criticism of this strategy see (<a href="#citeproc_bib_item_9">Bristow 2007, sec. 1.4</a>; <a href="#citeproc_bib_item_29">Sedgwick 2012, chap. 3</a>); cf. (<a href="#citeproc_bib_item_19">Kohl 2015, 98–100</a>).
 [^fn:7]: (<a href="#citeproc_bib_item_9">Bristow 2007, 43–44</a>) attempts to defend Hegel against precisely this charge by emphasizing Kant&rsquo;s claim that the pure categories are devoid of &ldquo;_Sinn und Bedeutung_&rdquo;, and thus cannot be meaningfully applied outside of sensory conditions (e.g. B149; A155/B194; A240/B299; B307--8); cf. (<a href="#citeproc_bib_item_19">Kohl 2015, 99–100</a>). But it is at least questionable whether Kant is making such a strong claim, and thus denying that the unschematized categories have any content, or whether he is merely making a point about their uselessness for _cognition_ (where cognition differs from thought) and positive substantive knowledge outside of the conditions for sensory experience. One virtue of the objection I attribute to Hegel is that, unlike these more standard interpretations of Kant, it allows Kant the point that pure categorial thought of reality is a coherent possibility on its own, while nevertheless showing that this possibility is incompatible with reality conceived as the object of intellectual intuition.
 [^fn:8]: See also (<a href="#citeproc_bib_item_34">Vanzo 2010, 148</a>).
 [^fn:9]: There has been some disagreement as to whether, given his idealism, Kant can and does endorse a view of truth in terms of agreement, conformity, or more broadly, &ldquo;correspondence&rdquo;, at all. For discussion and citation of the relevant debates see (<a href="#citeproc_bib_item_33">Vanzo 2008</a>, <a href="#citeproc_bib_item_34">2010</a>). Here I simply assume that it is coherent for Kant, despite his idealism, to endorse a view of truth in which object and cognition can conform, agree, or correspond.
@@ -742,7 +768,7 @@ through.
 [^fn:18]: I take it that Kohl (<a href="#citeproc_bib_item_19">Kohl 2015</a>) leaves this question unanswered, which leaves open the possibility of a straightforward way for Kant to sidestep the challenge, as evinced by (<a href="#citeproc_bib_item_31">Stang 2016, chap. 10</a>; <a href="#citeproc_bib_item_23">Marshall 2018</a>; <a href="#citeproc_bib_item_38">Winegar 2018</a>). But the problem is not simply the completeness of God&rsquo;s intuitive cognition, but rather also the way in which the categories must pick out _fundamental_ features of reality if they are to be in conformity with reality at all.
 [^fn:19]: Hegel thus holds that pure thought _is_ intellectual intuition (at least in one sense), and that the derivation of the categories thus begins from a consciousness that is indifferently characterized either as intuition or concept of being, which itself > is pure indeterminateness and emptiness. – There is nothing to be intuited > in it, if one can speak here of intuiting; or, it is only this pure empty > intuiting itself. Just as little is anything to be thought in it, or, it is > equally only this empty thinking. (SL59; 21.69)
 [^fn:20]: See also (<a href="#citeproc_bib_item_19">Kohl 2015, 100–101</a>).
-[^fn:21]: For discussion see (<a href="#citeproc_bib_item_10">Chignell 2007, 345–54</a>; see also <a href="#citeproc_bib_item_31">Stang 2016, secs. 9.6</a>).
+[^fn:21]: For discussion see (<a href="#citeproc_bib_item_10">Chignell 2007, 345–54</a>; see also <a href="#citeproc_bib_item_31">Stang 2016, sec. 9.6</a>).
 [^fn:22]: One might argue here that since it is epistemically possible that an intuitive intellect (i.e. God) does not exist, it is at least epistemically possible that our thought could be true of reality, since a reality without God might not have the features it would had an intuitive intellect existed (see (<a href="#citeproc_bib_item_38">Winegar 2018</a>) for defense of this kind of position). But Kant&rsquo;s problem here is that he sees finite beings as rationally committed on both theoretical and practical grounds to the existence of God, and that the existence of such a being would entail that our discursive thought cannot possibly be true of reality. This conflict between commitments holds whether or not God in fact exists.
 [^fn:23]: See (<a href="#citeproc_bib_item_18">Houlgate 2015</a>) for this kind of objection.
 [^fn:24]: Thanks to Kim Brewer for discussion concerning this point.
