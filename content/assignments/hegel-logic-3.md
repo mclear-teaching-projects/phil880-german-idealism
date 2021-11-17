@@ -17,6 +17,7 @@ Fichte&rsquo;s &ldquo;synthetic&rdquo; method as it appears in the _Foundations_
 -   Hegel: [Encyclopedia §§79-82](/materials/readings/hegel-el-dialectic.pdf)
 -   Notes: TBA
 -   Grads (pick one)
+    -   Forster, &ldquo;[Hegel&rsquo;s Dialectical Method](/materials/readings/forster-dialectic.pdf)&rdquo;
     -   Houlgate, &ldquo;[Logic and Ontology](/materials/readings/houlgate-ontology.pdf)&rdquo;
     -   Maybee, &ldquo;[Hegel&rsquo;s Dialectics](https://plato.stanford.edu/entries/hegel-dialectics/)&rdquo;
     -   Beiser, [Dialectic](/materials/readings/beiser-dialectic.pdf)
