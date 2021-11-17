@@ -12,6 +12,9 @@ We&rsquo;ll start looking at the basic details of Hegel&rsquo;s opening argument
 with further discussion of its method, and the similarities of that method to
 Fichte&rsquo;s &ldquo;synthetic&rdquo; method as it appears in the _Foundations_.
 
+
+## Readings {#readings}
+
 -   Fichte: [Excerpt from the _Foundations of the Entire Science of Knowledge_](/materials/readings/fichte-synthetic-method.pdf) (pp. 105-119)
 -   Hegel: [Being-Nothing-Becoming](/materials/readings/hegel-sl-quality.pdf)
 -   Hegel: [Encyclopedia §§79-82](/materials/readings/hegel-el-dialectic.pdf)
