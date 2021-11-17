@@ -1,0 +1,146 @@
+
+#+STARTUP: fnadjust
+#+TITLE: Logic & Dialectic
+#+DATE: PHIL 4/880\nbsp |\nbsp November 16, 2021
+#+AUTHOR: Colin McLear
+#+LATEX_COMPILER: xelatex
+#+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
+#+EXCLUDE_TAGS: noexport notes scrap todo
+#+OPTIONS: ':t toc:nil  H:2
+#+OPTIONS: prop:nil
+#+cite_export: csl chicago-author-date-16th-edition.csl
+
+* Hegel's Criticism of Kant
+
++ Hegel rejects Kant's derivation of the categories in two ways:
+   1. The specification of /which/ concepts designate or express categories is
+      historical/empirical/unscientific -- a science of logic must be /presuppositionless/
+
+      #+begin_quote
+      Logic, on the contrary, cannot presuppose any of these forms of
+      reflection, these rules and laws of thinking, for they are part of its
+      content and they first have to be established within it (SL 23; 21:27)
+      #+end_quote
+
+   2. The origin/derivation/basis of the categories results in a kind of
+      subjectivism or skepticism
+      
+      #+begin_quote
+      The /critique of the forms of the understanding/ [i.e. the categories] has
+      arrived precisely at this result, namely that such forms do /not apply to
+      things in themselves/. This can only mean that they are in themselves
+      something untrue. (SL 26; 21:30)
+      #+end_quote
+
+
+
+** Which Categories?
+- Hegel's position suggests that he thinks Kant faces a dilemma:
+   1. The reflected nature of the categories is merely historical in its
+      reception of commonly accepted logical forms
+   2. The reflected nature of the categories is experiential in that it
+      requires a kind of intellectual experience of acts of the mind to which
+      one attends and then from which one abstracts to form the relevant concepts
+
+** On What Basis? 
+
+- Hegel's second criticism concerns the /origin/ of the categories in the
+  subject's judgmental activity
+
+  #+begin_quote
+  When Kant in the /Critique of Pure Reason/ (p. 83)[A58/B82], in connection
+  with logic comes to discuss the old and famous question: /What is truth/?, he
+  starts by /passing off/ as a triviality the nominal definition that it is the
+  agreement of cognition with its subject matter – a definition which is of
+  great, indeed of supreme value. If we recall this definition together with
+  the fundamental thesis of transcendental idealism, namely that /rational
+  cognition/ is incapable of comprehending /things in themselves/, that /reality/
+  lies /absolutely/ outside /the concept/, it is then at once evident that such a
+  /reason/, one which is incapable of /setting itself in agreement/ with its
+  subject matter, and the /things in themselves/, such as are not in agreement
+  with the rational concept – a concept that does not agree with reality and a
+  reality that does not agree with the concept – that these are /untrue
+  conceptions/. If Kant had measured the idea of an /intuitive understanding/
+  against that first definition of truth, he would have treated that idea
+  which expresses the required agreement, not as a figment of thought but
+  rather as truth. (SL 523; 12:26)
+  #+end_quote
+
+   - This is an objection to Kant's position that is /internal/ or "immanent" to
+     Kant's position itself
+   - Relies on Kant's twin commitments regarding truth as agreement &
+     God's intuitive intellect
+      + The problem: the conception of the intuitive intellect entails that
+        our categories may not apply to being as it fundamentally is (i.e. that
+        the categories aren't really categories of /being/ but rather merely
+        being for /us/)
+
+
+** Reconstructing Hegel's Argument
+
+1.  God's intuitive intellect represents non-discursively, and thus
+    non-categorially (definition)
+2.  God's intellectual intuition is in total/absolute/perfect agreement
+    with its object (definition)
+3.  \therefore God's non-categorial intellectual intuition constitutes an ultimate
+   standard for truth (as agreement of a representation with its object) (1-2)
+4.  God's intellect perfectly comprehends all things from their grounds
+    (definition)
+5.  \therefore God truly or perfectly accurately /non/-categorially represents what is
+   metaphysically fundamental about all things (3-4)
+6.  If (5) then it is possible that the intuited ways of being are not
+    identical to those ways of being picked out by the discursive
+    categories (assumption)
+7.  \therefore It is possible that the categories, even when applied correctly, do not
+   pick out the necessarily fundamental ways of being (5, 6)
+8.  It cannot be possible that the categories, when correctly applied, do not
+   pick out the necessarily fundamental ways of being (assumption)
+9.  Contradiction (7, 8)
+10. Therefore ...
+
+
+* Hegel & Method
+
+** Does the Logic Have a Method?
+
+- Hegel rejects any presupposition with respect to the /Logic/ (SL48/21:56), but
+  he also argues that it must have a method that is fit for its content.
+
+  #+begin_quote
+  I know that it is the one and only true method. This is made obvious by the
+  very fact that this method is not something distinct from its subject matter
+  and content – for it is the content in itself, the dialectic which it
+  possesses within itself, which moves the subject matter forward. (SL 33/21:38)
+  #+end_quote
+
+
+- Forster's characterization of the "dialectical method":
+
+#+begin_quote
+  Beginning from a category A, Hegel seeks to show that upon conceptual
+  analysis, category A proves to contain a /contrary/ category, B, and
+  conversely that category B proves to contain category A, thus showing both
+  categories to be self-contradictory. He then seeks to show that this
+  negative result has a positive outcome, a new category, C (sometimes
+  referred to as the "negative of the negative" or the "determinate
+  negation"). This new category unites - as Hegel puts it - the preceding
+  categories A and B. That is to say, when analyzed the new category is found
+  to contain them both. But it unites them in such a way that they are not
+  only preserved but also abolished (to use Hegel's term of art for this
+  paradoxical-sounding process, they are /aufgehoben/). That is to say, they are
+  preserved or contained in the new category only with their original senses
+  modified. This modification of their senses renders them no longer
+  self-contradictory (and not a source of self-contradiction in the new
+  category that contains them both). That is because it renders them no longer
+  contraries, and therefore no longer self-contradictory in virtue of their
+  reciprocal containment. At this point, one level of the dialectic has been
+  completed, and we pass to a new level where category C plays the role that
+  was formerly played by category A.1* And so on. Hegel understand each step
+  of this whole process to be necessary.
+#+end_quote
+
+
+** Two Features of Thought
+
+- Thought "moves"
+- Thought is "dialectical" or self-contradictory
