@@ -18,7 +18,7 @@ Fichte&rsquo;s &ldquo;synthetic&rdquo; method as it appears in the _Foundations_
 -   Fichte: [Excerpt from the _Foundations of the Entire Science of Knowledge_](/materials/readings/fichte-synthetic-method.pdf) (pp. 105-119)
 -   Hegel: [Being-Nothing-Becoming](/materials/readings/hegel-sl-quality.pdf)
 -   Hegel: [Encyclopedia §§79-82](/materials/readings/hegel-el-dialectic.pdf)
--   Notes: TBA
+-   Notes: [Dialectic: Subjective & Objective]({{< relref "week-14-hegel-dialectic-2" >}}) ([PDF](/materials/handouts/week-14-hegel-dialectic-2.pdf))
 -   Grads (pick one)
     -   Forster, &ldquo;[Hegel&rsquo;s Dialectical Method](/materials/readings/forster-dialectic.pdf)&rdquo;
     -   Houlgate, &ldquo;[Logic and Ontology](/materials/readings/houlgate-ontology.pdf)&rdquo;
