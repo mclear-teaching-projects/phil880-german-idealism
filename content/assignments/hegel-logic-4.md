@@ -10,7 +10,7 @@ type = "post"
 
 In this, our last week, we&rsquo;ll wrap up our discussion of Hegel. We&rsquo;ll look at
 the argument of the opening section in some detail, as well as discuss
-different approaches to the overall interpretation of the _Logic_
+different approaches to the overall interpretation of the _Logic_.
 
 
 ## Readings {#readings}
