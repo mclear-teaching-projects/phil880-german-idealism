@@ -8,8 +8,12 @@ toc = false
 type = "post"
 +++
 
--   Hegel: Being-Nothing-Becoming (once more!)
--   Hegel: EL [§§84-8](/materials/readings/hegel-el-being.pdf); (Optional: EL [§§19-25](/materials/readings/hegel-EL-19-25.pdf))
+## Readings {#readings}
+
+-   Hegel:
+    -   Being-Nothing-Becoming (once more!)
+    -   EL [§§84-8](/materials/readings/hegel-el-being.pdf)
+    -   (Optional): EL [§§19-25](/materials/readings/hegel-EL-19-25.pdf)
 -   Notes: TBA
 -   Grads (pick one)
     -   Tolley, &ldquo;[Hegel&rsquo;s Conception of Thinking in his Logics](/materials/readings/tolley-thinking.pdf)&rdquo;
