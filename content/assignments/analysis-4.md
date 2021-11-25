@@ -9,7 +9,7 @@ type = "post"
 +++
 
 Choose from **one** of the two provided passages. In no more than 500 words describe
-Schelling&rsquo;s argument or point in the passage in as plain English as possible (e.g.
+Hegel&rsquo;s argument or point in the passage in as plain English as possible (e.g.
 imagine you&rsquo;re explaining it to a non-philosophy major). The is due via [email](mailto:mclear@unl.edu) Friday,
 December 3^rd, by 5 p.m.
 
