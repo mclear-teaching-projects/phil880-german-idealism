@@ -21,7 +21,8 @@ different approaches to the overall interpretation of the _Logic_.
     -   (Optional): EL [§§19-25](/materials/readings/hegel-EL-19-25.pdf)
 -   Notes: TBA
 -   Grads (pick one)
-    -   Tolley, &ldquo;[Hegel&rsquo;s Conception of Thinking in his Logics](/materials/readings/tolley-thinking.pdf)&rdquo;
-    -   Bowman, &ldquo;[Self-Determination and Ideality in Hegel’s Logic of Being](/materials/readings/bowman-logic-quality.pdf)&rdquo;
-    -   Pippin, &ldquo;[Hegel on Logic as Metaphysics](/materials/readings/pippin-logic-metaphysics.pdf)&rdquo;
     -   Beiser, &ldquo;[Hegel, A Non-Metaphysician?](/materials/readings/beiser-hegel-metaphysics.pdf)&rdquo;
+    -   Bowman, &ldquo;[Self-Determination and Ideality in Hegel’s Logic of Being](/materials/readings/bowman-logic-quality.pdf)&rdquo;
+    -   Houlgate, &ldquo;[Houlgate, commentary on Being-Nothing-Becoming](/materials/readings/houlgate-being-commentary.pdf)&rdquo;
+    -   Pippin, &ldquo;[Hegel on Logic as Metaphysics](/materials/readings/pippin-logic-metaphysics.pdf)&rdquo;
+    -   Tolley, &ldquo;[Hegel&rsquo;s Conception of Thinking in his Logics](/materials/readings/tolley-thinking.pdf)&rdquo;
