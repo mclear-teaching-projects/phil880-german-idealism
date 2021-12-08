@@ -19,7 +19,7 @@ different approaches to the overall interpretation of the _Logic_.
     -   Being-Nothing-Becoming (once more!)
     -   EL [§§84-8](/materials/readings/hegel-el-being.pdf)
     -   (Optional): EL [§§19-25](/materials/readings/hegel-EL-19-25.pdf)
--   Notes: TBA
+-   Notes: [The Categories of Quality ]({{< relref "week-15-hegel-dialectic-3" >}})([PDF](/materials/handouts/week-15-hegel-dialectic-3.pdf))
 -   Grads (pick one)
     -   Beiser, &ldquo;[Hegel, A Non-Metaphysician?](/materials/readings/beiser-hegel-metaphysics.pdf)&rdquo;
     -   Bowman, &ldquo;[Self-Determination and Ideality in Hegel’s Logic of Being](/materials/readings/bowman-logic-quality.pdf)&rdquo;
