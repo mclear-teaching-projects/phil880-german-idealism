@@ -32,9 +32,9 @@ type = "post"
 ## <span class="section-num">1</span> Overview of the Categories of Determinateness (Quality) {#overview-of-the-categories-of-determinateness--quality}
 
 The categories of determinateness (_Bestimmtheit_) or quality (_Qualität_) are
-three -- <being>, <existence>, and <being-for-itself>. This contrasts with
-Kant&rsquo;s characterization of quality as consisting of <reality>, <negation>, and
-<limitation>. It&rsquo;s interesting that Hegel begins with quality, as Kant (in the
+three -- `<being>`, `<existence>`, and `<being-for-itself>`. This contrasts with
+Kant&rsquo;s characterization of quality as consisting of `<reality>`, `<negation>`, and
+`<limitation>`. It&rsquo;s interesting that Hegel begins with quality, as Kant (in the
 Principles) begins with discussion of quantity.[^fn:1] The categories of
 quality are:
 
@@ -48,8 +48,8 @@ quality are:
     -   One-many
     -   Repulsion-attraction
 
-Within each of these are various further determinations, such as <quality>,
-<reality>, <negation>, <something>, <limit>, etc.
+Within each of these are various further determinations, such as `<quality>`,
+`<reality>`, `<negation>`, `<something>`, `<limit>`, etc.
 
 Why this structure rather than some other? Hegel&rsquo;s answer must be that this
 structure (or path) is necessary, and it is necessary because it follows
@@ -79,7 +79,7 @@ being as such, rather than an external relation _to_ it (quantity).
 
 ### <span class="section-num">2.1</span> Starting Points {#starting-points}
 
-Why start with <being>?
+Why start with `<being>`?
 
 > the beginning ought not itself to be already a first _and_ an other, for
 > anything which is in itself a first _and_ an other implies that an advance
@@ -90,8 +90,8 @@ Why start with <being>?
 
 Hegel&rsquo;s claim is that we must begin with that which is wholly immediate, and
 hence not mediated by anything else. In this sense then it seems the reasons
-to start with quality are the same as those for starting with <being>, though
-there is a sense in which Hegel could also have started from <nothing>, since
+to start with quality are the same as those for starting with `<being>=`, though
+there is a sense in which Hegel could also have started from <nothing>==, since
 it is equally immediate. This also raises an important question -- are we to
 read the opening of the _Logic_ as answering the question as to why there is
 something rather than nothing? For example, Houlgate takes Hegel to provide a
@@ -102,10 +102,10 @@ straightforward answer to this:
 > being’s irreducible determinacy in turn proves to be something.[^fn:2]
 
 However, this strikes me as somewhat misleading. Hegel does not _start_ with
-<nothing>, rather he starts with <being> and shows that _that_ &ldquo;slides into&rdquo;
-(or vanishes into) <nothing> and vice versa. So there seems rather to be a
+`<nothing>`, rather he starts with `<being>` and shows that _that_ &ldquo;slides into&rdquo;
+(or vanishes into) `<nothing>` and vice versa. So there seems rather to be a
 kind of priority to <being>, even if it is identical (in some sense) with
-<nothing>.
+`<nothing>`.
 
 Another option is to read Hegel as starting with a fact, or perhaps more
 in line with Fichte, with a &ldquo;fact-act&rdquo; (_Tathandlung_)---viz. the act of
@@ -218,7 +218,7 @@ about our thought of being and of nothing (or the concepts thereof). That is,
 in thinking of being we turn out to be thinking of nothing and vice versa. If
 we took this thought of being, which ultimately turns to nothing, as a kind of
 independent content then we would be making a mistake. Similarly for the
-thought of nothing. It turns out that in treating <being> and <nothing> as
+thought of nothing. It turns out that in treating `<being>` and `<nothing>` as
 distinct and independent concepts we are faced with a contradiction, the
 resolution of which requires situating these concepts with respect to some
 more determinate concept in which they are no longer opposed.
@@ -236,10 +236,10 @@ Hegel sums up this (surprising?) claim of identity and difference by saying that
 >     in which the two are distinguished, but by a distinction which has just
 >     as immediately dissolved itself (SL 59-60/21:69-70).
 
-According to Hegel, to think <being> or <nothing> is not to think some
+According to Hegel, to think `<being>` or `<nothing>` is not to think some
 determinate independent content, nor is it a kind of independent _being_ (or
 nonbeing). To think so is to think merely as our &ldquo;understanding&rdquo; would have
-things. Instead there is a more determinate content---<becoming>---that is the
+things. Instead there is a more determinate content---`<becoming>`---that is the
 thought of coming to be and passing away.
 
 
@@ -251,7 +251,7 @@ thought of coming to be and passing away.
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Pippin, Robert B. 1989. <i>Hegel’s Idealism: The Satisfactions of Self-Consciousness</i>. Cambridge: Cambridge University Press.</div>
 </div>
 
-[^fn:1]: Perhaps this is because _Fichte_ also begins his derivation of the categories with quality (specifically, <reality>)?
+[^fn:1]: Perhaps this is because _Fichte_ also begins his derivation of the categories with quality (specifically, `<reality>`)?
 [^fn:2]: (<a href="#citeproc_bib_item_2">Houlgate 2006, 313</a>).
 [^fn:3]: We might even just want to say that the _Logic_ begins with <is> itself---or what is the same---with the activity of thought, which is an activity of connection captured in the copula. So in this sense we are both identifying thought with being and capturing the basic feature of thought as such---i.e. as a connection that signifies being. For a discussion of the categories of quality as a development of Kant&rsquo;s conception of thinking see (<a href="#citeproc_bib_item_3">Pippin 1989</a>; <a href="#citeproc_bib_item_1">Bowman 2017</a>).
 [^fn:4]: (<a href="#citeproc_bib_item_2">Houlgate 2006, 32</a>).
