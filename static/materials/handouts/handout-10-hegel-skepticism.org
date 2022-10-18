@@ -135,56 +135,36 @@ Hegel's three claims:
 1. Natural consciousness is dialectical
 
    #+begin_quote
-     the exposition of non-truthful consciousness in its untruth is not a merely
-     /negative/ movement. Such a one-sided view is what natural consciousness generally
-     has of it; and a knowing which makes this one-sidedness into its essence is one
-     of the shapes of incomplete consciousness which lies within the course of the
-     path itself and which will serve itself up in that path. That is, such a
-     one-sided view is the skepticism which sees in the result always only /pure
-     nothing/ and which abstracts from the fact that this nothing is determinately the
-     nothing /of that from which it results/. However, only when taken as the nothing
-     of that from which it emerges is the nothing in fact the true result; thus it is
-     itself a /determinate/ nothing and it has a /content/. Skepticism which ends with
-     the abstraction of nothingness or emptiness cannot progress any further from
-     this point, but must instead wait to see whether something new will present
-     itself and what it will be, in order that it can also toss it into the same
-     empty abyss. By contrast, while the result is grasped as it is in truth, as
-     /determinate/ negation, a new form has thereby immediately arisen, and in the
-     negation, the transition is made whereby the progression through the complete
-     series of shapes comes about on its own accord. (PS 2:57, §79)
+the exposition of non-truthful consciousness in its untruth is not a merely
+/negative/ movement. Such a one-sided view is what natural consciousness generally
+has of it; and a knowing which makes this one-sidedness into its essence is one
+of the shapes of incomplete consciousness which lies within the course of the
+path itself and which will serve itself up in that path. That is, such a
+one-sided view is the skepticism which sees in the result always only /pure
+nothing/ and which abstracts from the fact that this nothing is determinately the
+nothing /of that from which it results/. However, only when taken as the nothing
+of that from which it emerges is the nothing in fact the true result; thus it is
+itself a /determinate/ nothing and it has a /content/. Skepticism which ends with
+the abstraction of nothingness or emptiness cannot progress any further from
+this point, but must instead wait to see whether something new will present
+itself and what it will be, in order that it can also toss it into the same
+empty abyss. By contrast, while the result is grasped as it is in truth, as
+/determinate/ negation, a new form has thereby immediately arisen, and in the
+negation, the transition is made whereby the progression through the complete
+series of shapes comes about on its own accord. (PS 2:57, §79)
    #+end_quote
 
 2. There are a succession of different forms or shapes of consciousness
 
    #+begin_quote
-     because this exposition has for its object only knowing as it appears, it does
-     not itself seem to be the science which is free and self-moving within its own
-     proper shape, but from this standpoint can instead be taken to be the path of
-     natural consciousness pressing forward towards true knowing, or it can be taken
-     to be the path of the soul wandering through the series of ways it takes shape,
-     as if these were stations put forward in advance to it by its own nature, so
-     that it purifies itself into spirit by arriving at a cognition of what it is in
-     itself through the complete experience of its own self. (PS 2:55, §77)
+because this exposition has for its object only knowing as it appears, it does not itself seem to be the science which is free and self-moving within its own proper shape, but from this standpoint can instead be taken to be the path of natural consciousness pressing forward towards true knowing, or it can be taken to be the path of the soul wandering through the series of ways it takes shape, as if these were stations put forward in advance to it by its own nature, so that it purifies itself into spirit by arriving at a cognition of what it is in itself through the complete experience of its own self. (PS 2:55, §77)
    #+end_quote
  
 3. There is a terminus to the succession of different shapes of consciousness in
    "absolute knowing' 
 
    #+begin_quote
-     Natural consciousness will prove to be only the concept of knowing, or it will
-     prove to be not real knowing. But while it immediately regards itself rather as
-     real knowing, this path has negative meaning for it, and what is the realization
-     of the concept will count instead, to it, as the loss of itself, for on this
-     path, it loses its truth. This path can accordingly be regarded as the path of
-     /doubt/, or, more properly, as the path of despair; on this path, what happens is
-     not what is customarily understood as doubt, a shaking of this or that supposed
-     truth, followed by the disappearance again of the doubt, and then a return to
-     the former truth so that in the end the thing at issue is taken as it was
-     before. Rather, this path is the conscious insight into the untruth of knowing
-     as it appears, a knowing for which that which is the most real is rather in
-     truth only the unrealized concept. ... The series of the figurations of
-     consciousness which consciousness traverses on this path is the full history of
-     the /cultivation/ of consciousness itself into science. (PS 2:56, §78)
+Natural consciousness will prove to be only the concept of knowing, or it will prove to be not real knowing. But while it immediately regards itself rather as real knowing, this path has negative meaning for it, and what is the realization of the concept will count instead, to it, as the loss of itself, for on this path, it loses its truth. This path can accordingly be regarded as the path of /doubt/, or, more properly, as the path of despair; on this path, what happens is not what is customarily understood as doubt, a shaking of this or that supposed truth, followed by the disappearance again of the doubt, and then a return to the former truth so that in the end the thing at issue is taken as it was before. Rather, this path is the conscious insight into the untruth of knowing as it appears, a knowing for which that which is the most real is rather in truth only the unrealized concept. ... The series of the figurations of consciousness which consciousness traverses on this path is the full history of the /cultivation/ of consciousness itself into science. (PS 2:56, §78)
    #+end_quote
 
 
